@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.footer {
+	padding: 4em 0 4em 0;
+	background: black;
+	color: white;
+	text-align: justify;
+	font-size: 0.75em;
+	line-height: 1.5em;
+}
+
+main {
+  width: 1024px;
+  padding: 12px;
+  margin: auto;
+}
+
+header {
+  
+}
+
+section {
+}
