@@ -72,5 +72,9 @@ p {
 
 .site-button>img {
   border-radius: 19px;
-  box-shadow: 0 0 6px 0 black;
+  box-shadow: 0 0 6px 0 #666;
+}
+
+.poetry {
+  color: transparent;
 }
