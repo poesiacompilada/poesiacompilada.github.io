@@ -1,6 +1,8 @@
 body {
   margin: 0;
   font-family: sans-serif;
+  font-size: 26px;
+  color: #444;
 }
 
 .footer {
@@ -18,9 +20,57 @@ main {
   margin: auto;
 }
 
-header {
-  
+.header {
 }
 
 section {
+  background: #ddd;
+  padding: 12px;
+  border-radius: 18px;
+}
+
+.time {
+  font-size: 0.75em;
+
+  padding: 6px;
+
+  float: right;
+
+  height: 32px;
+}
+
+.timestamp {
+  float: right;
+  margin-right: 6px;
+  margin-top: 4px;
+}
+
+.timeimage {
+  float: right;
+}
+
+p {
+  text-align: justify;
+  text-indent: 1em;
+}
+
+.page {
+  width: 1024px;
+  padding: 12px;
+  margin: auto;
+}
+
+.face {
+  border-radius: 18px;
+}
+
+.site-button {
+  position: fixed;
+  top: 12px;
+  right: 12px;
+}
+
+.site-button>img {
+  border-radius: 19px;
+  box-shadow: 0 0 6px 0 black;
 }
