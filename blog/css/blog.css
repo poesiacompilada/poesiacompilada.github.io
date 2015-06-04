@@ -16,6 +16,7 @@ img {
 
 .facelike {
   position: absolute;
+  width: 300px;
   right: 128px;
   top: 4px;
 }
