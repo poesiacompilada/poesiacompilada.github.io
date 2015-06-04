@@ -5,6 +5,22 @@ body {
   color: #444;
 }
 
+pre {
+	white-space: pre-wrap;
+}
+
+img {
+	box-shadow: 0 0 6px 0 #666;
+	border-radius: 19px;
+}
+
+.category {
+	position: relative;
+	width: 128px;
+	left: 50%;
+	margin-left: -64px;
+}
+
 .footer {
 	padding: 4em 0 4em 0;
 	background: black;
@@ -27,6 +43,9 @@ section {
   background: #ddd;
   padding: 12px;
   border-radius: 18px;
+
+  box-shadow: 0 0 6px 0 #666;
+  margin-bottom: 4em;
 }
 
 .time {
@@ -75,6 +94,16 @@ p {
   box-shadow: 0 0 6px 0 #666;
 }
 
-.poetry {
+.poetry, pre {
   color: transparent;
+}
+
+pre {
+	padding: 6px;
+	background: #444;
+	background: #272822;
+	border-radius: 4px;
+	box-shadow: 0 0 6px 0 black inset;
+	margin: auto;
+	line-height: 1em;
 }

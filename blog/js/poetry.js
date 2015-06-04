@@ -279,4 +279,10 @@ window.onload = function () {
 	for (i in poetry) {
 		poetryjs.process(poetry[i]);
 	}
+
+	poetry = document.getElementsByTagName("code");
+
+	for (i in poetry) {
+		poetryjs.process(poetry[i]);
+	}
 }
