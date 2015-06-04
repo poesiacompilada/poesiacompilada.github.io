@@ -14,6 +14,27 @@ img {
 	border-radius: 19px;
 }
 
+.fb-like {
+  float: right;
+  margin-right: 128px;
+}
+
+.blogtitle {
+  font-size: 2em;
+}
+
+.barlogo {
+  float: left;
+  box-shadow: none;
+}
+
+.facebar {
+  background: #7e0330;
+  background: linear-gradient(to top, #7e0330, #8e1040);
+  height: 64px;
+  width: 100%;
+}
+
 .category {
 	position: relative;
 	width: 128px;
