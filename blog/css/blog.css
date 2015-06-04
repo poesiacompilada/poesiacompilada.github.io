@@ -66,6 +66,15 @@ section {
 
 .timeimage {
   float: right;
+  box-shadow: none;
+}
+
+.link {
+	float: right;
+}
+
+.link>img {
+	box-shadow: none;
 }
 
 p {
