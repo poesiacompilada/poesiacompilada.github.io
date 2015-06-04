@@ -17,6 +17,7 @@ img {
 .fb-like {
   float: right;
   margin-right: 128px;
+  margin-top: -58px;
 }
 
 .blogtitle {
