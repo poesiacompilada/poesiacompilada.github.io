@@ -15,7 +15,7 @@ img {
 }
 
 .fb-like {
-  position: relative;
+  position: absolute;
   right: 128px;
   top: 4px;
 }
