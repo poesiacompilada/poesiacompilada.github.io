@@ -1,0 +1,286 @@
+<!doctype HTML>
+
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Poetando</title>
+		<style type="text/css" media="screen">
+			body {
+				font-size: 26px;
+				margin: 0;
+				overflow: hidden;
+			}
+
+			#window {
+				position: absolute;
+				right: 0;
+				left: 0;
+				bottom: 0;
+				top: 0;
+			}
+
+			#sidebar {
+				width: 64px;
+				float: left;
+				height: 100%;
+
+				background: #878882;
+			}
+
+			#view {
+				left: 64px;
+				right: 0;
+				height: 100%;
+				position: absolute;
+			}
+
+			#editor {
+				position: absolute;
+				top: 0;
+				bottom: 0;
+				left: 0;
+				width: 50%;
+			}
+
+			#poem {
+				position: absolute;
+				top: 0;
+				bottom: 0;
+				right: 0;
+				width: 50%;
+
+				background: #272822;
+			}
+
+			.button {
+				margin: 2px;
+			}
+
+			.button:hover {
+				cursor: pointer;
+			}
+
+			.button:active {
+				border: 1px solid transparent;
+			}
+
+			.d-title {
+				font-size: 26px;
+				color: #333;
+			}
+
+			.d-buttonl {
+				background: #fff;
+
+				color: #666;
+				border-radius: 6px;
+				box-shadow: 0 0 2px 0 #555;
+
+				position: absolute;
+				left: 6px;
+				bottom: 6px;
+
+				padding: 12px;
+			}
+
+			.d-buttonr {
+				background: #fff;
+
+				color: #666;
+				border-radius: 6px;
+				box-shadow: 0 0 2px 0 #555;
+
+				position: absolute;
+				right: 6px;
+				bottom: 6px;
+
+				padding: 12px;
+			}
+
+			.d-buttonr:hover {
+				cursor: pointer;
+			}
+
+			.d-buttonl:hover {
+				cursor: pointer;
+			}
+
+			.d-buttonr:active {
+				background: #9f9;
+			}
+
+			.d-buttonl:active {
+				background: #9f9;
+			}
+
+			#dialog {
+				z-index: 100;
+
+				background: #fed;
+				color: #999;
+
+				text-align: center;
+				padding: 12px;
+
+				font-family: sans-serif;
+				font-size: 18px;
+
+				position: absolute;
+
+				width: 300px;
+				height: 128px;
+
+				border-radius: 6px;
+				box-shadow: 0 0 6px 0 black;
+
+				left: -200px;
+				top: 50%;
+
+				margin-left: -150px;
+				margin-top: -64px;
+			}
+		</style>
+
+		<script src="js/poetry.js" type="text/javascript"></script>
+		<script src="js/jquery.js" type="text/javascript"></script>
+	</head>
+
+	<body>
+		<div id="window">
+			<div id="sidebar">
+				<!-- Color it -->
+				<div class="button" onclick="askColorType()">
+					<img src="img/code.png" width=60 height=60>
+				</div>
+			</div>
+
+			<div id="view">
+				<!-- Write Poetry here -->
+				<div id="editor"></div>
+				<!-- See it here -->
+				<pre>
+					<code id="poem">
+					</code>
+				</pre>
+			</div>
+		</div>
+
+		<div id="dialog">
+			<div class="d-title">Adicionar Cor</div>
+
+			Você quer adicionar cor à:
+
+			<div class="d-buttonl" onclick="colorize(false);">Esta</div>
+			<div class="d-buttonr" onclick="colorize(true);">Todas</div>
+		</div>
+
+		<script src="ace-builds/src/ace.js" type="text/javascript"></script>
+		<script type="text/javascript">
+			var colorInformation = [];
+			var editor = ace.edit("editor");
+			editor.setTheme("ace/theme/monokai");
+			editor.getSession().setMode("ace/mode/poetry");
+			editor.setFontSize(26);
+			editor.getSession().setUseWrapMode(true);
+
+			editor.on('insert', function () {
+			});
+
+			editor.selection.on('changeCursor', function(e) {
+				var element = document.getElementById("poem");
+				var code = editor.getValue();
+
+				//code = code.replace (/\</g, '&lt;');
+				//code = code.replace (/\>/g, '&gt;');
+
+				element.innerHTML = putColors(code);
+
+				//console.log (editor.selection.getCursor());
+				//console.log (editor.selection.getRange());
+			});
+
+			function askColorType () {
+				$("#dialog").animate({left: "50%"}, 300);
+			}
+
+			function closeDialog () {
+				$("#dialog").animate({left: "-200px"}, 300);
+			}
+
+			function toOffset (position, code) {
+				var offset = 0;
+				var row = 0;
+				var i = 0;
+
+				while (row < position.row && i < code.length) {
+					if (code[i++] == '\n')
+						row++;
+
+					offset++;
+				}
+
+				return offset + position.column;
+			}
+
+			function colorize (type) {
+				closeDialog();
+
+				var text = editor.session.getTextRange(editor.getSelectionRange());
+
+				// Colorize ALL text occurences
+				if (type) {
+
+				}
+				// Colorize just the currently selected occurence
+				else {
+					var code = editor.getValue();
+					var range = editor.selection.getRange();
+					var start = toOffset(range.start, code);
+					var end = toOffset(range.end, code);
+
+					for (i in colorInformation) {
+						var info = colorInformation[i];
+
+						if (info.start > start) {
+							colorInformation.splice (i, 0, {
+								start: start,
+								end: end
+							});
+
+							start = -1;
+
+							break;
+						}
+					}
+
+					if (start >= 0) {
+						colorInformation.push ({
+							start: start,
+							end: end
+						});
+					}
+
+					// REPLACE THE < and > characters!
+
+					var element = document.getElementById("poem");
+					element.innerHTML = putColors(code);
+				}
+			}
+
+			function putColors (code) {
+				var a = "<span style='color: "+'red'+";'>";
+				var b = "</span>"
+
+				for (i in colorInformation) {
+					var offset = (a.length+b.length)*i;
+					var info = colorInformation[i];
+
+					code = code.insert(info.start+offset, a);
+					code = code.insert(info.end+offset+a.length, b);
+				}
+
+				return code;
+			}
+		</script>
+	</body>
+</html>
