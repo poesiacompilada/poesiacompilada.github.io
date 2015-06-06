@@ -31,6 +31,12 @@ img {
 	border-radius: 19px;
 }
 
+.nostyle {
+  color: none;
+  background: none;
+  text-decoration: none;
+}
+
 .facepostlike {
   float: right;
   width: 150px;
