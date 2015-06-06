@@ -3,7 +3,8 @@ body {
   font-family: sans-serif;
   font-size: 26px;
   color: #444;
-  min-width: 1024px;
+  min-width: 1048px;
+  position: relative;
 }
 
 a {
@@ -154,7 +155,7 @@ p {
 }
 
 .site-button {
-  position: fixed;
+  position: absolute;
   top: 12px;
   right: 12px;
   z-index: 10;
