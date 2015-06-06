@@ -5,8 +5,25 @@ body {
   color: #444;
 }
 
+a {
+	color: #862;
+}
+
+blockquote {
+  border-left: 6px solid #bbb;
+  padding-left: 2em;
+}
+
 pre {
 	white-space: pre-wrap;
+}
+
+section>p>img {
+  box-shadow: 0 0 2px 0 #666;
+	border-radius: 4px;
+  width: 954px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 img {
@@ -81,6 +98,8 @@ section {
 
   box-shadow: 0 0 6px 0 #666;
   margin-bottom: 4em;
+
+  font-size: 1em;
 }
 
 .time {
