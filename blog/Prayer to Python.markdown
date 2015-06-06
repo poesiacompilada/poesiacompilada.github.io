@@ -17,5 +17,5 @@
     It really has
     Antidote.
 
-    #[S.R. ~D.A.]
+    #[S.R. ~ D.A.]
     #Compiled Poetry
