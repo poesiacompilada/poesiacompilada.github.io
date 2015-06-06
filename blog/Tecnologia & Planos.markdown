@@ -1,5 +1,5 @@
 ~felipe
-@05 de junho às 00:00
+@06 de junho às 00:00
 
 Aposto que tem muita gente curiosa para saber como tudo isso funciona: o site,
 o blog... as cores! Vou tentar responder a estas perguntas, se eu deixar alguma
