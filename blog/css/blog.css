@@ -68,7 +68,7 @@ img {
 
 .facebar {
   background: #7e0330;
-  background: linear-gradient(to top, #7e0330, #8e1040);
+  background: linear-gradient(to top, #7e0330, #9e2040);
   height: 64px;
   width: 100%;
   margin-bottom: 4em;
@@ -100,11 +100,11 @@ main {
 }
 
 section {
-  background: #ddd;
+  background: #eee;
   padding: 12px;
-  border-radius: 18px;
+  border-radius: 4px;
 
-  box-shadow: 0 0 6px 0 #666;
+  box-shadow: 0 0 2px 0 #666;
   margin-bottom: 4em;
 
   font-size: 1em;
@@ -129,6 +129,7 @@ section {
 .timeimage {
   float: right;
   box-shadow: none;
+  border-radius: 0;
 }
 
 .link {
@@ -151,7 +152,8 @@ p {
 }
 
 .face {
-  border-radius: 18px;
+  border-radius: 32px;
+  box-shadow: 0 0 2px 0 #666;
 }
 
 .site-button {
