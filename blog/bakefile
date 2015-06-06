@@ -1,4 +1,4 @@
-output		= index.html
+output		= ./
 date		= "%d de %B às %H:%M"
 template	= templates/template.html
 host 		= "http://poesiacompilada.com/blog/"

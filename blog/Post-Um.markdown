@@ -1,4 +1,5 @@
 ~felipe
+@04 de junho às 16:37
 
 Bem vindos ao nosso blog! Poesia compilada, por ser um movimento, não se trata apenas de um site estático... e o movimento que precisamos virá deste blog.
 

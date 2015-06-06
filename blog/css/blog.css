@@ -14,6 +14,16 @@ img {
 	border-radius: 19px;
 }
 
+.facepostlike {
+  float: right;
+  width: 150px;
+  height: 32px;
+}
+
+.clear {
+  clear: both;
+}
+
 .facelike {
   position: absolute;
   width: 150px;
@@ -36,6 +46,7 @@ img {
   background: linear-gradient(to top, #7e0330, #8e1040);
   height: 64px;
   width: 100%;
+  margin-bottom: 4em;
 }
 
 .category {
@@ -120,6 +131,7 @@ p {
   position: fixed;
   top: 12px;
   right: 12px;
+  z-index: 10;
 }
 
 .site-button>img {
