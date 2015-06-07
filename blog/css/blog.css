@@ -13,7 +13,11 @@ body {
 }
 
 a {
-	color: #862;
+  color: black;
+  background: #ddd;
+  text-decoration: none;
+  border-radius: 2px;
+  padding: 2px;
 }
 
 blockquote {
@@ -39,6 +43,7 @@ img {
 }
 
 #wrapper {
+  width: 100%;
   min-height: 100%;
   position: relative;
 }
@@ -47,6 +52,7 @@ img {
   color: none;
   background: none;
   text-decoration: none;
+  padding: 0;
 }
 
 .facepostlike {
@@ -62,8 +68,12 @@ img {
 .facelike {
   position: absolute;
   width: 150px;
-  right: 128px;
+  right: 0;
   top: 10px;
+}
+
+.authors {
+  float: right;
 }
 
 .blogtitle {
@@ -77,10 +87,19 @@ img {
 }
 
 .facebar {
-  background: #7e0330;
-  background: linear-gradient(to top, #7e0330, #9e2040);
+  position: relative;
   height: 64px;
-  width: 100%;
+  width: 1024px;
+  margin: auto;
+  margin-bottom: 1em;
+  border-bottom: 1px dashed black;
+}
+
+.manifestobar {
+  position: relative;
+  height: 64px;
+  width: 1024px;
+  margin: auto;
   margin-bottom: 4em;
 }
 
@@ -154,6 +173,7 @@ h1, h2, h3, h4, h5, h6 {
   float: right;
   margin-right: 6px;
   margin-top: 4px;
+  color: #bbb;
 }
 
 .timeimage {
@@ -164,6 +184,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .link {
 	float: right;
+  background: none;
 }
 
 .link>img {
@@ -180,20 +201,13 @@ p {
 }
 
 .face {
-  border-radius: 32px;
+  border-radius: 2px;
   box-shadow: 0 0 2px 0 #666;
 }
 
-.site-button {
-  position: absolute;
-  top: 12px;
-  right: 12px;
-  z-index: 10;
-}
-
 .site-button>img {
-  border-radius: 19px;
-  box-shadow: 0 0 6px 0 #666;
+  border-radius: 0px;
+  box-shadow: 0 0 0px 0 #666;
 }
 
 .poetry, pre {
