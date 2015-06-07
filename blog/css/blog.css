@@ -26,8 +26,8 @@ pre {
 
 section>p>img {
   box-shadow: 0 0 2px 0 #666;
-	border-radius: 4px;
-  width: 954px;
+	border-radius: 0;
+  width: 914px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -115,14 +115,28 @@ main {
 }
 
 section {
-  background: #eee;
-  padding: 12px;
-  border-radius: 4px;
+  background: white;
+  padding: 2em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+
+  border-radius: 0px;
 
   box-shadow: 0 0 2px 0 #666;
   margin-bottom: 4em;
 
   font-size: 1em;
+  text-align: justify;
+
+  color: #444;
+}
+
+section>p {
+  font-size: 0.75em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: black;
 }
 
 .time {
@@ -156,8 +170,6 @@ section {
 }
 
 p {
-  text-align: justify;
-  text-indent: 1em;
 }
 
 .page {
