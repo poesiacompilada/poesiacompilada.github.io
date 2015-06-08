@@ -114,3 +114,9 @@ ul {
 	top: 12px;
 	right: 12px;
 }
+
+#html_canvas {
+	background: black;
+	border-radius: 4px;
+	box-shadow: 0 0 6px black inset;
+}

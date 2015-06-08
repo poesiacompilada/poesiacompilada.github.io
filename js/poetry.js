@@ -37,7 +37,7 @@ poetryjs = {
 					if (colors = poetryjs.eval(buffer)) {
 						if (open)
 							out += "</span>";
-						
+
 						out += "<span style='color: "+poetryjs.color+";'>"
 
 						open = true;
@@ -46,12 +46,12 @@ poetryjs = {
 					in_code_line = false;
 					do_out = false;
 				}
-			
+
 				line = poetryjs.add_details(line, colors);
 
 				out += line;
 				line = "";
-				
+
 				endline = true;
 			}
 
@@ -79,11 +79,11 @@ poetryjs = {
 	},
 	"add_details": function (line, details) {
 		var stops = [];
-		
+
 		if (details) {
 			for (d in details) {
 				var detail = details[d];
-				
+
 				for (p in detail.patterns) {
 					var pattern = detail.patterns[p];
 					var start = 0;
@@ -122,9 +122,9 @@ poetryjs = {
 			var stop = stops[s];
 			var a = "<span style='color: "+stop.color+";'>";
 			var b = "</span>"
-			
+
 			line = line.insert(stop.start, a);
-			
+
 
 			for (k in stops) {
 				if (stops[k].start >= stop.start) {
@@ -180,18 +180,18 @@ poetryjs = {
 		if (poetryjs.cur() == "let") {
 			while (true) {
 				poetryjs.next();
-				
+
 				if (poetryjs.cur() == "")
 					break;
-				
+
 				var key = poetryjs.cur();
 				poetryjs.next();
 
 				if (poetryjs.cur() == "be") {
 					poetryjs.next();
-					
+
 					var value = poetryjs.cur();
-	
+
 					poetryjs.colortable[key] = value;
 				} else {
 					poetryjs.error("be");
@@ -203,7 +203,7 @@ poetryjs = {
 			if (poetryjs.cur() == "as") {
 				poetryjs.next();
 
-				console.log ("poetry.js: painting as "+poetryjs.cur());
+				//console.log ("poetry.js: painting as "+poetryjs.cur());
 
 				poetryjs.color = poetryjs.colortable[poetryjs.cur()];
 
@@ -216,7 +216,7 @@ poetryjs = {
 				poetryjs.next();
 				if (poetryjs.cur() == "with") {
 					var count = 0;
-					
+
 					while (++count) {
 						poetryjs.next();
 
@@ -256,7 +256,7 @@ poetryjs = {
 								poetryjs.error("pattern");
 							break;
 						}
-					
+
 						colors.push(pattern);
 					}
 				}
@@ -273,10 +273,13 @@ poetryjs = {
 	}
 };
 
+var oldonload = window.onload;
 window.onload = function () {
 	var poetry = document.getElementsByClassName("poetry");
-	
+
 	for (i in poetry) {
 		poetryjs.process(poetry[i]);
 	}
+
+  oldonload();
 }

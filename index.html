@@ -7,6 +7,8 @@
 		<style>
 			@import url('css/poetry.css');
 		</style>
+		<script src="js/html5.js"></script>
+		<script src="js/manifesto.js"></script>
 		<script src="js/poetry.js"></script>
 
 		<meta property="og:image" content="http://poesiacompilada.com/img/logo-hires.png">
@@ -35,6 +37,11 @@
 					<div class="sspace"></div>
 					<div class="sspace"></div>
 
+					<canvas id="html_canvas" width="1024" height="768" onclick="begin_manifesto();">
+						Seu navegador não suporta o manifesto.
+					</canvas>
+
+					<!--
 					<pre class="poetry-container" onclick="fullscreen(this);">
 						<code class="poetry poetry-sized">
 | paint as code with // and include and &lt; and &gt; as tag # as white
@@ -67,6 +74,7 @@ return "vida";
 // [S.R.]
 							</code>
 						</pre>
+					-->
 
 						<h2 class="poetry">
 | paint as normal with é() as tag
