@@ -199,7 +199,7 @@ function begin_manifesto () {
     new Typewrite("\\fMa|\\bni|\\cfes|\\dto| |\\eVersão| 0.1beta\\a|||||"),
     new Typewrite("\\aPoesia|:||| uma maneira de curar| a \\bangústia\\a| do poeta.|||"),
     new Typewrite("\\aCompilar|:||| Fazer a \\cconversão\\a| para \\gcódigo\\a| de máquina.|||"),
-    new Typewrite("\\a\\cPoesia\\a|| \\eCompilada\\a||:||| \\d<|Erro!|| Nenhuma Definição Encontrada!|>|||"),
+    new Typewrite("\\a\\cPoesia\\a|| \\eCompilada\\a||:||| \\d<|? !|>|||"),
     new Typewrite("\\a||||\\g#\\a ||./|manifesto||-poesia|-compilada|||"),
     new Typewrite("\\a||||\\bexecutamos|(\\c|poesia|\\a |<<| \\d|\"|programação\"\\a|\\b)\\a;||||"),
     new Typewrite("\\a|\\bcompilamos|(\\a|em \\f|Lugar\\b::\\fqualquer\\b|)\\a|;||||"),
