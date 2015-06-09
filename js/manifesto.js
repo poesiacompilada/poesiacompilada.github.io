@@ -164,10 +164,10 @@ function init_manifesto () {
     console.info ("Compiled Poetry Manifesto - Starting");
 
     html5.getCanvas2dContext();
-    html5.loadAudio('audio/type.mp3', 'type');
-    html5.loadAudio('audio/type2.mp3', 'type2');
-    html5.loadAudio('audio/type3.mp3', 'type3');
-    html5.loadAudio('audio/type4.mp3', 'type4');
+    html5.loadAudio('audio/type.ogg', 'type');
+    html5.loadAudio('audio/type2.ogg', 'type2');
+    html5.loadAudio('audio/type3.ogg', 'type3');
+    html5.loadAudio('audio/type4.ogg', 'type4');
     draw = new Draw();
 
     draw.setClearColor('#272822');
