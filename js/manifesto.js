@@ -27,17 +27,17 @@ function Typewrite (text) {
           this.charTime = 0;
         } else {
           if (c == ' ')
-            html5.audio('type').cloneNode().play();
+            html5.audio('type').play();
           else {
             switch (Math.floor(Math.random()*3)) {
               case 0:
-                html5.audio('type2').cloneNode().play();
+                html5.audio('type2').play();
               break;
               case 1:
-                html5.audio('type3').cloneNode().play();
+                html5.audio('type3').play();
               break;
               case 2:
-                html5.audio('type4').cloneNode().play();
+                html5.audio('type4').play();
               break;
             }
           }
