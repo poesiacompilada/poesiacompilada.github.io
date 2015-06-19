@@ -58,7 +58,7 @@ img {
 
 .facepostlike {
   float: right;
-  width: 150px;
+  width: 130px;
   height: 32px;
 }
 
@@ -68,7 +68,7 @@ img {
 
 .facelike {
   position: absolute;
-  width: 150px;
+  width: 130px;
   right: 0;
   top: 10px;
 }
