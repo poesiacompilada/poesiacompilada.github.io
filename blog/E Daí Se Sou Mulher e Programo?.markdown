@@ -1,7 +1,7 @@
 ~soraya
 @19 de junho às 8:55
 
-    | paint as code with // as tag ; as normal & as class
+    | paint as code with // as tag ; as normal & as class S.R as tag [ and ] as string
     // E daí se sou mulher & programo?;
 
     passo o batom vermelho;
@@ -24,3 +24,4 @@
     para o mundo;
     ah! só mais um comentário;
     // E daí se sou mulher & programo?;
+	//[S.R]
