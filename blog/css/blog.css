@@ -225,3 +225,11 @@ pre {
 	margin: auto;
 	line-height: 1em;
 }
+
+ol {
+  font-size: 0.75em;
+}
+
+ul {
+  font-size: 0.75em;
+}
