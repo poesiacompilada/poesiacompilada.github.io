@@ -1,9 +1,9 @@
 ~felipe
-@27 de junho às 00:00
+@27 de junho às 01:10
 
 Ontem, no dia 26 de junho de 2015, o casamento gay foi declarado legal! E devido
-a essa declaração sem prescedentes, uma onda de avatares coloridos surgiu nas redes
-sociais, juntamente com fervosos comentários comemorando a vitória.
+a essa declaração sem precedentes, uma onda de avatares coloridos surgiu nas redes
+sociais, juntamente com fervorosos comentários comemorando a vitória.
 
 O fato ocorreu na Suprema Corte dos EUA, onde uma votação que terminou em *5x4*
 determinou a liberdade no sexo do casamento. É uma vitória não apenas para algumas
@@ -11,7 +11,7 @@ espero-que-apenas-hoje-minorias envolvidas diretamente, mas para todos os humano
 pois é uma vitória para a igualdade entre os indivíduos.
 
 Seria um cenário perfeito, se não fosse por um detalhe (cujo argumento tem alguns
-[problemas](#problemas)). Em 2013, o casamento gay foi legalizado no Brasil. E quando
+[problemas](#postonly-problemas)). Em 2013, o casamento gay foi legalizado no Brasil. E quando
 isso ocorreu, numa realidade muito mais próxima de nós que a dos EUA, não houve
 uma manifestação tão grande.
 
@@ -36,10 +36,9 @@ para a humanidade!
     | paint as normal with Viva as red o as orange casa as yellow mento as green gay as blue ! as cyan
     Viva o casamento gay!
 
-<div id="problemas">
+<div id="postonly-problemas">
 <h3>Problemas com a argumentação</h3>
 </div>
-
 
 1. talvez se o uso das redes sociais fosse mais difundido em 2013...
 2. talvez as pessoas tenham mudado, e se 2013 fosse 2015...
@@ -47,3 +46,5 @@ para a humanidade!
 4. talvez a imprensa brasileira estivesse preocupada com outros acontecimentos mais
 importantes...
 5. talvez...
+
+> Quer discutir mais o assunto? Deseja adicionar algum fato? Contra-argumentar? Comente!
