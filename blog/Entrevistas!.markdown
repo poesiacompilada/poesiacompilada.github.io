@@ -5,7 +5,7 @@
 
 # Introdução
 
-Como vocês já puderam conferir em nosso blog/manifesto temos a proposta não só de compartilhar poesias compiladas, mas também escrever sobre a área tecnológica, literatura e as pessoas que as constituem. Então pensamos em lançar uma série de reportagens.
+Como vocês já puderam conferir, em nosso blog/manifesto temos a proposta não só de compartilhar poesias compiladas, mas também escrever sobre a área tecnológica, literatura e as pessoas que as constituem. Então pensamos em lançar uma série de reportagens e entrevistas.
 
 Para começar esse ciclo, temos uma maravilhosa entrevista com...
 
@@ -23,6 +23,7 @@ Como a própria Jessica diz:
 
 ![A Jessica](img/posts/jessica.jpg)
 > Da esquerda para a direita: **Gabi**, **Débora**, **Jéssica**, **Soraya** e **Dayane**.
+> Gabi, Débora e Dayane fazem parte do [PyLadies](http://www.pyladies.com/ "Python para ladies")
 
 # A entrevista
 
