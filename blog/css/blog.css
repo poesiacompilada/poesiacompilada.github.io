@@ -9,7 +9,7 @@ body {
   color: #444;
   min-width: 1048px;
   height: 100%;
-  background: #eee
+  background: #eee;
 }
 
 a {
@@ -232,4 +232,9 @@ ol {
 
 ul {
   font-size: 0.75em;
+}
+
+hr {
+  border: none;
+  border-bottom: 1px solid #aaa;
 }
