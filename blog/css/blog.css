@@ -65,6 +65,10 @@ img {
   padding: 0;
 }
 
+.goback {
+	text-align: center;
+}
+
 .facepostlike {
   float: right;
   width: 130px;
