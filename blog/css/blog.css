@@ -49,6 +49,15 @@ img {
   position: relative;
 }
 
+.rss {
+	margin-top: 4px;
+	margin-right: 160px;
+	float: right;
+	height: 56px;
+	box-shadow: none;
+	border-radius: 0;
+}
+
 .nostyle {
   color: none;
   background: none;
