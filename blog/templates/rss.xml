@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poesia Compilada - O Blog</title>
+    <link>http://poesiacompilada.com/blog/</link>
+    <description>Poesia &amp; programação e muito mais em um só lugar!</description>
+    <generator>Bake</generator>
+    <language>pt_BR</language>
+    <managingEditor>Felipe Tavares &lt;felipe.oltavares@gmail.com&gt;</managingEditor>
+    <webMaster>Felipe Tavares &lt;felipe.oltavares@gmail.com&gt;</webMaster>
+    <copyright>Copyright &#0184; 2015 Felipe Tavares and Soraya Roberta</copyright>
+    <atom:link href="http://poesiacompilada.com/blog/feed.xml" rel="self" type="application/rss+xml" />
+    {
+    <item>
+      <title>{title}</title>
+      <link>{link}</link>
+      <pubDate>{date}</pubDate>
+      <author>{author}</author>
+      <guid>{link}</guid>
+      <description>{content}</description>
+    </item>
+    }
+  </channel>
+</rss>
