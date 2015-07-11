@@ -1,7 +1,7 @@
 output		= feed.xml
 template	= "templates/rss.xml"
 host		= "http://poesiacompilada.com/blog/"
-lang		= pt_BR
+lang		= en_US
 hash		= false
 date		= "%a, %d %b %Y %H:%M:%S %z"
 feed		= true
