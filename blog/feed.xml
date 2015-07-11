@@ -17,12 +17,12 @@
       <pubDate>Sex, 10 Jul 2015 22:54:29 -0300</pubDate>
       <author>soraya</author>
       <guid>http://poesiacompilada.com/blog/feed.xml#De:DryMedeiros</guid>
-      <description><pre><code>| paint as normal with &amp;&amp; and ( and ) and { as tag if as code
-if (saudade &amp;&amp; amor &gt; orgulho) {
-| paint as normal with &quot;Vale and a and pena!&quot; as string } and &lt;&lt; as tag endl and cout as class
-  cout &lt;&lt; &quot;Vale a pena!&quot; &lt;&lt; endl;
+      <description>&lt;pre&gt;&lt;code&gt;| paint as normal with &amp;amp;&amp;amp; and ( and ) and { as tag if as code
+if (saudade &amp;amp;&amp;amp; amor &amp;gt; orgulho) {
+| paint as normal with &amp;quot;Vale and a and pena!&amp;quot; as string } and &amp;lt;&amp;lt; as tag endl and cout as class
+  cout &amp;lt;&amp;lt; &amp;quot;Vale a pena!&amp;quot; &amp;lt;&amp;lt; endl;
 }
-</code></pre>
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
@@ -32,33 +32,33 @@ if (saudade &amp;&amp; amor &gt; orgulho) {
       <pubDate>Sex, 10 Jul 2015 22:49:43 -0300</pubDate>
       <author>soraya</author>
       <guid>http://poesiacompilada.com/blog/feed.xml#De:DanieleMelo</guid>
-      <description><pre><code>| paint as string
-&lt;!DOCTYPE html&gt;
-| paint as white with charset as #9f9 &quot;UTF-8&quot; as string &lt; and &gt; and / and html and title and meta and head and body and pre and &lt;b&gt; and &lt;i&gt; and &lt;/b&gt; and &lt;/i&gt; as green
-&lt;html&gt;
-  &lt;head&gt;
-    &lt;meta charset=&quot;UTF-8&quot;&gt;
-    &lt;title&gt;Conversando com a tempestade&lt;/title&gt;
-  &lt;/head&gt;
+      <description>&lt;pre&gt;&lt;code&gt;| paint as string
+&amp;lt;!DOCTYPE html&amp;gt;
+| paint as white with charset as #9f9 &amp;quot;UTF-8&amp;quot; as string &amp;lt; and &amp;gt; and / and html and title and meta and head and body and pre and &amp;lt;b&amp;gt; and &amp;lt;i&amp;gt; and &amp;lt;/b&amp;gt; and &amp;lt;/i&amp;gt; as green
+&amp;lt;html&amp;gt;
+  &amp;lt;head&amp;gt;
+    &amp;lt;meta charset=&amp;quot;UTF-8&amp;quot;&amp;gt;
+    &amp;lt;title&amp;gt;Conversando com a tempestade&amp;lt;/title&amp;gt;
+  &amp;lt;/head&amp;gt;
 
-  &lt;body&gt;
-    &lt;pre&gt;
+  &amp;lt;body&amp;gt;
+    &amp;lt;pre&amp;gt;
       Deves saber
-             &lt;b&gt; então &lt;/b&gt;
+             &amp;lt;b&amp;gt; então &amp;lt;/b&amp;gt;
       Que cada gota de
-             &lt;i&gt; paciência &lt;/i&gt;
+             &amp;lt;i&amp;gt; paciência &amp;lt;/i&amp;gt;
       Revela mares de
-             &lt;i&gt; essência &lt;/i&gt;
+             &amp;lt;i&amp;gt; essência &amp;lt;/i&amp;gt;
       De um grande
-             &lt;b&gt; coração. &lt;/b&gt;
+             &amp;lt;b&amp;gt; coração. &amp;lt;/b&amp;gt;
 
 | paint as white
       //PoesiaCompilada
 | paint as green
-    &lt;/pre&gt;
-  &lt;/body&gt;
-&lt;/html&gt;
-</code></pre>
+    &amp;lt;/pre&amp;gt;
+  &amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
@@ -68,57 +68,57 @@ if (saudade &amp;&amp; amor &gt; orgulho) {
       <pubDate>Sex, 10 Jul 2015 22:48:37 -0300</pubDate>
       <author>felipe</author>
       <guid>http://poesiacompilada.com/blog/feed.xml#UmaAnálise</guid>
-      <description><div style="with: 100%; height: 256px;">
-  <img class="face" style="width: 256px; left: 50%; margin-left: -128px; position: absolute;" src="img/posts/fgm.jpg">
-</div>
+      <description>&lt;div style="with: 100%; height: 256px;"&gt;
+  &lt;img class="face" style="width: 256px; left: 50%; margin-left: -128px; position: absolute;" src="img/posts/fgm.jpg"&gt;
+&lt;/div&gt;
 
-<blockquote>
-<p>Esse tipo de compor poesia tem qualquer coisa de ficção científica, que nos perquire e nos assombra. Fazer pensar, fazer criar, fazer ser: tudo que nos fez humanos e nos distanciou também de qualquer ideia aquém-homem, aquém-humano.</p>
-</blockquote>
+&lt;blockquote&gt;
+&lt;p&gt;Esse tipo de compor poesia tem qualquer coisa de ficção científica, que nos perquire e nos assombra. Fazer pensar, fazer criar, fazer ser: tudo que nos fez humanos e nos distanciou também de qualquer ideia aquém-homem, aquém-humano.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-<div style="float: right">
+&lt;div style="float: right"&gt;
   F.G.M.
-</div>
+&lt;/div&gt;
 
-<div style="clear: right"></div>
+&lt;div style="clear: right"&gt;&lt;/div&gt;
 
-<p>Este é um pegueno trecho da análise publicada ontem pelo poeta, professor <del>desenhista e filósofo</del> <a href="http://opoetafelipegarcia.blogspot.com.br/" title="O Blog do Poeta">Felipe Garcia</a>.</p>
+&lt;p&gt;Este é um pegueno trecho da análise publicada ontem pelo poeta, professor &lt;del&gt;desenhista e filósofo&lt;/del&gt; &lt;a href="http://opoetafelipegarcia.blogspot.com.br/" title="O Blog do Poeta"&gt;Felipe Garcia&lt;/a&gt;.&lt;/p&gt;
 
-<p>Felipe, ou F.G.M., é o autor de dois livros de poesia: <a href="http://www.editorapenalux.com.br/loja/product_info.php?products_id=171">Frio Forte</a> e <a href="http://www.livrariacultura.com.br/scripts/resenha/resenha.asp?nitem=42690826&amp;termo=c%C3%A1psula">Cápsula</a>.</p>
+&lt;p&gt;Felipe, ou F.G.M., é o autor de dois livros de poesia: &lt;a href="http://www.editorapenalux.com.br/loja/product_info.php?products_id=171"&gt;Frio Forte&lt;/a&gt; e &lt;a href="http://www.livrariacultura.com.br/scripts/resenha/resenha.asp?nitem=42690826&amp;amp;termo=c%C3%A1psula"&gt;Cápsula&lt;/a&gt;.&lt;/p&gt;
 
-<p>A análise, apesar de breve, trata de aspectos profundos do manifesto e do movimento da <a href="http://poesiacompilada.com">Poesia Compilada</a> como um todo.</p>
+&lt;p&gt;A análise, apesar de breve, trata de aspectos profundos do manifesto e do movimento da &lt;a href="http://poesiacompilada.com"&gt;Poesia Compilada&lt;/a&gt; como um todo.&lt;/p&gt;
 
-<p>Confira a análise na íntegra:</p>
+&lt;p&gt;Confira a análise na íntegra:&lt;/p&gt;
 
-<h3>O Manifesto da Poesia Compilada – uma apreciação</h3>
+&lt;h3&gt;O Manifesto da Poesia Compilada – uma apreciação&lt;/h3&gt;
 
-<p>As artes poéticas surpreendem pela transmutação da realidade e da palavra poética. O novo sempre vem à tona, e podemos nos deparar com um poema até mesmo diante da última tragédia da existência terrena: a extinção. Nenhum evento na história anunciará o fim do poema, pois faz parte da humanidade a criação intermitente que nos lança a si, mais longa que a vida.</p>
+&lt;p&gt;As artes poéticas surpreendem pela transmutação da realidade e da palavra poética. O novo sempre vem à tona, e podemos nos deparar com um poema até mesmo diante da última tragédia da existência terrena: a extinção. Nenhum evento na história anunciará o fim do poema, pois faz parte da humanidade a criação intermitente que nos lança a si, mais longa que a vida.&lt;/p&gt;
 
-<p>Prova indubitável disso é a intervenção literária que vivenciamos em todo nosso imaginário, desde uma situação banal (uma conversa perdida) até mais complexa (a contemplação de uma eternidade fugaz). Com a palavra, o mundo foi inaugurado e, através dela, outros serão descobertos ou criados. Dessa forma, o que podemos apreciar ainda em seu período embrionário – e deveras avançado – é o poema compilado, mais uma proeza da palavra sobre o mundo.</p>
+&lt;p&gt;Prova indubitável disso é a intervenção literária que vivenciamos em todo nosso imaginário, desde uma situação banal (uma conversa perdida) até mais complexa (a contemplação de uma eternidade fugaz). Com a palavra, o mundo foi inaugurado e, através dela, outros serão descobertos ou criados. Dessa forma, o que podemos apreciar ainda em seu período embrionário – e deveras avançado – é o poema compilado, mais uma proeza da palavra sobre o mundo.&lt;/p&gt;
 
-<p>Como representante e efígie do movimento, temos O manifesto da poesia compilada, que inaugura um estilo único, que mescla uma linguagem da informática [o virtual] com a poética [verbo-visual] para compor uma expressão i-r-real. A temática: a vida ou a matrix ou a syntax. A forma composicional: poema compilado. Como dizem os autores que assinam o manifesto, Soraya Roberta e Felipe Tavares, a poesia, nesse sentido, é um loop infinito.</p>
+&lt;p&gt;Como representante e efígie do movimento, temos O manifesto da poesia compilada, que inaugura um estilo único, que mescla uma linguagem da informática [o virtual] com a poética [verbo-visual] para compor uma expressão i-r-real. A temática: a vida ou a matrix ou a syntax. A forma composicional: poema compilado. Como dizem os autores que assinam o manifesto, Soraya Roberta e Felipe Tavares, a poesia, nesse sentido, é um loop infinito.&lt;/p&gt;
 
-<p>Um dos pilares desse tipo de poema, a ideia de código-fonte, não é tão distante de uma tradição mística e literária, como as grandes buscas da história humana, como o segredo da imortalidade, o sentido da vida, os mistérios do Universo, a síntese de Tudo ou a tapeçaria do Nada. De repente, os neo poetas descobriram formas e maneiras de (de)formar, (re)formar, (re)configurar esse código-fonte, e expandi-lo, colocá-lo em pânico, (re)iniciando tu[na]da-do.</p>
+&lt;p&gt;Um dos pilares desse tipo de poema, a ideia de código-fonte, não é tão distante de uma tradição mística e literária, como as grandes buscas da história humana, como o segredo da imortalidade, o sentido da vida, os mistérios do Universo, a síntese de Tudo ou a tapeçaria do Nada. De repente, os neo poetas descobriram formas e maneiras de (de)formar, (re)formar, (re)configurar esse código-fonte, e expandi-lo, colocá-lo em pânico, (re)iniciando tu[na]da-do.&lt;/p&gt;
 
-<p>Na aparente simplicidade do projeto lógico-poético do manifesto, há uma filosofia do contemporâneo (a desintegração do sujeito via virtualidades e a busca de uma totalidade fragmentária), além da visão de uma sociedade hiperconectada à internet das coisas, que já não se imagina, como à época do início da era da eletricidade, sem conexão.</p>
+&lt;p&gt;Na aparente simplicidade do projeto lógico-poético do manifesto, há uma filosofia do contemporâneo (a desintegração do sujeito via virtualidades e a busca de uma totalidade fragmentária), além da visão de uma sociedade hiperconectada à internet das coisas, que já não se imagina, como à época do início da era da eletricidade, sem conexão.&lt;/p&gt;
 
-<p>Estruturalmente, esse tipo de compor/e perceber poesia dialoga, também, com a tradição poética brasileira, sobretudo quando nos remetemos às construções poéticas dos poetas concretistas, do vínculo dos irmãos Campos e de Pignatari com a semiótica, a tecnologia, e com a morfologia das palavras, considerando as (re)construções e neologismos, a polissemia, os ritmos.</p>
+&lt;p&gt;Estruturalmente, esse tipo de compor/e perceber poesia dialoga, também, com a tradição poética brasileira, sobretudo quando nos remetemos às construções poéticas dos poetas concretistas, do vínculo dos irmãos Campos e de Pignatari com a semiótica, a tecnologia, e com a morfologia das palavras, considerando as (re)construções e neologismos, a polissemia, os ritmos.&lt;/p&gt;
 
-<p>Semanticamente, as implicações do movimento são bastante interessantes. Incialmente, desautomatizando o utilitarismo dos programas, colocando a poesia compilada em liberdade de linguagem, os neo poetas podem liberar aquela visão humanística e inventiva que Steve Jobs tanto lutara por empreender e aplicar em seus produtos. Não se pode prever como o mercado pode absorver tal perspectiva, mas o que os move transcende esse direcionamento castrador e os transporta a desafios inomináveis.</p>
+&lt;p&gt;Semanticamente, as implicações do movimento são bastante interessantes. Incialmente, desautomatizando o utilitarismo dos programas, colocando a poesia compilada em liberdade de linguagem, os neo poetas podem liberar aquela visão humanística e inventiva que Steve Jobs tanto lutara por empreender e aplicar em seus produtos. Não se pode prever como o mercado pode absorver tal perspectiva, mas o que os move transcende esse direcionamento castrador e os transporta a desafios inomináveis.&lt;/p&gt;
 
-<p>Essa intervenção ousada da dupla aponta para questões cruciais do futuro da humanidade. Por quê? Imagino que um dos maiores desafios da ciência será criar uma autoconsciência nas máquinas, nos robôs, uma sensibilidade. O ato de criar um poema compilado poderá despertar, em uma virtualidade puramente digital, o aspecto inventivo nas máquinas, uma espécie de autoconsciência cibernética, uma volta do parafuso, o humano-máquina de Isaac Asimov será levado em conta à hora de programar e isso poderá mudar nossa relação com o mundo, a vida e tudo.</p>
+&lt;p&gt;Essa intervenção ousada da dupla aponta para questões cruciais do futuro da humanidade. Por quê? Imagino que um dos maiores desafios da ciência será criar uma autoconsciência nas máquinas, nos robôs, uma sensibilidade. O ato de criar um poema compilado poderá despertar, em uma virtualidade puramente digital, o aspecto inventivo nas máquinas, uma espécie de autoconsciência cibernética, uma volta do parafuso, o humano-máquina de Isaac Asimov será levado em conta à hora de programar e isso poderá mudar nossa relação com o mundo, a vida e tudo.&lt;/p&gt;
 
-<p>Esse tipo de compor poesia tem qualquer coisa de ficção científica, que nos perquire e nos assombra. Fazer pensar, fazer criar, fazer ser: tudo que nos fez humanos e nos distanciou também de qualquer ideia aquém-homem, aquém-humano.
-Já se sabe que a poesia pulou fora da página (não a abandonou), e está alcançando setores que vão além da preexistência efêmera do gênero poético. Ela não abandonou a página, pelo contrário, cada vez mais, como processo simbiótico, o poema assimilou novas linguagens e superou as barreiras enigmáticas da página para abstrair e consubstanciar, da programação, inusitadas formas de ser e de dizer.</p>
+&lt;p&gt;Esse tipo de compor poesia tem qualquer coisa de ficção científica, que nos perquire e nos assombra. Fazer pensar, fazer criar, fazer ser: tudo que nos fez humanos e nos distanciou também de qualquer ideia aquém-homem, aquém-humano.
+Já se sabe que a poesia pulou fora da página (não a abandonou), e está alcançando setores que vão além da preexistência efêmera do gênero poético. Ela não abandonou a página, pelo contrário, cada vez mais, como processo simbiótico, o poema assimilou novas linguagens e superou as barreiras enigmáticas da página para abstrair e consubstanciar, da programação, inusitadas formas de ser e de dizer.&lt;/p&gt;
 
-<p>A Literatura recebe e assimila mais uma expressão inovadora e dá espaço – cada vez mais – para linguagens diversas, meios e mecanismos concatenados de um jeito intrínseco, dialógico, levando em contas os âmbitos [compilar] e [poetar] sem sobrepô-los, mas integrando-os de tal forma que não se pode separá-los. É poesia-programação &amp; programação-poesia.
-Onde houver vida, haverá poesia.</p>
+&lt;p&gt;A Literatura recebe e assimila mais uma expressão inovadora e dá espaço – cada vez mais – para linguagens diversas, meios e mecanismos concatenados de um jeito intrínseco, dialógico, levando em contas os âmbitos [compilar] e [poetar] sem sobrepô-los, mas integrando-os de tal forma que não se pode separá-los. É poesia-programação &amp;amp; programação-poesia.
+Onde houver vida, haverá poesia.&lt;/p&gt;
 
-<div style="float: right">
+&lt;div style="float: right"&gt;
   F.G.M.
-</div>
+&lt;/div&gt;
 
-<div style="clear: right"></div>
+&lt;div style="clear: right"&gt;&lt;/div&gt;
 </description>
     </item>
     
@@ -128,76 +128,76 @@ Onde houver vida, haverá poesia.</p>
       <pubDate>03 de julho às 23:54</pubDate>
       <author>soraya</author>
       <guid>http://poesiacompilada.com/blog/feed.xml#Entrevistas!</guid>
-      <description><hr>
+      <description>&lt;hr&gt;
 
-<h1>Introdução</h1>
+&lt;h1&gt;Introdução&lt;/h1&gt;
 
-<p>Como vocês já puderam conferir, em nosso blog/manifesto temos a proposta não só de compartilhar poesias compiladas, mas também escrever sobre a área tecnológica, literatura e as pessoas que as constituem. Então pensamos em lançar uma série de reportagens e entrevistas.</p>
+&lt;p&gt;Como vocês já puderam conferir, em nosso blog/manifesto temos a proposta não só de compartilhar poesias compiladas, mas também escrever sobre a área tecnológica, literatura e as pessoas que as constituem. Então pensamos em lançar uma série de reportagens e entrevistas.&lt;/p&gt;
 
-<p>Para começar esse ciclo, temos uma maravilhosa entrevista com...</p>
+&lt;p&gt;Para começar esse ciclo, temos uma maravilhosa entrevista com...&lt;/p&gt;
 
-<h1>Jessica McKellar</h1>
+&lt;h1&gt;Jessica McKellar&lt;/h1&gt;
 
-<p>Nossa querida <a href="https://github.com/deboraazevedo" title="A garota da tradução">Débora Azevedo</a> fez a tradução da entrevista com a <a href="http://web.mit.edu/jesstess/" title="Uma Gênia">Jessica McKellar</a>, que fiz na <a href="http://2015.pythonnordeste.org/" title="Você devia ir!">Python Nordeste</a>, em Maio.</p>
+&lt;p&gt;Nossa querida &lt;a href="https://github.com/deboraazevedo" title="A garota da tradução"&gt;Débora Azevedo&lt;/a&gt; fez a tradução da entrevista com a &lt;a href="http://web.mit.edu/jesstess/" title="Uma Gênia"&gt;Jessica McKellar&lt;/a&gt;, que fiz na &lt;a href="http://2015.pythonnordeste.org/" title="Você devia ir!"&gt;Python Nordeste&lt;/a&gt;, em Maio.&lt;/p&gt;
 
-<p>Como a própria Jessica diz:</p>
+&lt;p&gt;Como a própria Jessica diz:&lt;/p&gt;
 
-<blockquote>
-<p>I am a startup founder, software engineer, and open source developer living in San Francisco, California.</p>
-</blockquote>
+&lt;blockquote&gt;
+&lt;p&gt;I am a startup founder, software engineer, and open source developer living in San Francisco, California.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-<p></p>
+&lt;p&gt;&lt;/p&gt;
 
-<blockquote>
-<p>Sou uma fundadora de startups, engenheira de software e desenvolvedora de código livre vivendo em São Francisco, California.</p>
-</blockquote>
+&lt;blockquote&gt;
+&lt;p&gt;Sou uma fundadora de startups, engenheira de software e desenvolvedora de código livre vivendo em São Francisco, California.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-<p><img src="img/posts/jessica.jpg" alt="A Jessica"></p>
+&lt;p&gt;&lt;img src="img/posts/jessica.jpg" alt="A Jessica"&gt;&lt;/p&gt;
 
-<blockquote>
-<p>Da esquerda para a direita: <strong>Gabi</strong>, <strong>Débora</strong>, <strong>Jéssica</strong>, <strong>Soraya</strong> e <strong>Dayane</strong>.
-Gabi, Débora e Dayane fazem parte do <a href="http://www.pyladies.com/" title="Python para ladies">PyLadies</a></p>
-</blockquote>
+&lt;blockquote&gt;
+&lt;p&gt;Da esquerda para a direita: &lt;strong&gt;Gabi&lt;/strong&gt;, &lt;strong&gt;Débora&lt;/strong&gt;, &lt;strong&gt;Jéssica&lt;/strong&gt;, &lt;strong&gt;Soraya&lt;/strong&gt; e &lt;strong&gt;Dayane&lt;/strong&gt;.
+Gabi, Débora e Dayane fazem parte do &lt;a href="http://www.pyladies.com/" title="Python para ladies"&gt;PyLadies&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
-<h1>A entrevista</h1>
+&lt;h1&gt;A entrevista&lt;/h1&gt;
 
-<p>Então, aí vai a entrevista, divirtam-se!</p>
+&lt;p&gt;Então, aí vai a entrevista, divirtam-se!&lt;/p&gt;
 
-<blockquote>
-<p><strong>Como você teve o primeiro interesse em computação e tecnologia?</strong></p>
-</blockquote>
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Como você teve o primeiro interesse em computação e tecnologia?&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
-<p>Eu não sou uma daquelas pessoas que programam desde cedo. Na verdade eu não paguei aulas de programação até eu chegar à faculdade.</p>
+&lt;p&gt;Eu não sou uma daquelas pessoas que programam desde cedo. Na verdade eu não paguei aulas de programação até eu chegar à faculdade.&lt;/p&gt;
 
-<p>Minha primeira graduação foi em Química, eu tinha vários amigos que estavam buscando graduação em Ciência da Computação e eu tava meio que vendo o que eles estavam aprendendo e vi que eles estavam aprendendo esse <em>toolkit</em>, cheio de ferramentas para resolver vários problemas no mundo, e isso era muito animador pra mim. Então eu paguei algumas disciplinas de Ciências da Computação na faculdade para experimentar e gostei tanto que acabei me graduando nisso. Foi assim que comecei.</p>
+&lt;p&gt;Minha primeira graduação foi em Química, eu tinha vários amigos que estavam buscando graduação em Ciência da Computação e eu tava meio que vendo o que eles estavam aprendendo e vi que eles estavam aprendendo esse &lt;em&gt;toolkit&lt;/em&gt;, cheio de ferramentas para resolver vários problemas no mundo, e isso era muito animador pra mim. Então eu paguei algumas disciplinas de Ciências da Computação na faculdade para experimentar e gostei tanto que acabei me graduando nisso. Foi assim que comecei.&lt;/p&gt;
 
-<blockquote>
-<p><strong>Como você conseguiu 1/3 de mulheres na PyCon?</strong></p>
-</blockquote>
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Como você conseguiu 1/3 de mulheres na PyCon?&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
-<p>O divertido é que não foi nenhum truque de mágica, e está muito relacionado ao discussão do funil que falei na minha palestra <em>[na Python Nordeste]</em>.</p>
+&lt;p&gt;O divertido é que não foi nenhum truque de mágica, e está muito relacionado ao discussão do funil que falei na minha palestra &lt;em&gt;[na Python Nordeste]&lt;/em&gt;.&lt;/p&gt;
 
-<p>Tudo se resume ao topo do funil: ter bastante mulheres submetendo palestras. E se você tiver muitas meninas sumetendo palestras, várias serão aceitas, e assim você tem um terço de palestrantes mulheres.</p>
+&lt;p&gt;Tudo se resume ao topo do funil: ter bastante mulheres submetendo palestras. E se você tiver muitas meninas sumetendo palestras, várias serão aceitas, e assim você tem um terço de palestrantes mulheres.&lt;/p&gt;
 
-<p>Foi mais uma campanha para alcançar individualmente centenas de mulheres, as convidando para submeter palestras e auxiliando-­as, oferecendo oportunidades de falar sobre tópicos de palestras juntas, revisando as aplicações. Mas a meta era só ter muitas mulheres submetendo palestras, porque elas dão boas palestras, escrevem ótimas aplicações, tão boas quanto as dos homens, é só ter mulheres o suficiente submetendo. Algumas serão aceitas e outras não, mas o topo do funilestava tão forte, tantas mulheres submeteram aplicações, que você acaba com muitas no“fundo do funil”, muitas que são aceitas.z</p>
+&lt;p&gt;Foi mais uma campanha para alcançar individualmente centenas de mulheres, as convidando para submeter palestras e auxiliando-­as, oferecendo oportunidades de falar sobre tópicos de palestras juntas, revisando as aplicações. Mas a meta era só ter muitas mulheres submetendo palestras, porque elas dão boas palestras, escrevem ótimas aplicações, tão boas quanto as dos homens, é só ter mulheres o suficiente submetendo. Algumas serão aceitas e outras não, mas o topo do funilestava tão forte, tantas mulheres submeteram aplicações, que você acaba com muitas no“fundo do funil”, muitas que são aceitas.z&lt;/p&gt;
 
-<p>É literalmente mandar e­mail para milhares de mulheres, encorajando elas a submeterem algo, é isso.</p>
+&lt;p&gt;É literalmente mandar e­mail para milhares de mulheres, encorajando elas a submeterem algo, é isso.&lt;/p&gt;
 
-<blockquote>
-<p><strong>Como é a sua rotina de trabalho?</strong></p>
-</blockquote>
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Como é a sua rotina de trabalho?&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
-<p>Agora eu sou mais uma gerente, passo mais o tempo gerenciando outras pessoas. Eu lidero  um grupo de engenheiros no Dropbox que é responsável por desenvolver o cliente desktop do Dropbox, que é feito em Python, e também nossos apps mobile e o site, e isso toma todo o  meu tempo.</p>
+&lt;p&gt;Agora eu sou mais uma gerente, passo mais o tempo gerenciando outras pessoas. Eu lidero  um grupo de engenheiros no Dropbox que é responsável por desenvolver o cliente desktop do Dropbox, que é feito em Python, e também nossos apps mobile e o site, e isso toma todo o  meu tempo.&lt;/p&gt;
 
-<blockquote>
-<p><strong>Você tem alguma mensagem para as meninas que estão começando agora no Ensino Médio ou na Universidade?</strong></p>
-</blockquote>
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Você tem alguma mensagem para as meninas que estão começando agora no Ensino Médio ou na Universidade?&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
-<p>Ciência da Computação e programação são tão úteis em tantos domínios que é um grande investimento para qualquer pessoa, nunca é tarde demais pra começar a programar e qualquer pessoa pode fazer isso. E mesmo que você se sinta meio sozinha na sua sala, se você é a  única menina, tudo bem, porque vale muito a pena esse investimento em aprender uma habilidade que está com uma demanda tão grande e é tão relevante para tantas áreas  diferentes.</p>
+&lt;p&gt;Ciência da Computação e programação são tão úteis em tantos domínios que é um grande investimento para qualquer pessoa, nunca é tarde demais pra começar a programar e qualquer pessoa pode fazer isso. E mesmo que você se sinta meio sozinha na sua sala, se você é a  única menina, tudo bem, porque vale muito a pena esse investimento em aprender uma habilidade que está com uma demanda tão grande e é tão relevante para tantas áreas  diferentes.&lt;/p&gt;
 
-<p>Outra coisa que eu quero dizer é que quando você aprende programação, muda o  modo como você pensa sobre o mundo, porque você percebe que você pode muda­lo. Você  pode fazer software que faz o mundo melhor, e isso muda o jeito que você pensa sobre o que é  possível. E isso é algo muito empoderador pra se ter na mente e eu quero que todos  experimentem disso, por isso é importante pra mim que todos tenham pelo menos a  oportunidade que tive.</p>
+&lt;p&gt;Outra coisa que eu quero dizer é que quando você aprende programação, muda o  modo como você pensa sobre o mundo, porque você percebe que você pode muda­lo. Você  pode fazer software que faz o mundo melhor, e isso muda o jeito que você pensa sobre o que é  possível. E isso é algo muito empoderador pra se ter na mente e eu quero que todos  experimentem disso, por isso é importante pra mim que todos tenham pelo menos a  oportunidade que tive.&lt;/p&gt;
 
-<h1>Até a próxima!</h1>
+&lt;h1&gt;Até a próxima!&lt;/h1&gt;
 </description>
     </item>
     
@@ -207,58 +207,58 @@ Gabi, Débora e Dayane fazem parte do <a href="http://www.pyladies.com/" title="
       <pubDate>27 de junho às 01:10</pubDate>
       <author>felipe</author>
       <guid>http://poesiacompilada.com/blog/feed.xml#EUAlização</guid>
-      <description><p>Ontem, no dia 26 de junho de 2015, o casamento gay foi declarado legal! E devido
+      <description>&lt;p&gt;Ontem, no dia 26 de junho de 2015, o casamento gay foi declarado legal! E devido
 a essa declaração sem precedentes, uma onda de avatares coloridos surgiu nas redes
-sociais, juntamente com fervorosos comentários comemorando a vitória.</p>
+sociais, juntamente com fervorosos comentários comemorando a vitória.&lt;/p&gt;
 
-<p>O fato ocorreu na Suprema Corte dos EUA, onde uma votação que terminou em <em>5x4</em>
+&lt;p&gt;O fato ocorreu na Suprema Corte dos EUA, onde uma votação que terminou em &lt;em&gt;5x4&lt;/em&gt;
 determinou a liberdade no sexo do casamento. É uma vitória não apenas para algumas
 espero-que-apenas-hoje-minorias envolvidas diretamente, mas para todos os humanos,
-pois é uma vitória para a igualdade entre os indivíduos.</p>
+pois é uma vitória para a igualdade entre os indivíduos.&lt;/p&gt;
 
-<p>Seria um cenário perfeito, se não fosse por um detalhe (cujo argumento tem alguns
-<a href="#postonly-problemas">problemas</a>). Em 2013, o casamento gay foi legalizado no Brasil. E quando
+&lt;p&gt;Seria um cenário perfeito, se não fosse por um detalhe (cujo argumento tem alguns
+&lt;a href="#postonly-problemas"&gt;problemas&lt;/a&gt;). Em 2013, o casamento gay foi legalizado no Brasil. E quando
 isso ocorreu, numa realidade muito mais próxima de nós que a dos EUA, não houve
-uma manifestação tão grande.</p>
+uma manifestação tão grande.&lt;/p&gt;
 
-<p>Não vimos mudança de avatares. Não vimos uma enxurrada de posts sobre o assunto
-invadindo nossas <em>timelines</em>. Não foi um evento importante.</p>
+&lt;p&gt;Não vimos mudança de avatares. Não vimos uma enxurrada de posts sobre o assunto
+invadindo nossas &lt;em&gt;timelines&lt;/em&gt;. Não foi um evento importante.&lt;/p&gt;
 
-<p>Será que o centro do nosso mundo não está sob nossos próprios pés? Talvez não,
+&lt;p&gt;Será que o centro do nosso mundo não está sob nossos próprios pés? Talvez não,
 e de fato é isso o que parece acontecer quando observamos esses pequenos fatos
-(não apenas este em específico, mas muitos outros).</p>
+(não apenas este em específico, mas muitos outros).&lt;/p&gt;
 
-<p>Mas... Qual seria o problema? Talvez não seja tão mal observarmos o mundo sob
+&lt;p&gt;Mas... Qual seria o problema? Talvez não seja tão mal observarmos o mundo sob
 os olhos de outros... Agirmos sob os olhos de outros... Poderia não haver nenhum
-problema se não fosse o simples fato que vivemos em uma realidade um pouco diferente.</p>
+problema se não fosse o simples fato que vivemos em uma realidade um pouco diferente.&lt;/p&gt;
 
-<p>Isso deveria nos preocupar pois quando vamos falar mal, a primeira realidade que
+&lt;p&gt;Isso deveria nos preocupar pois quando vamos falar mal, a primeira realidade que
 vem a mente é a nossa, não a dos EUA, por exemplo. Por isso, devemos (além de
-comemorar vitórias como essas) começar também a entender que não só de EUA se vive no Brasil.</p>
+comemorar vitórias como essas) começar também a entender que não só de EUA se vive no Brasil.&lt;/p&gt;
 
-<p>Isso dito, é claro que não podemos esquecer que hoje será sempre um dia importante
-para a humanidade!</p>
+&lt;p&gt;Isso dito, é claro que não podemos esquecer que hoje será sempre um dia importante
+para a humanidade!&lt;/p&gt;
 
-<pre><code>| paint as normal with Viva as red o as orange casa as yellow mento as green gay as blue ! as cyan
+&lt;pre&gt;&lt;code&gt;| paint as normal with Viva as red o as orange casa as yellow mento as green gay as blue ! as cyan
 Viva o casamento gay!
-</code></pre>
+&lt;/code&gt;&lt;/pre&gt;
 
-<div id="postonly-problemas">
-<h3>Problemas com a argumentação</h3>
-</div>
+&lt;div id="postonly-problemas"&gt;
+&lt;h3&gt;Problemas com a argumentação&lt;/h3&gt;
+&lt;/div&gt;
 
-<ol>
-<li>talvez se o uso das redes sociais fosse mais difundido em 2013...</li>
-<li>talvez as pessoas tenham mudado, e se 2013 fosse 2015...</li>
-<li>talvez o governo dos EUA se preocupe mais em divulgar decisões...</li>
-<li>talvez a imprensa brasileira estivesse preocupada com outros acontecimentos mais
-importantes...</li>
-<li>talvez...</li>
-</ol>
+&lt;ol&gt;
+&lt;li&gt;talvez se o uso das redes sociais fosse mais difundido em 2013...&lt;/li&gt;
+&lt;li&gt;talvez as pessoas tenham mudado, e se 2013 fosse 2015...&lt;/li&gt;
+&lt;li&gt;talvez o governo dos EUA se preocupe mais em divulgar decisões...&lt;/li&gt;
+&lt;li&gt;talvez a imprensa brasileira estivesse preocupada com outros acontecimentos mais
+importantes...&lt;/li&gt;
+&lt;li&gt;talvez...&lt;/li&gt;
+&lt;/ol&gt;
 
-<blockquote>
-<p>Quer discutir mais o assunto? Deseja adicionar algum fato? Contra-argumentar? Comente!</p>
-</blockquote>
+&lt;blockquote&gt;
+&lt;p&gt;Quer discutir mais o assunto? Deseja adicionar algum fato? Contra-argumentar? Comente!&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -268,8 +268,8 @@ importantes...</li>
       <pubDate>19 de junho às 20:55</pubDate>
       <author>soraya</author>
       <guid>http://poesiacompilada.com/blog/feed.xml#EDaíSeSouMulhereProgramo</guid>
-      <description><pre><code>| paint as code with // as tag ; as normal &amp; as class S.R as tag [ and ] as string
-// E daí se sou mulher &amp; programo?;
+      <description>&lt;pre&gt;&lt;code&gt;| paint as code with // as tag ; as normal &amp;amp; as class S.R as tag [ and ] as string
+// E daí se sou mulher &amp;amp; programo?;
 
 passo o batom vermelho;
 nos lábios;
@@ -280,7 +280,7 @@ ligo meu notebook;
 checo meus;
 emails;
 aprendo mais uma linguagem;
-&amp; vou;
+&amp;amp; vou;
 compilando;
 sonhos;
 em linhas;
@@ -290,9 +290,9 @@ das;
 um pedaço da mudança;
 para o mundo;
 ah! só mais um comentário;
-// E daí se sou mulher &amp; programo?;
+// E daí se sou mulher &amp;amp; programo?;
 //[S.R]
-</code></pre>
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
@@ -302,7 +302,7 @@ ah! só mais um comentário;
       <pubDate>19 de junho às 18:00</pubDate>
       <author>soraya</author>
       <guid>http://poesiacompilada.com/blog/feed.xml#TítuloModerno</guid>
-      <description><pre><code>| paint as white with // as tag [ and ] as string because and for as code S.R. as tag
+      <description>&lt;pre&gt;&lt;code&gt;| paint as white with // as tag [ and ] as string because and for as code S.R. as tag
 //Título Moderno
 
 //O poeta come amendoin
@@ -327,7 +327,7 @@ reza diária.
 
 // [S.R.]
 // Poesia compilada
-</code></pre>
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
@@ -337,11 +337,11 @@ reza diária.
       <pubDate>S�b, 13 Jun 2015 18:02:03 -0300</pubDate>
       <author>felipe</author>
       <guid>http://poesiacompilada.com/blog/feed.xml#Umpoemaeumaideia</guid>
-      <description><h1>O poema</h1>
+      <description>&lt;h1&gt;O poema&lt;/h1&gt;
 
-<p>Para começar, um poema.</p>
+&lt;p&gt;Para começar, um poema.&lt;/p&gt;
 
-<pre><code>| paint as comment
+&lt;pre&gt;&lt;code&gt;| paint as comment
 // Women
 
 | paint as normal with = as tag
@@ -355,82 +355,82 @@ woman.smile(LIKE_WOMAN)
 woman.walk(LIKE_WOMAN)
 woman.be(LIKE_WOMAN)
 
-| paint as normal with -&gt; as tag TECH as constant woman as class remove_from( and ) as code
-woman-&gt;remove_from(TECH)
+| paint as normal with -&amp;gt; as tag TECH as constant woman as class remove_from( and ) as code
+woman-&amp;gt;remove_from(TECH)
 
 )
 
-| paint as orange with Error as code &lt; and &gt; as tag
-Error &lt;7:1&gt;: woman is not an object
-Error &lt;7:13&gt;: LIKE_WOMAN is not a macro
-Error &lt;12:8&gt;: remove_from is not a valid method for woman
+| paint as orange with Error as code &amp;lt; and &amp;gt; as tag
+Error &amp;lt;7:1&amp;gt;: woman is not an object
+Error &amp;lt;7:13&amp;gt;: LIKE_WOMAN is not a macro
+Error &amp;lt;12:8&amp;gt;: remove_from is not a valid method for woman
 
 | paint as red
 General Society Fault!
 
-| paint as normal with this as code . as tag &quot;FOLT&quot; as string
-this.from(&quot;FOLT&quot;)
-</code></pre>
+| paint as normal with this as code . as tag &amp;quot;FOLT&amp;quot; as string
+this.from(&amp;quot;FOLT&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
 
-<h4><em><span title="Dicas">Tips</span></em> para interpretação</h4>
+&lt;h4&gt;&lt;em&gt;&lt;span title="Dicas"&gt;Tips&lt;/span&gt;&lt;/em&gt; para interpretação&lt;/h4&gt;
 
-<blockquote>
-<p><strong>General Protection Fault:</strong> Erro causado quando um programa acessa a memória
-de algum outro. Causava <a href="http://www.wikiwand.com/pt/Tela_azul_da_morte" title="Tela Azul da Morte">tela azul</a> no Windows.</p>
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;General Protection Fault:&lt;/strong&gt; Erro causado quando um programa acessa a memória
+de algum outro. Causava &lt;a href="http://www.wikiwand.com/pt/Tela_azul_da_morte" title="Tela Azul da Morte"&gt;tela azul&lt;/a&gt; no Windows.&lt;/p&gt;
 
-<p><strong>Macro:</strong> (da linguagem de programação <a href="http://www.programacaoprogressiva.net/2012/08/comece-programar-linguagem-de_3132.html" title="Linguagem C">C</a>)
-é uma predefinição, construída antes do programa ser <a href="http://www.dicio.com.br/compilar/" title="Compilar">compilado</a>.</p>
+&lt;p&gt;&lt;strong&gt;Macro:&lt;/strong&gt; (da linguagem de programação &lt;a href="http://www.programacaoprogressiva.net/2012/08/comece-programar-linguagem-de_3132.html" title="Linguagem C"&gt;C&lt;/a&gt;)
+é uma predefinição, construída antes do programa ser &lt;a href="http://www.dicio.com.br/compilar/" title="Compilar"&gt;compilado&lt;/a&gt;.&lt;/p&gt;
 
-<p><strong>. e -&gt;:</strong> em C e C++, <strong>.</strong> é usado para fazer referências em um objeto, e <strong>-&gt;</strong> em
-um ponteiro.</p>
-</blockquote>
+&lt;p&gt;&lt;strong&gt;. e -&amp;gt;:&lt;/strong&gt; em C e C++, &lt;strong&gt;.&lt;/strong&gt; é usado para fazer referências em um objeto, e &lt;strong&gt;-&amp;gt;&lt;/strong&gt; em
+um ponteiro.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-<h1>A ideia</h1>
+&lt;h1&gt;A ideia&lt;/h1&gt;
 
-<p>A ideia de escrever este post surgiu quando eu estava verificando os
-acessos do blog, e vi o seguinte gráfico:</p>
+&lt;p&gt;A ideia de escrever este post surgiu quando eu estava verificando os
+acessos do blog, e vi o seguinte gráfico:&lt;/p&gt;
 
-<p><img src="img/posts/malevsfemale.png" alt="Acessos: Homens x Mulheres" title="Acessos: Homens x Mulheres"></p>
+&lt;p&gt;&lt;img src="img/posts/malevsfemale.png" alt="Acessos: Homens x Mulheres" title="Acessos: Homens x Mulheres"&gt;&lt;/p&gt;
 
-<p>Eu admito que esperava uma diferença bem maior, e de fato fui pego de surpresa
-quando percebi que a quantidade de acessos ao blog é aproximadamente de</p>
+&lt;p&gt;Eu admito que esperava uma diferença bem maior, e de fato fui pego de surpresa
+quando percebi que a quantidade de acessos ao blog é aproximadamente de&lt;/p&gt;
 
-<ul>
-<li><strong>2/5</strong> - Mulheres</li>
-<li><strong>3/5</strong> - Homens</li>
-</ul>
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2/5&lt;/strong&gt; - Mulheres&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;3/5&lt;/strong&gt; - Homens&lt;/li&gt;
+&lt;/ul&gt;
 
-<p>Há um lado bom e um lado ruim nestas proporções. O lado bom é que apesar do nosso
-site ser mais <em>tech</em>, a diferença não é tão gritante. O lado ruim é que
-ainda há uma diferença, e essa diferença ainda pode ser percebida facilmente.</p>
+&lt;p&gt;Há um lado bom e um lado ruim nestas proporções. O lado bom é que apesar do nosso
+site ser mais &lt;em&gt;tech&lt;/em&gt;, a diferença não é tão gritante. O lado ruim é que
+ainda há uma diferença, e essa diferença ainda pode ser percebida facilmente.&lt;/p&gt;
 
-<p>Um dos fatos que faz com que eu dê tanta importância a essa diferença entre
+&lt;p&gt;Um dos fatos que faz com que eu dê tanta importância a essa diferença entre
 quantidade de homens e mulheres, principalmente
-na nossa área, é o seguinte gráfico:</p>
+na nossa área, é o seguinte gráfico:&lt;/p&gt;
 
-<p><img src="img/posts/womencoding.png" alt="Mulheres em CC" title="Mulheres na ciência da computação"></p>
+&lt;p&gt;&lt;img src="img/posts/womencoding.png" alt="Mulheres em CC" title="Mulheres na ciência da computação"&gt;&lt;/p&gt;
 
-<p>A linha vermelha representa a percentagem de mulheres cursando na área de ciência da computação
+&lt;p&gt;A linha vermelha representa a percentagem de mulheres cursando na área de ciência da computação
 ao longo dos anos. Como se pode ver, essa percentagem tem decrescido de forma significativa
-desde 1984.</p>
+desde 1984.&lt;/p&gt;
 
-<p>Se a quantidade de mulheres que fazem um curso de ciência da computação tem decrescido
-desta forma, é um bom sinal que tenhamos apenas aproximadamente <strong>12%</strong> de diferença
+&lt;p&gt;Se a quantidade de mulheres que fazem um curso de ciência da computação tem decrescido
+desta forma, é um bom sinal que tenhamos apenas aproximadamente &lt;strong&gt;12%&lt;/strong&gt; de diferença
 entre acessos por homens e acessos por mulheres no nosso blog. Mas a meta
-de atingir igualmente ambos os gêneros continua sendo de grande importância.</p>
+de atingir igualmente ambos os gêneros continua sendo de grande importância.&lt;/p&gt;
 
-<p>Toda esta questão revolve ao redor de um único ponto: na nossa sociedade, a computação
+&lt;p&gt;Toda esta questão revolve ao redor de um único ponto: na nossa sociedade, a computação
 é tradicionalmente uma área masculina. Enquanto vários outros setores vem se tornando
 cada vez mais equilibrados, continuamos tendo grandes problemas para conseguir
-esta igualdade na nossa área.</p>
+esta igualdade na nossa área.&lt;/p&gt;
 
-<p>E para finalizar, uma frase da <a href="http://www.wikiwand.com/en/Karen_Sp%C3%A4rck_Jones" title="Cientista da computação, britânica">Karen Spärck Jones</a>:</p>
+&lt;p&gt;E para finalizar, uma frase da &lt;a href="http://www.wikiwand.com/en/Karen_Sp%C3%A4rck_Jones" title="Cientista da computação, britânica"&gt;Karen Spärck Jones&lt;/a&gt;:&lt;/p&gt;
 
-<blockquote>
-<p>&quot;Computing is too important to be left to men.&quot;</p>
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Computing is too important to be left to men.&amp;quot;&lt;/p&gt;
 
-<p>&quot;A computação é importante demais para ser deixada aos homens.&quot;</p>
-</blockquote>
+&lt;p&gt;&amp;quot;A computação é importante demais para ser deixada aos homens.&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -440,9 +440,9 @@ esta igualdade na nossa área.</p>
       <pubDate>12 de junho às 17:40</pubDate>
       <author>felipe</author>
       <guid>http://poesiacompilada.com/blog/feed.xml#AmorCompilado</guid>
-      <description><pre><code>| paint as normal with for as tag amor as class { and } as code ( and ) as code &quot;&quot; as string print as tag
+      <description>&lt;pre&gt;&lt;code&gt;| paint as normal with for as tag amor as class { and } as code ( and ) as code &amp;quot;&amp;quot; as string print as tag
 for de tudo; meu amor; serei atento {
-    print (&quot;&quot;);
+    print (&amp;quot;&amp;quot;);
 }
 
 | paint as normal with if as tag sem and ver as code amor as class arde and fogo as string
@@ -450,12 +450,12 @@ amor = fogo
 if sem ver(amor):
     amor.arde()
 
-| paint as normal with eu and br as code &lt; and &gt; and / as tag
-&lt;eu te amo&gt;
-    para começar a&lt;br&gt;
-    &lt;amar-te&gt;
-&lt;/eu&gt;
-</code></pre>
+| paint as normal with eu and br as code &amp;lt; and &amp;gt; and / as tag
+&amp;lt;eu te amo&amp;gt;
+    para começar a&amp;lt;br&amp;gt;
+    &amp;lt;amar-te&amp;gt;
+&amp;lt;/eu&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
@@ -465,12 +465,12 @@ if sem ver(amor):
       <pubDate>12 de junho às 17:35</pubDate>
       <author>soraya</author>
       <guid>http://poesiacompilada.com/blog/feed.xml#Iterações</guid>
-      <description><pre><code>| paint as normal with float and while and continue as tag eu and amor as code 1 as constant
+      <description>&lt;pre&gt;&lt;code&gt;| paint as normal with float and while and continue as tag eu and amor as code 1 as constant
 float eu, amor;
 
 while (eu + amor != 1)
   continue;
-</code></pre>
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
@@ -480,7 +480,7 @@ while (eu + amor != 1)
       <pubDate>10 de junho às 11:25</pubDate>
       <author>soraya</author>
       <guid>http://poesiacompilada.com/blog/feed.xml#Trecho</guid>
-      <description><pre><code>| paint as code with // and , and ! and ; and . and : as tag # as white [ and ] as string
+      <description>&lt;pre&gt;&lt;code&gt;| paint as code with // and , and ! and ; and . and : as tag # as white [ and ] as string
                       //Trecho
 
                 Conceição de Azevedo,
@@ -495,7 +495,7 @@ while (eu + amor != 1)
                 #Letra:Eurico Guilherme Caldas
                 #Poesiacompilada
                 #[S.R.]
-</code></pre>
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
@@ -505,7 +505,7 @@ while (eu + amor != 1)
       <pubDate>06 de junho às 12:40</pubDate>
       <author>soraya</author>
       <guid>http://poesiacompilada.com/blog/feed.xml#De:ÁlvaroTavares</guid>
-      <description><pre><code>| paint as blue
+      <description>&lt;pre&gt;&lt;code&gt;| paint as blue
 De tudo ao compilador serei atento
 | paint as red
 antes, e com tal linkeditor
@@ -518,7 +518,7 @@ Dele se encante mais sua sintaxe
 | let felipe be cyan
 | paint as felipe
 Quero vivê-lo em cada vã função
-</code></pre>
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
@@ -528,7 +528,7 @@ Quero vivê-lo em cada vã função
       <pubDate>06 de junho às 12:25</pubDate>
       <author>soraya</author>
       <guid>http://poesiacompilada.com/blog/feed.xml#PrayertoPython</guid>
-      <description><pre><code>| paint as code with # and . and ~ as tag [ and ] as string
+      <description>&lt;pre&gt;&lt;code&gt;| paint as code with # and . and ~ as tag [ and ] as string
 #Prayer to Python
 
 Programmed serpent
@@ -546,7 +546,7 @@ Antidote.
 
 #[S.R. ~ D.A.]
 #Compiled Poetry
-</code></pre>
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
@@ -556,60 +556,60 @@ Antidote.
       <pubDate>06 de junho às 00:00</pubDate>
       <author>felipe</author>
       <guid>http://poesiacompilada.com/blog/feed.xml#TecnologiaPlanos</guid>
-      <description><p>Aposto que tem muita gente curiosa para saber como tudo isso funciona: o site,
+      <description>&lt;p&gt;Aposto que tem muita gente curiosa para saber como tudo isso funciona: o site,
 o blog... as cores! Vou tentar responder a estas perguntas, se eu deixar alguma
-dúvida, vai no twitter e pergunta lá!</p>
+dúvida, vai no twitter e pergunta lá!&lt;/p&gt;
 
-<h3>Poetry.js</h3>
+&lt;h3&gt;Poetry.js&lt;/h3&gt;
 
-<p><em>poetry.js</em> é uma pequena biblioteca escrita em <a href="http://tableless.github.io/iniciantes/manual/js/">Javascript</a>
-que permite adicionar cores com facilidade a páginas web.</p>
+&lt;p&gt;&lt;em&gt;poetry.js&lt;/em&gt; é uma pequena biblioteca escrita em &lt;a href="http://tableless.github.io/iniciantes/manual/js/"&gt;Javascript&lt;/a&gt;
+que permite adicionar cores com facilidade a páginas web.&lt;/p&gt;
 
-<p>Tudo começou quando Soraya procurou alguma solução que permitisse um pouco
-mais de liberdade na hora de colorir suas <em>Poesias Compiladas</em>, que suportasse
+&lt;p&gt;Tudo começou quando Soraya procurou alguma solução que permitisse um pouco
+mais de liberdade na hora de colorir suas &lt;em&gt;Poesias Compiladas&lt;/em&gt;, que suportasse
 caracteres acentuados e que produzisse um resultado de qualidade. Não
-parecia haver nada parecido disponível.</p>
+parecia haver nada parecido disponível.&lt;/p&gt;
 
-<p>Nós procuramos criar algo que permitisse um pouco mais de liberdade artística,
-e daí surgiu a biblioteca &amp; linguagem <a href="https://github.com/felipetavares/poetry.js/">poetry.js</a>!</p>
+&lt;p&gt;Nós procuramos criar algo que permitisse um pouco mais de liberdade artística,
+e daí surgiu a biblioteca &amp;amp; linguagem &lt;a href="https://github.com/felipetavares/poetry.js/"&gt;poetry.js&lt;/a&gt;!&lt;/p&gt;
 
-<h3>O Site</h3>
+&lt;h3&gt;O Site&lt;/h3&gt;
 
-<p>Quando Soraya me falou da ideia de colocar um site no ar contendo todas as
-ideias das <em>Poesias Compiladas</em>, fui contagiado de imediato! Afinal, para quem
-gosta de poesia e código, nada soa melhor que isso.</p>
+&lt;p&gt;Quando Soraya me falou da ideia de colocar um site no ar contendo todas as
+ideias das &lt;em&gt;Poesias Compiladas&lt;/em&gt;, fui contagiado de imediato! Afinal, para quem
+gosta de poesia e código, nada soa melhor que isso.&lt;/p&gt;
 
-<p>Gostamos de trabalhar diretamente com <a href="http://pt-br.html.net/">HTML e CSS</a> e
+&lt;p&gt;Gostamos de trabalhar diretamente com &lt;a href="http://pt-br.html.net/"&gt;HTML e CSS&lt;/a&gt; e
 portanto comecei a experimentar com algumas ideias de imediato. Apliquei um
-<strong>pouco</strong> de cores e gostei do resultado.</p>
+&lt;strong&gt;pouco&lt;/strong&gt; de cores e gostei do resultado.&lt;/p&gt;
 
-<p>Acredito que o tempo entre Soraya aprovar o layout e o site entrar no ar
+&lt;p&gt;Acredito que o tempo entre Soraya aprovar o layout e o site entrar no ar
 foi menos de quatro horas! A paixão por passar a ideia adiante quebrou barreiras
-e aqui estamos nós!</p>
+e aqui estamos nós!&lt;/p&gt;
 
-<h3>O Blog</h3>
+&lt;h3&gt;O Blog&lt;/h3&gt;
 
-<p>Queríamos algo simples para este blog, algo que passasse a ideia de feito sob
+&lt;p&gt;Queríamos algo simples para este blog, algo que passasse a ideia de feito sob
 medida, que inspirasse! Descartamos rapidamente as soluções de blogging dinâmico
-e partimos para as estáticas.</p>
+e partimos para as estáticas.&lt;/p&gt;
 
-<p>Ao final, escolhemos uma solução própria, escrita totalmente em <a href="http://www.wikiwand.com/pt/C%2B%2B">C++</a>,
-o <a href="https://github.com/felipetavares/bake/">bake</a>. E se você está lendo este post,
-quer dizer que funciona!</p>
+&lt;p&gt;Ao final, escolhemos uma solução própria, escrita totalmente em &lt;a href="http://www.wikiwand.com/pt/C%2B%2B"&gt;C++&lt;/a&gt;,
+o &lt;a href="https://github.com/felipetavares/bake/"&gt;bake&lt;/a&gt;. E se você está lendo este post,
+quer dizer que funciona!&lt;/p&gt;
 
-<p>Com o <em>bake</em> escrevemos nossos posts em <a href="http://daringfireball.net/projects/markdown/">markdown</a>,
-e a partir disso todo o <em>HTML</em> é gerado previamente, reduzindo o processamento
-do servidor ao enviar os arquivos para vocês!</p>
+&lt;p&gt;Com o &lt;em&gt;bake&lt;/em&gt; escrevemos nossos posts em &lt;a href="http://daringfireball.net/projects/markdown/"&gt;markdown&lt;/a&gt;,
+e a partir disso todo o &lt;em&gt;HTML&lt;/em&gt; é gerado previamente, reduzindo o processamento
+do servidor ao enviar os arquivos para vocês!&lt;/p&gt;
 
-<h3>Futuro</h3>
+&lt;h3&gt;Futuro&lt;/h3&gt;
 
-<p>Muito mais ainda está por vir! Um screenshot vindo do futuro para dar água na boca:</p>
+&lt;p&gt;Muito mais ainda está por vir! Um screenshot vindo do futuro para dar água na boca:&lt;/p&gt;
 
-<p><img src="img/posts/poesiaide.png" alt="Poetando"></p>
+&lt;p&gt;&lt;img src="img/posts/poesiaide.png" alt="Poetando"&gt;&lt;/p&gt;
 
-<blockquote>
-<p>Escrevendo poesia compilada no navegador!</p>
-</blockquote>
+&lt;blockquote&gt;
+&lt;p&gt;Escrevendo poesia compilada no navegador!&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -619,38 +619,38 @@ do servidor ao enviar os arquivos para vocês!</p>
       <pubDate>04 de junho às 17:05</pubDate>
       <author>soraya</author>
       <guid>http://poesiacompilada.com/blog/feed.xml#VivaomêsdeJunho!</guid>
-      <description><pre><code>| paint as normal with &lt; and &gt; as tag html and head and body and title and br as code / as tag
+      <description>&lt;pre&gt;&lt;code&gt;| paint as normal with &amp;lt; and &amp;gt; as tag html and head and body and title and br as code / as tag
 
-&lt;html&gt;
-&lt;head&gt; &lt;title&gt; E viva o mês de Junho! &lt;/title&gt; &lt;/head&gt;
-&lt;body&gt;
-
-| paint as tag with p as code
-&lt;p&gt;
-| paint as class with &lt; and &gt; as tag br as code / and == and , and . as tag
-
-Junho ==  pamonha, canjica, milho assado, &lt;br/&gt;
-          cozinhado, bolo de milho, &lt;br/&gt;
-          fogueira de Santo Antonio, &lt;br/&gt;
-          São João e São Pedro, &lt;br/&gt;
-          quadrilha junina, foguinhos &lt;br/&gt;
-          familia reunida &lt;br/&gt;
-          e muito forró &lt;br/&gt;
-          pé de serra.&lt;br/&gt;
+&amp;lt;html&amp;gt;
+&amp;lt;head&amp;gt; &amp;lt;title&amp;gt; E viva o mês de Junho! &amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt;
+&amp;lt;body&amp;gt;
 
 | paint as tag with p as code
-&lt;/p&gt;
-| paint as normal with &lt; and &gt; as tag html and head and body and title and br as code / as tag
+&amp;lt;p&amp;gt;
+| paint as class with &amp;lt; and &amp;gt; as tag br as code / and == and , and . as tag
 
-&lt;/body&gt;
+Junho ==  pamonha, canjica, milho assado, &amp;lt;br/&amp;gt;
+          cozinhado, bolo de milho, &amp;lt;br/&amp;gt;
+          fogueira de Santo Antonio, &amp;lt;br/&amp;gt;
+          São João e São Pedro, &amp;lt;br/&amp;gt;
+          quadrilha junina, foguinhos &amp;lt;br/&amp;gt;
+          familia reunida &amp;lt;br/&amp;gt;
+          e muito forró &amp;lt;br/&amp;gt;
+          pé de serra.&amp;lt;br/&amp;gt;
 
-&lt;/html&gt;
+| paint as tag with p as code
+&amp;lt;/p&amp;gt;
+| paint as normal with &amp;lt; and &amp;gt; as tag html and head and body and title and br as code / as tag
+
+&amp;lt;/body&amp;gt;
+
+&amp;lt;/html&amp;gt;
 
 | paint as comment with S.R. as code [ and ] as tag
 
 // poesia compilada
 // [S.R.]
-</code></pre>
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
@@ -660,11 +660,11 @@ Junho ==  pamonha, canjica, milho assado, &lt;br/&gt;
       <pubDate>04 de junho às 16:37</pubDate>
       <author>felipe</author>
       <guid>http://poesiacompilada.com/blog/feed.xml#Post-Um</guid>
-      <description><p>Bem vindos ao nosso blog! Poesia compilada, por ser um movimento, não se trata apenas de um site estático... e o movimento que precisamos virá deste blog.</p>
+      <description>&lt;p&gt;Bem vindos ao nosso blog! Poesia compilada, por ser um movimento, não se trata apenas de um site estático... e o movimento que precisamos virá deste blog.&lt;/p&gt;
 
-<p>Aqui postaremos dos mais diversos assuntos, mas uma coisa é certa: <em>poesias não faltarão!</em></p>
+&lt;p&gt;Aqui postaremos dos mais diversos assuntos, mas uma coisa é certa: &lt;em&gt;poesias não faltarão!&lt;/em&gt;&lt;/p&gt;
 
-<p>Também lhes digo que assuntos interessantes estarão sempre em pauta e vale a pena vir dar uma olhadinha aqui de vez em quando!</p>
+&lt;p&gt;Também lhes digo que assuntos interessantes estarão sempre em pauta e vale a pena vir dar uma olhadinha aqui de vez em quando!&lt;/p&gt;
 </description>
     </item>
     
