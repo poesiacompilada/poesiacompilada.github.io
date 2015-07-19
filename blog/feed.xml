@@ -12,6 +12,20 @@
     <atom:link href="http://poesiacompilada.com/blog/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>O Jogo</title>
+      <link>http://poesiacompilada.com/blog/feed.xml#OJogo</link>
+      <pubDate>Sun, 19 Jul 2015 17:07:13 -0300</pubDate>
+      <author>felipe</author>
+      <guid>http://poesiacompilada.com/blog/feed.xml#OJogo</guid>
+      <description>&lt;p&gt;Por esta você não esperava! Um jogo!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="../ojogo/anims/back0.png" alt="O Jogo - Poesia Compilada" title="Capa"&gt;&lt;/p&gt;
+
+&lt;p&gt;Jogue &lt;a href="http://poesiacompilada/ojogo/"&gt;aqui&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>De: Dry Medeiros</title>
       <link>http://poesiacompilada.com/blog/feed.xml#De:DryMedeiros</link>
       <pubDate>Fri, 10 Jul 2015 22:54:29 -0300</pubDate>
