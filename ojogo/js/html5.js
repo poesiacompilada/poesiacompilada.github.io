@@ -109,7 +109,7 @@ function html5 () {
 	this.audios[name] = document.createElement('audio');
 	this.audios[name].src = fname;
 	this.audios[name].preload = true;
-	this.audios[name].addEventListener('canplaythrough', this.hitch (this.loadedImage,html5), false);
+	this.audios[name].addEventListener('canplay', this.hitch (this.loadedImage,html5), false);
 	this.audios[name].load();
     }
 
