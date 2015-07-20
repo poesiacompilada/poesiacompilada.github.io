@@ -58,7 +58,7 @@ function Coin (last) {
     if (this.p[0] > p[0] && this.p[0] < p[0]+pw && p[1]+20 > this.p[1]) {
       this.animation = new Animation('anim/coin/', 0.001, 14);
       score += 100;
-      html5.audio('coin').play();
+      html5.audio('coin').cloneNode().play();
       return 2;
     }
 
@@ -103,7 +103,7 @@ function Player () {
         this.animation.complete()) {
         this.animation = this.aGetUp;
         this.animation.play();
-        html5.audio('land').play();
+        html5.audio('land').cloneNode().play();
     }
 
     if (this.animation == this.aJump) {
@@ -117,7 +117,7 @@ function Player () {
         this.animation = this.aJump;
         this.jStart = this.aJump.now();
         this.animation.play();
-        html5.audio('jump').play();
+        html5.audio('jump').cloneNode().play();
     }
 
     html5.context.drawImage(this.animation.get(), this.p[0], this.p[1]);

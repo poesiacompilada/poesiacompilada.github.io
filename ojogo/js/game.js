@@ -28,6 +28,8 @@ function main () {
   html5.loadImage('anim/title.png', 'title');
   html5.loadImage('anim/lost.png', 'lost');
 
+  html5.loadImage('anim/back.png', 'background');
+
   html5.loadAudio('audio/coin.wav', 'coin');
   html5.loadAudio('audio/jump.wav', 'jump');
   html5.loadAudio('audio/land.wav', 'land');
@@ -80,6 +82,9 @@ function update () {
   html5.context.clearRect(0, 0,
                           html5.canvas.width/2,
                           html5.canvas.height/2);
+
+  html5.context.drawImage(html5.image('background'),
+  						  0, 0);
 
   html5.context.fillStyle = "#ffff00";
   html5.context.textBaseline = 'top';
@@ -134,5 +139,10 @@ function update () {
     beginGame();
   }
 
-  setTimeout (update, 1000/60-dt*1000);
+  var time = 1000/60-dt*1000;
+
+  if (time < 0)
+    time = 0;
+
+  setTimeout (update, 0);
 }
