@@ -12,6 +12,39 @@
     <atom:link href="http://poesiacompilada.com/blog/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Descrição</title>
+      <link>http://poesiacompilada.com/blog/feed.xml#Descrição</link>
+      <pubDate>Wed, 29 Jul 2015 18:57:52 -0300</pubDate>
+      <author>soraya</author>
+      <guid>http://poesiacompilada.com/blog/feed.xml#Descrição</guid>
+      <description>&lt;p&gt;&lt;code&gt;&lt;pre style="background-image: url(img/posts/pluto.png); background-size: 100%;"&gt;
+| paint as normal with Descrição as tag ( and ) and ! as tag Plutão as blue
+&amp;nbsp;
+&amp;nbsp;
+                        Descrição 
+&amp;nbsp;
+                    traços de geleiras
+                    deslizam sobre a
+                    superfície 
+                    do
+                    seu corpo 
+                    (um eterno parodoxo)
+                    silhuetas avermelhadas
+                    tentam mascarar 
+                    seu frio congelante
+                    mas apesar de tudo
+                    Plutão !planeta
+&amp;nbsp;
+| paint as tag with [ and ] and . as string Poesia and Compilada as normal
+                // [S.R. - F.T.]
+                // Poesia Compilada
+&lt;/pre&gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Créditos da imagem&lt;/strong&gt;: NASA/Johns Hopkins University Applied Physics Laboratory/Southwest Research Institute&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>O Jogo</title>
       <link>http://poesiacompilada.com/blog/feed.xml#OJogo</link>
       <pubDate>Sun, 19 Jul 2015 17:17:16 -0300</pubDate>
