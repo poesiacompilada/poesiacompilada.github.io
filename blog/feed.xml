@@ -12,6 +12,57 @@
     <atom:link href="http://poesiacompilada.com/blog/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Canção da Torre Mais Alta</title>
+      <link>http://poesiacompilada.com/blog/feed.xml#CançãodaTorreMaisAlta</link>
+      <pubDate>Thu, 30 Jul 2015 00:33:28 -0300</pubDate>
+      <author>soraya</author>
+      <guid>http://poesiacompilada.com/blog/feed.xml#CançãodaTorreMaisAlta</guid>
+      <description>&lt;pre&gt;&lt;code&gt;| paint as code with &amp;lt;? as tag
+&amp;lt;?Canção da Torre Mais Alta
+
+| paint as comment
+&amp;lt;!--  Mocidade presa
+      A tudo oprimida
+      Por delicadeza
+      Eu perdi a vida.
+      Ah! Que o tempo venha
+      Em que a alma se empenha. --&amp;gt;
+
+| paint as string with echo as code ; as normal
+echo &amp;quot;Eu me disse: cessa,
+      Que ninguém te veja:
+      E sem a promessa
+      De algum bem que seja.
+      A ti só aspiro
+      Augusto retiro.&amp;quot;;
+
+| paint as string with $dentro as tag ; and = as normal
+$dentro =
+      &amp;quot;Tamanha paciência
+       Não me hei de esquecer.
+       Temor e dolência,
+       Aos céus fiz erguer.
+       E esta sede estranha
+       A ofuscar-me a entranha.&amp;quot;;
+
+| paint as class with $fora as tag ; and = as normal
+$fora =
+      &amp;quot;Qual o Prado imenso
+       Condenado a olvido,
+       Que cresce florido
+       De joio e de incenso&amp;quot;;
+| paint as normal
+       Ao feroz zunzum das
+       Moscas imundas.
+
+| paint as tag with Poesia as class Compilada as code
+//Arthur Rimbaud
+//Poesia Compilada
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Descrição</title>
       <link>http://poesiacompilada.com/blog/feed.xml#Descrição</link>
       <pubDate>Wed, 29 Jul 2015 18:57:52 -0300</pubDate>
