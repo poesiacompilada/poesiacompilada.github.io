@@ -65,6 +65,10 @@ img {
   padding: 0;
 }
 
+.smallfont {
+  font-size: 0.75em;
+}
+
 .goback {
 	text-align: center;
 }

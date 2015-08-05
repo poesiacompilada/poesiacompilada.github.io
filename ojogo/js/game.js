@@ -144,5 +144,5 @@ function update () {
   if (time < 0)
     time = 0;
 
-  setTimeout (update, 0);
+  setTimeout (update, time);
 }
