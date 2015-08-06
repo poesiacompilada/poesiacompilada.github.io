@@ -12,6 +12,37 @@
     <atom:link href="http://poesiacompilada.com/blog/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Devir</title>
+      <link>http://poesiacompilada.com/blog/feed.xml#Devir</link>
+      <pubDate>Thu, 06 Aug 2015 20:37:57 -0300</pubDate>
+      <author>soraya</author>
+      <guid>http://poesiacompilada.com/blog/feed.xml#Devir</guid>
+      <description>&lt;pre&gt;&lt;code&gt;| paint as comment
+        #Devir
+
+| paint as normal with def as code filosofo as tag muda as class opiniao as class
+def filosofo.muda(opiniao)
+| paint as string with #{ and } as normal opiniao as class
+&amp;quot;Transformando a #{opiniao}
+  num fluxo ininterrupto
+  em busca de uma
+  lei geral do universo
+            que dissolve
+            que cria
+            e transforma
+  todas as realidades
+  existentes&amp;quot;
+| paint as code
+end
+
+| paint as comment
+#[S.R.]
+#Poesiacompilada
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Computação é como navio pirata: só tem homem e canhão!</title>
       <link>http://poesiacompilada.com/blog/feed.xml#Computaçãoécomonaviopirata:sótemhomemecanhão!</link>
       <pubDate>Wed, 05 Aug 2015 21:16:37 -0300</pubDate>
