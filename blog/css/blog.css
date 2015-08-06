@@ -164,7 +164,8 @@ section {
   margin-bottom: 4em;
 
   font-size: 1em;
-  text-align: justify;
+  line-height: 1.5em;
+  text-align: left;
 
   color: #444;
 }
