@@ -12,11 +12,11 @@
     <atom:link href="http://poesiacompilada.com/blog/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Byte Girl: evento por Fortaleza</title>
-      <link>http://poesiacompilada.com/blog/feed.xml#ByteGirl:eventoporFortaleza</link>
-      <pubDate>Mon, 17 Aug 2015 23:25:44 -0300</pubDate>
+      <title>Byte Girl, evento por Fortaleza</title>
+      <link>http://poesiacompilada.com/blog/feed.xml#ByteGirl,eventoporFortaleza</link>
+      <pubDate>Mon, 17 Aug 2015 23:27:20 -0300</pubDate>
       <author>soraya</author>
-      <guid>http://poesiacompilada.com/blog/feed.xml#ByteGirl:eventoporFortaleza</guid>
+      <guid>http://poesiacompilada.com/blog/feed.xml#ByteGirl,eventoporFortaleza</guid>
       <description>&lt;p&gt;&lt;img src="img/posts/bytegirl.jpg" alt="Byte Girl"&gt;&lt;/p&gt;
 
 &lt;p&gt;Olá, pessoal! Então, esses dias estava buscando algumas dicas de eventos da área de TI para postar aqui no Blog, principalmente aqui pelo NE. Achei um evento super fofo que está em sua primeira e poética edição, o Byte.Girl, que tem como público alvo a comunidade tecnológica da cidade de Fortaleza.&lt;/p&gt;
@@ -85,11 +85,11 @@ end
     </item>
     
     <item>
-      <title>Computação é como navio pirata: só tem homem e canhão!</title>
-      <link>http://poesiacompilada.com/blog/feed.xml#Computaçãoécomonaviopirata:sótemhomemecanhão!</link>
+      <title>Computação é como navio pirata, só tem homem e canhão!</title>
+      <link>http://poesiacompilada.com/blog/feed.xml#Computaçãoécomonaviopirata,sótemhomemecanhão!</link>
       <pubDate>Wed, 05 Aug 2015 21:16:37 -0300</pubDate>
       <author>soraya</author>
-      <guid>http://poesiacompilada.com/blog/feed.xml#Computaçãoécomonaviopirata:sótemhomemecanhão!</guid>
+      <guid>http://poesiacompilada.com/blog/feed.xml#Computaçãoécomonaviopirata,sótemhomemecanhão!</guid>
       <description>&lt;p&gt;&lt;img src="img/posts/deleteseupreconceito.png" alt="Delete Seu Preconceito"&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -261,11 +261,11 @@ $fora =
     </item>
     
     <item>
-      <title>De: Dry Medeiros</title>
-      <link>http://poesiacompilada.com/blog/feed.xml#De:DryMedeiros</link>
+      <title>De Dry Medeiros</title>
+      <link>http://poesiacompilada.com/blog/feed.xml#DeDryMedeiros</link>
       <pubDate>Fri, 10 Jul 2015 22:54:29 -0300</pubDate>
       <author>soraya</author>
-      <guid>http://poesiacompilada.com/blog/feed.xml#De:DryMedeiros</guid>
+      <guid>http://poesiacompilada.com/blog/feed.xml#DeDryMedeiros</guid>
       <description>&lt;pre&gt;&lt;code&gt;| paint as normal with &amp;amp;&amp;amp; and ( and ) and { as tag if as code
 if (saudade &amp;amp;&amp;amp; amor &amp;gt; orgulho) {
 | paint as normal with &amp;quot;Vale and a and pena!&amp;quot; as string } and &amp;lt;&amp;lt; as tag endl and cout as class
@@ -276,11 +276,11 @@ if (saudade &amp;amp;&amp;amp; amor &amp;gt; orgulho) {
     </item>
     
     <item>
-      <title>De: Daniele Melo</title>
-      <link>http://poesiacompilada.com/blog/feed.xml#De:DanieleMelo</link>
+      <title>De Daniele Melo</title>
+      <link>http://poesiacompilada.com/blog/feed.xml#DeDanieleMelo</link>
       <pubDate>Fri, 10 Jul 2015 22:49:43 -0300</pubDate>
       <author>soraya</author>
-      <guid>http://poesiacompilada.com/blog/feed.xml#De:DanieleMelo</guid>
+      <guid>http://poesiacompilada.com/blog/feed.xml#DeDanieleMelo</guid>
       <description>&lt;pre&gt;&lt;code&gt;| paint as string
 &amp;lt;!DOCTYPE html&amp;gt;
 | paint as white with charset as #9f9 &amp;quot;UTF-8&amp;quot; as string &amp;lt; and &amp;gt; and / and html and title and meta and head and body and pre and &amp;lt;b&amp;gt; and &amp;lt;i&amp;gt; and &amp;lt;/b&amp;gt; and &amp;lt;/i&amp;gt; as green
@@ -749,11 +749,11 @@ while (eu + amor != 1)
     </item>
     
     <item>
-      <title>De: Álvaro Tavares</title>
-      <link>http://poesiacompilada.com/blog/feed.xml#De:ÁlvaroTavares</link>
+      <title>De Álvaro Tavares</title>
+      <link>http://poesiacompilada.com/blog/feed.xml#DeÁlvaroTavares</link>
       <pubDate>Sat, 06 Jun 2015 13:02:43 -0300</pubDate>
       <author>soraya</author>
-      <guid>http://poesiacompilada.com/blog/feed.xml#De:ÁlvaroTavares</guid>
+      <guid>http://poesiacompilada.com/blog/feed.xml#DeÁlvaroTavares</guid>
       <description>&lt;pre&gt;&lt;code&gt;| paint as blue
 De tudo ao compilador serei atento
 | paint as red
