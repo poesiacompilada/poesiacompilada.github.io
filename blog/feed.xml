@@ -12,6 +12,37 @@
     <atom:link href="http://poesiacompilada.com/blog/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Dia do Programador</title>
+      <link>http://poesiacompilada.com/blog/feed.xml#DiadoProgramador</link>
+      <pubDate>Sun, 13 Sep 2015 21:15:13 -0300</pubDate>
+      <author>soraya</author>
+      <guid>http://poesiacompilada.com/blog/feed.xml#DiadoProgramador</guid>
+      <description>&lt;p&gt;Feliz dia do programador!&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;| paint as normal with def as class faz as tag arte as code
+def programador.faz(arte):
+| paint as code
+  programa, programa
+| paint as normal with #programa as class &amp;amp;&amp;amp; as tag dinheiro as string
+  mãe, estou fazendo #programa
+  por que quero &amp;amp;&amp;amp;
+  por dinheiro &amp;amp;&amp;amp;
+  por amor
+
+| paint as comment
+// Parabéns para todos nós
+// que já cansamos
+// de tentar explicar porque
+// estamos fazendo programas na madrugada
+
+| paint as normal with S.R. as tag Compilada as tag Poesia as class
+//[S.R.]
+//Poesia Compilada
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Byte Girl, evento por Fortaleza</title>
       <link>http://poesiacompilada.com/blog/feed.xml#ByteGirl,eventoporFortaleza</link>
       <pubDate>Mon, 17 Aug 2015 23:27:20 -0300</pubDate>
