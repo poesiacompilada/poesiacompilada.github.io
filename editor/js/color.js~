@@ -1,0 +1,134 @@
+function ColorNode (color, data) {
+    this.color = color;
+    this.next = null;
+    this.prev = null;
+    this.data = data;
+
+    this.insert = function (p, w) {
+	console.log ("insert at "+p+" of "+w+" in block "+this.data);
+    }
+
+    this.lenght = function () {
+	return this.data.length;
+    }
+}
+
+function CompiledPoetry () {
+    this.head = null;
+    this.tail = null;
+
+    this.pushFront = function (node) {
+	if (this.head == null) {
+	    this.head = node;
+	    this.tail = node;
+	} else {
+	    this.head.next = node;
+	    node.prev = this.head;
+	    this.head = node;
+	}
+    }
+
+    this.pushBack = function (node) {
+	if (this.tail == null) {
+	    this.head = node;
+	    this.tail = node;
+	} else {
+	    this.tail.prev = node;
+	    node.next = this.tail;
+	    this.tail = node;
+	}
+    }
+
+    // A detailded description of the algorithm used can be found
+    // in the ideas.org file.
+    this.pushAt = function (p, w) {
+	var n = this.tail;
+	var i = n;
+	// Block start position, next block start position
+	var sp = 0, nsp = 0;
+	do {
+	    sp = nsp;
+	    nsp += n.lenght();
+	    i = n;
+	    n = n.next;
+
+	    console.log (sp, nsp);
+
+	    if (sp <= p && !(nsp <= p))
+		break;
+	} while (n);
+
+	i.insert (p-sp, w);
+    }
+
+    this.forEach = function (fn) {
+	var n = this.tail;
+	while (n) {
+	    fn(n);
+	    n = n.next;
+	}
+    }
+}
+
+
+comp = new CompiledPoetry();
+comp.pushFront(new ColorNode("blue", "###"));
+comp.pushFront(new ColorNode("red", "$$$"));
+comp.pushFront(new ColorNode("red", "!!!!"));
+
+comp.forEach(function (node) {
+    console.log ("ColorNode("+node.color+") = '"+node.data+"'");
+});
+
+comp.pushAt(4, "@");
+
+function Marker (p, l) {
+    this.p = p?p:0;
+    this.l = l?l:0;
+}
+
+function ColorInformation () {
+    this.markers = [];
+
+    // Helpers
+    this.inside = function (x, s, e) {
+	return (x >= s) && (x <= e);
+    }
+
+    // Main fns
+    this.add = function (marker) {
+	for (var m in this.markers) {
+	    var s = marker.s;
+	    var l = marker.l;
+	    var ts = this.markers[m].s;
+	    var tl = this.markers[m].l;
+
+	    if (this.inside(s, ts, tl)) {
+
+	    } else
+		if (this.inside(s+l, ts, tl)) {
+
+		} else
+		    if (this.inside(ts, s, s+l)) {
+
+		    } else
+			if (this.inside(ts+tl, s, s+l)) {
+
+			}
+	}
+    }
+
+    this.remove = function (marker) {
+
+    }
+
+    this.insert = function () {
+
+    }
+
+    this.delete = function () {
+
+    }
+
+    // @construct
+}

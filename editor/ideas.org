@@ -1,0 +1,114 @@
+* Ideas
+
+** pushAt(p, w)
+
+*** Information
+
+The /pushAt(p, w)/ receives two arguments:
+
+1. *p* is the position where the text shall be inserted;
+2. *w* is the text to be inserted.
+
+pushAt inserts imediatly before the character specified by *p*.
+
+The numbering used is the following:
+
+0123456
+#######
+
+e.g.: starting from 0.
+
+*** Examples
+
+In the example below, each type of character belongs to a different
+node.
+
+###$$$!!!!
+
+Now, lets do a few tests with the behaviour of the pushAt function.
+
+**** pushAt(0, @)
+
+Expected:
+
+@###$$$!!!!
+
+Algorithm:
+
+Run through each text block until the starting position of one of them
+is less or equal than the position to be inserted and the starting
+position of the next one is not less than or equal than *p* and then
+forward *p* - *starting position* and *w* to this block. After this, stop.
+
+**** pushAt(1, @)
+
+Expected:
+
+#@##$$$!!!!
+
+Algorithm:
+
+*PASS*
+
+**** pushAt(3, @)
+
+Expected:
+
+###@$$$!!!!
+
+Algorithm:
+
+*PASS*
+
+Notes:
+
+*w* will be inserted at the first position of the second block the first
+block, not the last of the first one.
+*** Algorithm
+
+Run through each text block until the starting position of one of them
+is less or equal than the position to be inserted and the starting
+position of the next one is not less than or equal than *p* and then
+forward *p* - *starting position* and *w* to this block. After this, stop.
+** ColorNode.insert(p, w)
+
+This function is called by /pushAt(p, w)/ to insert content in a
+ColorNode. If *p* lies in the beginning or in the end of the content of
+the ColorNode, /insert/ will simply insert another ColorNode in the
+beginning or in the end but if *p* lies somewhere in the middle of the
+content, it will firt subdivide the ColorNode itself in two new color
+nodes, updating its content and inserting a new one before it, then
+it will call insert on itself again with a *p* of *0* (beginning) to
+insert the a ColorNode with content of *w*.
+** popAt(s, e)
+
+This function removes the text from *s* to *e*.
+
+Suppose we have the following characters:
+
+01234
+ABCDE
+
+deleting from *1* to *3* would give us:
+
+04    01
+AE -> AE
+
+(the 04 uses the numbering of before any changes took action)
+
+*** Algorithm
+
+AAAAABBCCCC
+ .------.
+
+Find the chunk in which the deletion starts, send the /local/ starting
+position to the chunk + local ending position. Go to the next chunk
+and find if its start position is less than or equal to the del. end,
+if it does send del(0, /local/ ending position) if not, stop. Go to the
+next chunk and repeat the procedure.
+
+**** Finding the /local/ ending position for a chunk
+
+end-chunk start
+
+if > chunk end, chunk end, else itself

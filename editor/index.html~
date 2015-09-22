@@ -1,0 +1,219 @@
+<!doctype HTML>
+
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Poetando</title>
+		<style type="text/css">
+			@import url(codemirror/codemirror.css);
+			@import url(codemirror/monokai.css);
+		</style>
+		<style type="text/css" media="screen">
+			body {
+				font-size: 26px;
+				margin: 0;
+				overflow: hidden;
+			}
+
+			#window {
+				position: absolute;
+				right: 0;
+				left: 0;
+				bottom: 0;
+				top: 0;
+			}
+
+			#sidebar {
+				width: 64px;
+				float: left;
+				height: 100%;
+
+				background: #878882;
+			}
+
+			#view {
+				left: 64px;
+				right: 0;
+				height: 100%;
+				position: absolute;
+			}
+
+			#editor {
+				position: absolute;
+				top: 0;
+				bottom: 0;
+				left: 0;
+				width: 50%;
+			}
+
+			#poem {
+				position: absolute;
+				top: 0;
+				bottom: 0;
+				right: 0;
+				width: 50%;
+				color: white;
+				background: #272822;
+			}
+
+			.button {
+				margin: 2px;
+			}
+
+			.button:hover {
+				cursor: pointer;
+			}
+
+			.button:active {
+				border: 1px solid transparent;
+			}
+
+			.d-title {
+				font-size: 26px;
+				color: #333;
+			}
+
+			.d-buttonl {
+				background: #fff;
+
+				color: #666;
+				border-radius: 6px;
+				box-shadow: 0 0 2px 0 #555;
+
+				position: absolute;
+				left: 6px;
+				bottom: 6px;
+
+				padding: 12px;
+			}
+
+			.d-buttonr {
+				background: #fff;
+
+				color: #666;
+				border-radius: 6px;
+				box-shadow: 0 0 2px 0 #555;
+
+				position: absolute;
+				right: 6px;
+				bottom: 6px;
+
+				padding: 12px;
+			}
+
+			.d-buttonr:hover {
+				cursor: pointer;
+			}
+
+			.d-buttonl:hover {
+				cursor: pointer;
+			}
+
+			.d-buttonr:active {
+				background: #9f9;
+			}
+
+			.d-buttonl:active {
+				background: #9f9;
+			}
+
+			#dialog {
+				z-index: 100;
+
+				background: #fed;
+				color: #999;
+
+				text-align: center;
+				padding: 12px;
+
+				font-family: sans-serif;
+				font-size: 18px;
+
+				position: absolute;
+
+				width: 300px;
+				height: 128px;
+
+				border-radius: 6px;
+				box-shadow: 0 0 6px 0 black;
+
+				left: -200px;
+				top: 50%;
+
+				margin-left: -150px;
+				margin-top: -64px;
+			}
+		</style>
+
+		<script src="js/poetry.js" type="text/javascript"></script>
+		<script src="js/color.js" type="text/javascript"></script>
+		<script src="js/jquery.js" type="text/javascript"></script>
+	</head>
+
+	<body>
+		<div id="window">
+			<div id="sidebar">
+				<!-- Color it -->
+				<div class="button" onclick="askColorType()">
+					<img src="img/code.png" width=60 height=60>
+				</div>
+			</div>
+
+			<div id="view">
+				<!-- Write Poetry here -->
+				<div id="editor"></div>
+				<!-- See it here -->
+				<pre>
+					<code id="poem">
+					</code>
+				</pre>
+			</div>
+		</div>
+
+		<div id="dialog">
+			<div class="d-title">Adicionar Cor</div>
+
+			Adicionar cor à:
+
+			<div class="d-buttonl" onclick="colorize(false);">Esta seleção</div>
+			<div class="d-buttonr" onclick="colorize(true);">Todas iguais</div>
+		</div>
+
+		<script src="codemirror/codemirror.js" type="text/javascript"></script>
+		<script type="text/javascript">
+			var colors = new ColorInformation();
+			var editor = CodeMirror(document.getElementById("editor"), {
+				lineNumbers: true,
+				theme: "monokai"
+			});
+
+			function toLinear (cartesian) {
+				var content = editor.getValue();
+				var p = 0;
+				var x = 0, y = 0;
+
+				while (true) {
+					if (content[p] == '\n') {
+						y++;
+						x=0;
+					} else {
+						x++;
+						p++;
+					}
+
+					if (x >= cartesian.ch && y >= cartesian.line) {
+						break;
+					}
+				}
+
+				return p;
+			}
+
+			editor.on("beforeChange", function (instance, ch) {
+
+			});
+
+			editor.setSize("100%", "100%");
+		</script>
+	</body>
+</html>
