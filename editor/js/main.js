@@ -95,7 +95,7 @@ function addColorButton (color) {
 }
 
 function encodeURIComplete(str) {
-    return encodeURIComponent(str).replace(/!/g, '%21');
+    return encodeURIComponent(btoa(str)).replace(/!/g, '%21');
 }
 
 function setUrlData (data) {
@@ -108,9 +108,9 @@ function getUrlData () {
     var dataUrl = window.location.href.substr(urlSize, window.location.href.length-urlSize);
 
     if (dataUrl.substr(0,3) == '?v=')
-	return decodeURIComponent(dataUrl.substr(3, dataUrl.length-3));
+	return atob(decodeURIComponent(dataUrl.substr(3, dataUrl.length-3)));
     else
-	return decideURIComponent(dataUrl);
+	return atob(decideURIComponent(dataUrl));
 }
 
 addColorButton("#66D9EF");
