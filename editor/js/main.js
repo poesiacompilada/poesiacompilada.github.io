@@ -95,7 +95,7 @@ function addColorButton (color) {
 }
 
 function setUrlData (data) {
-    data = encodeURI(data);
+    data = encodeURIComponent(data);
     window.history.replaceState("", "PEd", window.location.pathname+"?v="+data);
 }
 
@@ -104,9 +104,9 @@ function getUrlData () {
     var dataUrl = window.location.href.substr(urlSize, window.location.href.length-urlSize);
 
     if (dataUrl.substr(0,3) == '?v=')
-	return decodeURI(dataUrl.substr(3, dataUrl.length-3));
+	return decodeURIComponent(dataUrl.substr(3, dataUrl.length-3));
     else
-	return decideURI(dataUrl);
+	return decideURIComponent(dataUrl);
 }
 
 addColorButton("#66D9EF");
