@@ -94,8 +94,12 @@ function addColorButton (color) {
     $("#sidebar").append($(html));
 }
 
+function encodeURIComplete(str) {
+    return encodeURIComponent(str).replace(/!/g, '%21');
+}
+
 function setUrlData (data) {
-    data = encodeURIComponent(data);
+    data = encodeURIComplete(data);
     window.history.replaceState("", "PEd", window.location.pathname+"?v="+data);
 }
 
