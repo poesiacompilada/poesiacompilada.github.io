@@ -13,6 +13,8 @@ Here I'll put *everything* I still need to do.
 ** DONE Make it possible to change color from existing chunks
    CLOCK: [2015-09-23 Wed 01:37]--[2015-09-23 Wed 02:31] =>  0:54
 
+** TODO Add buttons to change font size
+   CLOCK: [2015-09-23 Wed 09:46]
 
 * Functions
 

@@ -119,7 +119,17 @@ function CompiledPoetry () {
     this.head = null;
     this.tail = null;
     this.color = "white";
+    this.font = 16;
 
+    this.changeFontSize = function (delta) {
+	var newFontSize = this.font + delta;
+
+	if (newFontSize > 0) {
+	    this.font = newFontSize;
+	    this.renderOnCanvas(true);
+	}
+    }
+    
     this.updateTail = function (current, n) {
 	if (this.tail == current)
 	    this.tail = n;
@@ -338,7 +348,7 @@ function CompiledPoetry () {
 	this.merge();
 
 	var margin = 6;
-	var font = 16;
+	var font = this.font;
 
 	if (zero) {
 	    html5.canvas.width = margin*2;
@@ -427,6 +437,14 @@ function CompiledPoetry () {
     }
 
     this.exportToWindow = function () {
+	var w = html5.canvas.width;
+	var h = html5.canvas.height;
+
+	if (w > 800)
+	    w = 800;
+	if (h > 600)
+	    h = 600;
+
 	window.open(html5.canvas.toDataURL("image/png"), "PEd Export", "width="+html5.canvas.width+",height="+html5.canvas.height);
     }
 
