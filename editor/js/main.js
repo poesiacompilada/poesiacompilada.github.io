@@ -58,10 +58,6 @@ function concat (lines) {
     return r;
 }
 
-editor.on("change", function (instance, ch) {
-    setUrlData(comp.exportToUrl());    
-});
-
 editor.on("beforeChange", function (instance, ch) {
     // console.log (ch, toLinear(ch.from), toLinear(ch.to));
 

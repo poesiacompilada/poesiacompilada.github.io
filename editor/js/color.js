@@ -400,6 +400,7 @@ function CompiledPoetry () {
 
 	// Center the canvas
 	this.centerCanvas();
+	setUrlData(this.exportToUrl());
     }
 
     this.centerCanvas = function () {
