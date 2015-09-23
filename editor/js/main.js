@@ -96,15 +96,15 @@ function addColorButton (color) {
 
 function setUrlData (data) {
     data = encodeURI(data);
-    window.history.replaceState("", "PEd", window.location.pathname+"?"+data);
+    window.history.replaceState("", "PEd", window.location.pathname+"?v="+data);
 }
 
 function getUrlData () {
     var urlSize = (window.location.protocol+"//"+window.location.hostname+window.location.pathname).length;
     var dataUrl = window.location.href.substr(urlSize, window.location.href.length-urlSize);
 
-    if (dataUrl[0] == '?')
-	return decodeURI(dataUrl.substr(1, dataUrl.length-1));
+    if (dataUrl.substr(0,3) == '?v=')
+	return decodeURI(dataUrl.substr(3, dataUrl.length-3));
     else
 	return decideURI(dataUrl);
 }
