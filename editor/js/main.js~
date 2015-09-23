@@ -1,0 +1,83 @@
+$("#color").keyup(function (evt) {
+    if (evt.keyCode == 13)
+	colorize();
+});
+
+var editor = CodeMirror(document.getElementById("editor"), {
+    lineNumbers: true,
+    theme: "monokai"
+});
+
+editor.addKeyMap(CodeMirror.normalizeKeyMap({
+    "Alt-C": function(cm) {openEd();}
+}));
+
+var comp = new CompiledPoetry();
+
+function closeEd () {
+    $("#dialog").fadeOut(300);
+    editor.focus();
+}
+
+function openEd () {
+    $("#dialog").fadeIn(300);
+    $("#color").focus();
+}
+
+function toLinear (cartesian) {
+    var content = editor.getValue();
+    var p = 0;
+    var x = 0, y = 0;
+
+    while (true) {
+	if (x >= cartesian.ch && y >= cartesian.line) {
+	    break;
+	}
+
+	if (content[p] == '\n') {
+	    y++;
+	    x=0;
+	    p++;
+	} else {
+	    x++;
+	    p++;
+	}
+    }
+
+    return p;
+}
+
+function concat (lines) {
+    var r = "";
+    for (var l in lines) {
+	if (l > 0)
+	    r += "\n";
+	r += lines[l];
+    }
+    return r;
+}
+
+editor.on("beforeChange", function (instance, ch) {
+    console.log (ch, toLinear(ch.from), toLinear(ch.to));
+
+    if (ch.origin == "+input" || ch.origin == "*compose") {
+	comp.pushAt(toLinear(ch.from), concat(ch.text));
+    } else if (ch.origin == "+delete") {
+	comp.popAt(toLinear(ch.from), toLinear(ch.to));
+    }
+
+    comp.forEach(function (node) {
+	console.log ("ColorNode("+node.color+") = '"+node.data+"'");
+    });
+
+    comp.renderOnCanvas(true);
+
+    //$("#poem").html(comp.render());
+});
+
+function colorize () {
+    comp.setColor($("#color").val());
+    closeEd();
+}
+
+editor.setSize("100%", "100%");

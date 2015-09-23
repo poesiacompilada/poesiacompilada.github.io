@@ -1,4 +1,20 @@
-* Ideas
+* DONE 
+
+Here I'll put *everything* I still need to do.
+
+** DONE Center the poetry screen
+   CLOCK: [2015-09-23 Wed 00:32]--[2015-09-23 Wed 01:00] =>  0:28
+** DONE Make an decent icon to the export button
+   CLOCK: [2015-09-23 Wed 01:09]--[2015-09-23 Wed 01:19] =>  0:10
+** DONE Add mouseover label to the export button
+** DONE Put the export button next the colorize button
+** DONE Add default colors to the sidebar
+   CLOCK: [2015-09-23 Wed 01:20]--[2015-09-23 Wed 01:36] =>  0:16
+** DONE Make it possible to change color from existing chunks
+   CLOCK: [2015-09-23 Wed 01:37]--[2015-09-23 Wed 02:31] =>  0:54
+
+
+* Functions
 
 ** pushAt(p, w)
 
