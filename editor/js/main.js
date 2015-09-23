@@ -58,8 +58,12 @@ function concat (lines) {
     return r;
 }
 
+editor.on("change", function (instance, ch) {
+    setUrlData(comp.exportToUrl());    
+});
+
 editor.on("beforeChange", function (instance, ch) {
-    console.log (ch, toLinear(ch.from), toLinear(ch.to));
+    // console.log (ch, toLinear(ch.from), toLinear(ch.to));
 
     if (ch.origin == "+input" || ch.origin == "*compose") {
 	if (toLinear(ch.from)-toLinear(ch.to) == 0)
@@ -94,6 +98,21 @@ function addColorButton (color) {
     $("#sidebar").append($(html));
 }
 
+function setUrlData (data) {
+    data = encodeURI(data);
+    window.history.replaceState("", "PEd", window.location.pathname+"?"+data);
+}
+
+function getUrlData () {
+    var urlSize = (window.location.protocol+"//"+window.location.hostname+window.location.pathname).length;
+    var dataUrl = window.location.href.substr(urlSize, window.location.href.length-urlSize);
+
+    if (dataUrl[0] == '?')
+	return decodeURI(dataUrl.substr(1, dataUrl.length-1));
+    else
+	return decideURI(dataUrl);
+}
+
 addColorButton("#66D9EF");
 addColorButton("#F92672");
 addColorButton("#524f52");
@@ -103,3 +122,5 @@ addColorButton("#AE81FF");
 addColorButton("#A6E22E");
 
 editor.setSize("100%", "100%");
+
+comp.importFromUrl(getUrlData());

@@ -86,7 +86,7 @@ function ColorNode (color, data) {
 	    } else
 		poetry.updateTail(this, n);
 	    this.prev = n;
-	} else if (p == this.lenght()) {
+	} else if (p == this.length()) {
 	    var n = new ColorNode(poetry.color, w);
 	    n.prev = this;
 	    n.next = this.next;
@@ -110,7 +110,7 @@ function ColorNode (color, data) {
 	}
     }
 
-    this.lenght = function () {
+    this.length = function () {
 	return this.data.length;
     }
 }
@@ -203,7 +203,7 @@ function CompiledPoetry () {
 
 	do {
 	    sp = nsp;
-	    nsp += n.lenght();
+	    nsp += n.length();
 	    i = n;
 	    n = n.next;
 
@@ -227,7 +227,7 @@ function CompiledPoetry () {
 	var sp = 0, nsp = 0;
 	do {
 	    sp = nsp;
-	    nsp += n.lenght();
+	    nsp += n.length();
 	    i = n;
 	    n = n.next;
 
@@ -242,7 +242,7 @@ function CompiledPoetry () {
 	do {
 	    if (n) {
 		sp = nsp;
-		nsp += n.lenght();
+		nsp += n.length();
 		i = n;
 		n = n.next;
 		
@@ -269,7 +269,7 @@ function CompiledPoetry () {
 
 	do {
 	    sp = nsp;
-	    nsp += n.lenght();
+	    nsp += n.length();
 	    i = n;
 	    n = n.next;
 
@@ -285,7 +285,7 @@ function CompiledPoetry () {
 	do {
 	    if (n) {
 		sp = nsp;
-		nsp += n.lenght();
+		nsp += n.length();
 		i = n;
 		n = n.next;
 		
@@ -434,6 +434,55 @@ function CompiledPoetry () {
 	}
 
 	return lines;
+    }
+
+    this.importFromUrl = function (data) {
+	this.tail = this.head = null;
+
+	var p = 0, e;
+	var editorValue = "";
+
+	while (p < data.length) {
+	    var color = "";
+	    var len = "";
+	    var content = "";
+	    while (data[p++] != ';') {
+		color += data[p-1];
+
+		if (p > data.length)
+		    return;
+	    }
+	    while (data[p++] != ';') {
+		len += data[p-1];
+
+		if (p > data.length)
+		    return;
+	    }
+	    len = Math.floor(len);
+	    e = p+len;
+	    while (p < e) {
+		content += data[p++];
+
+		if (p > data.length)
+		    return;
+	    }
+
+	    editorValue += content;
+	    this.pushFront(new ColorNode(color, content));
+	}
+
+	editor.setValue(editorValue);
+	this.renderOnCanvas();
+    }
+
+    this.exportToUrl = function () {
+	var n = this.tail;
+	var url = "";
+	while (n) {
+	    url += n.color+";"+n.length()+";"+n.data;
+	    n = n.next;
+	}
+	return url;	
     }
 
     this.exportToWindow = function () {
