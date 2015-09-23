@@ -59,10 +59,15 @@ function concat (lines) {
 }
 
 editor.on("beforeChange", function (instance, ch) {
-    //console.log (ch, toLinear(ch.from), toLinear(ch.to));
+    console.log (ch, toLinear(ch.from), toLinear(ch.to));
 
     if (ch.origin == "+input" || ch.origin == "*compose") {
-	comp.pushAt(toLinear(ch.from), concat(ch.text));
+	if (toLinear(ch.from)-toLinear(ch.to) == 0)
+	    comp.pushAt(toLinear(ch.from), concat(ch.text));
+	else {
+	    comp.popAt(toLinear(ch.from), toLinear(ch.to));
+	    comp.pushAt(toLinear(ch.from), concat(ch.text));
+	}
     } else if (ch.origin == "+delete") {
 	comp.popAt(toLinear(ch.from), toLinear(ch.to));
     }

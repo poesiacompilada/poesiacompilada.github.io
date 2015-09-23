@@ -179,7 +179,7 @@
     <div id="window">
       <div id="sidebar">
 	<!-- Color it -->
-	<div class="button" title="Mudar cor" onclick="openEd()">
+	<div class="button" title="" onclick="openEd()">
 	  <img src="img/code.png" width=60 height=60>
 	</div>
 	<div class="button" title="Exportar" onclick="comp.exportToWindow()">
