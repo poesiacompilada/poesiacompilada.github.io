@@ -89,18 +89,22 @@ function colorize () {
 function addColorButton (color) {
     var html = "";
 
-    html += '<div class="button" title="" onclick="comp.setColor(\''+color+'\')"><div style="background: '+color+';width: 60px;height: 60px; border-radius: 10px;"></div>';
+    html += '<div class="button" title="Utilizar cor '+color+'" onclick="comp.setColor(\''+color+'\')"><div style="background: '+color+';width: 60px;height: 60px; border-radius: 10px;"></div>';
 
     $("#sidebar").append($(html));
 }
 
 function encodeURIComplete(str) {
-    return encodeURIComponent(btoa(str)).replace(/!/g, '%21');
+    return encodeURIComponent(btoa(str));
 }
 
 function setUrlData (data) {
     data = encodeURIComplete(data);
-    window.history.replaceState("", "PEd", window.location.pathname+"?v="+data);
+   
+    if (data)
+	window.history.replaceState("", "Poesia()", window.location.pathname+"?v="+data);
+    else
+	window.history.replaceState("", "Poesia()", window.location.pathname);
 }
 
 function getUrlData () {
@@ -110,7 +114,7 @@ function getUrlData () {
     if (dataUrl.substr(0,3) == '?v=')
 	return atob(decodeURIComponent(dataUrl.substr(3, dataUrl.length-3)));
     else
-	return atob(decideURIComponent(dataUrl));
+	return atob(decodeURIComponent(dataUrl));
 }
 
 addColorButton("#66D9EF");

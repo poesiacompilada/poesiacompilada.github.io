@@ -495,7 +495,7 @@ function CompiledPoetry () {
 	if (h > 600)
 	    h = 600;
 
-	window.open(html5.canvas.toDataURL("image/png"), "PEd Export", "width="+html5.canvas.width+",height="+html5.canvas.height);
+	window.open(html5.canvas.toDataURL("image/png"), "PEd Export", "width="+w+",height="+h);
     }
 
     this.clearCanvas = function () {
