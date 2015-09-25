@@ -11,10 +11,8 @@ var editor = CodeMirror(document.getElementById("editor"), {
 function getUrl () {
     if (window.location.pathname.indexOf('index.html') > -1)
 	return window.location.protocol+"//"+window.location.hostname+window.location.pathname.replace('index.html', 'view.html');
-    else if (window.location.pathname.indexOf('?') > -1)
-	return window.location.protocol+"//"+window.location.hostname+window.location.pathname.replace('?', 'view.html?');
     else
-	return window.location.protocol+"//"+window.location.hostname+window.location.pathname;
+	return window.location.protocol+"//"+window.location.hostname+window.location.pathname+"view.html";
 }
 
 editor.addKeyMap(CodeMirror.normalizeKeyMap({
