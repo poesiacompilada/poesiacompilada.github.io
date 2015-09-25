@@ -9,7 +9,8 @@ var editor = CodeMirror(document.getElementById("editor"), {
 });
 
 editor.addKeyMap(CodeMirror.normalizeKeyMap({
-    "Alt-C": function(cm) {openEd();}
+    "Alt-C": function(cm) {openEd();},
+    "Alt-H": function(cm) {window.prompt("Pressione: Ctrl+C, Enter", comp.render())}
 }));
 
 var comp = new CompiledPoetry();
@@ -59,16 +60,16 @@ function concat (lines) {
 }
 
 editor.on("beforeChange", function (instance, ch) {
-    // console.log (ch, toLinear(ch.from), toLinear(ch.to));
+    console.log (ch, toLinear(ch.from), toLinear(ch.to));
 
-    if (ch.origin == "+input" || ch.origin == "*compose") {
+    if (ch.origin == "+input" || ch.origin == "*compose" || ch.origin == "paste") {
 	if (toLinear(ch.from)-toLinear(ch.to) == 0)
 	    comp.pushAt(toLinear(ch.from), concat(ch.text));
 	else {
 	    comp.popAt(toLinear(ch.from), toLinear(ch.to));
 	    comp.pushAt(toLinear(ch.from), concat(ch.text));
 	}
-    } else if (ch.origin == "+delete") {
+    } else if (ch.origin == "+delete" || ch.origin == "cut") {
 	comp.popAt(toLinear(ch.from), toLinear(ch.to));
     }
 
@@ -117,6 +118,8 @@ function getUrlData () {
 	return atob(decodeURIComponent(dataUrl));
 }
 
+
+// Monokai's colors
 addColorButton("#66D9EF");
 addColorButton("#F92672");
 addColorButton("#524f52");

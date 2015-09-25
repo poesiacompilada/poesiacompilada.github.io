@@ -9,7 +9,7 @@ function ColorNode (color, data) {
     this.data = data;
 
     this.html = function () {
-	return '<span style="color: '+this.color+'">'+this.data+'</span>';
+	return '<span style="color: '+this.color+'">'+this.data.replace(/\n/g, '<br>')+'</span>';
     }
 
     this.del = function (s, e, poetry) {
