@@ -25,10 +25,12 @@ so I can create the needed html within the editor.
 
 ** DONE Add export to HTML option
    CLOCK: [2015-09-24 Thu 19:53]--[2015-09-24 Thu 20:58] =>  1:05
-** TODO Add screen without editor to just visualize poems (as html)
-
-** TODO Fix Ctrl-C, Ctrl-X, Ctrl-V
-   CLOCK: [2015-09-25 Fri 11:14]
+** DONE Add screen without editor to just visualize poems (as html)
+   CLOCK: [2015-09-25 Fri 16:50]--[2015-09-25 Fri 17:16] =>  0:26
+Another url. Without editing capabilities. This means another js and
+another html file.
+** DONE Fix Ctrl-C, Ctrl-X, Ctrl-V, Ctrl-Z, Ctrl-Shift-Z
+   CLOCK: [2015-09-25 Fri 11:14]--[2015-09-25 Fri 13:00] =>  1:46
 
 * Name
 

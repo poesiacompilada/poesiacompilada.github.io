@@ -8,9 +8,14 @@ var editor = CodeMirror(document.getElementById("editor"), {
     theme: "monokai"
 });
 
+function getUrl () {
+    return window.location.protocol+"//"+window.location.hostname+window.location.pathname;
+}
+
 editor.addKeyMap(CodeMirror.normalizeKeyMap({
     "Alt-C": function(cm) {openEd();},
-    "Alt-H": function(cm) {window.prompt("Pressione: Ctrl+C, Enter", comp.render())}
+    "Alt-H": function(cm) {window.prompt("Pressione: Ctrl+C, Enter", comp.render())},
+    "Alt-U": function(cm) {window.prompt("Pressione: Ctrl-C, Enter", getUrl()+"?v="+encodeURIComplete(comp.exportToUrl()))}
 }));
 
 var comp = new CompiledPoetry();

@@ -472,8 +472,10 @@ function CompiledPoetry () {
 	    this.pushFront(new ColorNode(color, content));
 	}
 
-	editor.setValue(editorValue);
-	this.renderOnCanvas();
+	if (typeof editor !== 'undefined') {
+	    editor.setValue(editorValue);
+	    this.renderOnCanvas();
+	}
     }
 
     this.exportToUrl = function () {
