@@ -62,7 +62,7 @@ function concat (lines) {
 editor.on("beforeChange", function (instance, ch) {
     console.log (ch, toLinear(ch.from), toLinear(ch.to));
 
-    if (ch.origin == "+input" || ch.origin == "*compose" || ch.origin == "paste") {
+    if (ch.origin == "+input" || ch.origin == "*compose" || ch.origin == "paste" || ch.origin == "undo" || ch.origin == "redo") {
 	if (toLinear(ch.from)-toLinear(ch.to) == 0)
 	    comp.pushAt(toLinear(ch.from), concat(ch.text));
 	else {
