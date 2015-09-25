@@ -9,7 +9,7 @@ var editor = CodeMirror(document.getElementById("editor"), {
 });
 
 function getUrl () {
-    return window.location.protocol+"//"+window.location.hostname+window.location.pathname;
+    return window.location.protocol+"//"+window.location.hostname+window.location.pathname.replace('index.html', 'view.html');
 }
 
 editor.addKeyMap(CodeMirror.normalizeKeyMap({
