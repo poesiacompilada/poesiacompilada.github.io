@@ -119,6 +119,7 @@ function CompiledPoetry () {
     this.head = null;
     this.tail = null;
     this.color = "white";
+    this.background = "#272822";
     this.font = 16;
 
     this.changeFontSize = function (delta) {
@@ -502,7 +503,7 @@ function CompiledPoetry () {
 
     this.clearCanvas = function () {
 	// html5.context.clearRect(0,0,html5.canvas.width,html5.canvas.height);
-	html5.context.fillStyle = "#272822";
+	html5.context.fillStyle = this.background;
 	html5.context.fillRect(0,0,html5.canvas.width,html5.canvas.height);
     }
 }
