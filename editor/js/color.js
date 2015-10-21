@@ -343,6 +343,18 @@ function CompiledPoetry () {
 	return html;
     }
     
+    this.expandTabs = function (text) {
+    	var expanded = "";
+	var tab = "    ";
+	for (var t=0;t<text.length;t++) {
+		if (text[t].charCodeAt(0) === 9)
+			expanded += tab;
+		else
+			expanded += text[t];
+	}
+	return expanded;
+    }
+
     // Render over a canvas insetead of returning an HTML
     // rendering
     this.renderOnCanvas = function (zero) {
@@ -368,15 +380,15 @@ function CompiledPoetry () {
 	html5.context.font = font+"px monospace";
 	
 	while (n) {
-	    //console.log ("Filling with "+n.color+": "+n.data);
-
 	    var lines = this.textToLines(n.data);
 
 	    for (l in lines) {
 		html5.context.fillStyle = n.color;
-		html5.context.fillText (lines[l][0], p[0], p[1]);
+		// Tab
+		var text = this.expandTabs(lines[l][0]);
 
-		p[0] += html5.context.measureText(lines[l][0]).width;
+		html5.context.fillText (text, p[0], p[1]);
+		p[0] += html5.context.measureText(text).width;
 
 		if (p[0] > html5.canvas.width) {
 		    html5.canvas.width = p[0]+margin;
