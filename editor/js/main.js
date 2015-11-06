@@ -18,7 +18,8 @@ function getUrl () {
 editor.addKeyMap(CodeMirror.normalizeKeyMap({
     "Alt-C": function(cm) {openEd();},
     "Alt-H": function(cm) {window.prompt("Pressione: Ctrl+C, Enter", comp.render())},
-    "Alt-U": function(cm) {window.prompt("Pressione: Ctrl-C, Enter", getUrl()+"?v="+encodeURIComplete(comp.exportToUrl()))}
+    "Alt-U": function(cm) {window.prompt("Pressione: Ctrl-C, Enter", getUrl()+"?v="+encodeURIComplete(comp.exportToUrl()))},
+    "Ctrl-P": function(cm) {comp.renderOnPDF(true)}
 }));
 
 var comp = new CompiledPoetry();
@@ -107,7 +108,7 @@ function encodeURIComplete(str) {
 
 function setUrlData (data) {
     data = encodeURIComplete(data);
-   
+
     if (data)
 	window.history.replaceState("", "Poesia()", window.location.pathname+"?v="+data);
     else
