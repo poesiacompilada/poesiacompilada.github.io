@@ -101,7 +101,8 @@ function ColorNode (color, data) {
 
       newMe.prev = this.prev;
       newMe.next = this;
-      this.prev.next = newMe;
+      if (this.prev)
+	      this.prev.next = newMe;
       this.prev = newMe;
 
       poetry.updateTail(this, newMe);
