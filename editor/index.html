@@ -19,8 +19,20 @@
     position: absolute;
     right: 0;
     left: 0;
-    bottom: 0;
+    bottom: 25px;
     top: 0;
+  }
+
+  #bottomnotice {
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: -25px;
+    height: 25px;
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-size: 22px;
   }
 
   #sidebar {
@@ -206,7 +218,11 @@
   <div id="poem_container">
     <canvas id="poem" width="0" height="0"></canvas>
   </div>
-</div>
+    </div>
+
+    <div id="bottomnotice">
+        Copyright &copy; 2015 Soraya Roberta e Felipe Tavares
+    </div>
 </div>
 
 <div id="dialog">
