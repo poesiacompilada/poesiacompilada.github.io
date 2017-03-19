@@ -18,6 +18,14 @@ p {
 	text-align: justify;
 }
 
+.indent {
+  margin-left: 1em;
+}
+
+.justify {
+  text-align: justify;
+}
+
 .page {
 	margin: 32px;
 	width: 1024px;
