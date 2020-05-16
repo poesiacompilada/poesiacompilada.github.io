@@ -12,234 +12,16 @@
     <atom:link href="http://poesiacompilada.com/blog/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Dia do Programador</title>
-      <link>http://poesiacompilada.com/blog/feed.xml#DiadoProgramador</link>
-      <pubDate>Sun, 13 Sep 2015 21:15:13 -0300</pubDate>
+      <title>Iterações</title>
+      <link>http://poesiacompilada.com/blog/feed.xml#Iterações</link>
+      <pubDate>Sat, 16 May 2020 13:11:39 -0300</pubDate>
       <author>soraya</author>
-      <guid>http://poesiacompilada.com/blog/feed.xml#DiadoProgramador</guid>
-      <description>&lt;p&gt;Feliz dia do programador!&lt;/p&gt;
+      <guid>http://poesiacompilada.com/blog/feed.xml#Iterações</guid>
+      <description>&lt;pre&gt;&lt;code&gt;| paint as normal with float and while and continue as tag eu and amor as code 1 as constant
+float eu, amor;
 
-&lt;pre&gt;&lt;code&gt;| paint as normal with def as class faz as tag arte as code
-def programador.faz(arte):
-| paint as code
-  programa, programa
-| paint as normal with #programa as class &amp;amp;&amp;amp; as tag dinheiro as string
-  mãe, estou fazendo #programa
-  por que quero &amp;amp;&amp;amp;
-  por dinheiro &amp;amp;&amp;amp;
-  por amor
-
-| paint as comment
-// Parabéns para todos nós
-// que já cansamos
-// de tentar explicar porque
-// estamos fazendo programas na madrugada
-
-| paint as normal with S.R. as tag Compilada as tag Poesia as class
-//[S.R.]
-//Poesia Compilada
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Byte Girl, evento por Fortaleza</title>
-      <link>http://poesiacompilada.com/blog/feed.xml#ByteGirl,eventoporFortaleza</link>
-      <pubDate>Mon, 17 Aug 2015 23:27:20 -0300</pubDate>
-      <author>soraya</author>
-      <guid>http://poesiacompilada.com/blog/feed.xml#ByteGirl,eventoporFortaleza</guid>
-      <description>&lt;p&gt;&lt;img src="img/posts/bytegirl.jpg" alt="Byte Girl"&gt;&lt;/p&gt;
-
-&lt;p&gt;Olá, pessoal! Então, esses dias estava buscando algumas dicas de eventos da área de TI para postar aqui no Blog, principalmente aqui pelo NE. Achei um evento super fofo que está em sua primeira e poética edição, o Byte.Girl, que tem como público alvo a comunidade tecnológica da cidade de Fortaleza.&lt;/p&gt;
-
-&lt;p&gt;Sua ideia principal é apresentar através de palestras, realizações de mulheres na área de TI – Tecnologia da Informação. De acordo com as organizadoras do evento, a ideia do Byte.Girl&amp;lt;&amp;gt; surgiu após perceberem os dados alarmantes na relação mulheres/mercado de TI, os quais sempre alertamos aqui pelo Poesia.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;| paint as comment
-    #Byte Girl
-
-| paint as string with def as tag byte as code . and ( and ) and girl as normal
-def byte.girl(motivar)
-| paint as string with end as tag #{motivar} as class
-&amp;quot;O Byte girl busca #{motivar}
-    mulheres
- para seguirem
-    na área de TI
- mostrando a realização
- das que já estão&amp;quot;
-end
-
-| paint as comment
-#[S.R.]
-#Poesia Compilada
-#Byte Girl
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Com isso, o evento que irá acontecer em 3 de Outubro de 2015, das 8h às 18h, na UNIFOR, em Fortaleza-CE, abre inscrições neste &lt;a href="https://appticket.com.br/purchase/hotsite/index.php?event=bytegirlfortaleza"&gt;link&lt;/a&gt; hoje, 14, e contará com a presença das já confirmadas palestrantes : Ana Lacerda, Odecilia Barreira, Adriane Fernandes e Bárbara Brandão. Além de palestras o evento terá mesa redonda, workshop, exposições e outros momentos legais.&lt;/p&gt;
-
-&lt;p&gt;Outra coisa massa que descobri é quem nesse período que antecede o evento quem quiser concorrer a prêmios como canecas, camisas e outros lindos brindes pode acessar a página do evento no face e seguir os passos. (Eu já seguir e estou concorrendo, risos. ) Ah! O preço das inscrições é baratinho, R$ 20,00 a inteira e R$ 10,00 a meia.&lt;/p&gt;
-
-&lt;p&gt;Beijos e até a próxima poesia.&lt;/p&gt;
-
-&lt;p&gt;[S.R.]&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Devir</title>
-      <link>http://poesiacompilada.com/blog/feed.xml#Devir</link>
-      <pubDate>Thu, 06 Aug 2015 20:37:57 -0300</pubDate>
-      <author>soraya</author>
-      <guid>http://poesiacompilada.com/blog/feed.xml#Devir</guid>
-      <description>&lt;pre&gt;&lt;code&gt;| paint as comment
-        #Devir
-
-| paint as normal with def as code filosofo as tag muda as class opiniao as class
-def filosofo.muda(opiniao)
-| paint as string with #{ and } as normal opiniao as class
-&amp;quot;Transformando a #{opiniao}
-  num fluxo ininterrupto
-  em busca de uma
-  lei geral do universo
-            que dissolve
-            que cria
-            e transforma
-  todas as realidades
-  existentes&amp;quot;
-| paint as code
-end
-
-| paint as comment
-#[S.R.]
-#Poesiacompilada
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Computação é como navio pirata, só tem homem e canhão!</title>
-      <link>http://poesiacompilada.com/blog/feed.xml#Computaçãoécomonaviopirata,sótemhomemecanhão!</link>
-      <pubDate>Wed, 05 Aug 2015 21:16:37 -0300</pubDate>
-      <author>soraya</author>
-      <guid>http://poesiacompilada.com/blog/feed.xml#Computaçãoécomonaviopirata,sótemhomemecanhão!</guid>
-      <description>&lt;p&gt;&lt;img src="img/posts/deleteseupreconceito.png" alt="Delete Seu Preconceito"&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Logo do Delete seu Preconceito, por: Jean Carlos Oliveira Santos&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Estava na minha página pelo ‘face’ quando vi que uma das minhas amigas tinha compartilhado um álbum de um projeto fotográfico que denuncia o preconceito que mulheres estudantes e profissionais das áreas de Computação e Tecnologias sofrem em seu cotidiano. Então não pensei duas vezes e comecei logo a pesquisar sobre aquela ideia fantástica e descobri que se chamava “Delete seu preconceito”. Por meio da mesma rede social consegui entrar em contato com a Prof. da UFMT e idealizadora do Projeto, a Karen Figueiredo, e perguntei se poderíamos conversar um pouco sobre a ideia do projeto e dicas até sobre eventos da área tecnológica pela UFMT. De imediato a Karen disse que sim e então, pedi que ela me passasse o contato de alguma das meninas que fazem parte do projeto e que resolveram publicar as frases que já escutaram. Com isso, junto com a Karen tive a oportunidade de conversar com a Glauce, uma aluna da Especialização em Engenharia Web e Governo Eletrônico na UFMT, que já ouviu a polêmica frase (título deste post) que anda circulando por várias páginas na net e com a Stephanie, aluna de Sistemas de Informação na UFMT. A seguir, um pouco da nossa conversa.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Poesia Compilada&lt;/strong&gt;: Karen, por que ser uma professora, enquanto você poderia trabalhar em um empresa ou desenvolver produtos sem estar necessariamente em sala de aula?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Karen&lt;/strong&gt;: Assim que terminei a graduação tinha a ideia de buscar por um emprego “seguro” e iniciei uma jornada de concursos enquanto descobria o cenário acadêmico fazendo o mestrado, que até então era um completo mistério para mim. Conforme o tempo foi passando, fui me apaixonando pela pós-graduação e deixando de lado as convocações que começavam a chegar para cargos de analista em órgãos públicos, sempre com a desculpa de fazer um concurso melhor depois e terminar o mestrado primeiro. Quando eu finalmente terminei o mestrado, já estava no primeiro semestre do doutorado, e recusei a convocação para um concurso do SERPRO, foi que a ficha caiu. Eu estava fazendo os concursos errados. O bicho acadêmico já tinha me mordido, rs. Eu queria poder ensinar tudo o que eu estava aprendendo, passar adiante a paixão pela Computação e continuar a fazer pesquisa científica. Eu precisava ser professora. Fiz o primeiro concurso que apareceu para a minha área (Engenharia de Software), para um estado a 3 mil quilômetros de distância de onde eu morava, deixando família e até antigo doutorado para trás, e foi assim que eu passei a fazer parte da UFMT.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Poesia Compilada&lt;/strong&gt;: Já ouvi de várias pessoas que para entrar para a área da computação você precisa ser muito bom em Matemática, mas até que ponto seria esse ‘bom’?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Karen&lt;/strong&gt;: Essa pergunta é difícil de responder. Nem todas as áreas da Computação vão utilizar conceitos de Matemática tão avançados na prática posteriormente, entretanto é impossível passar por um curso de graduação de Computação ou correlatas sem cursar alguma(s) disciplinas de Matemática. Então, para um aluno de computação ou alguém que pretende estudar computação, é algo que você mesmo se não gostar ou for “bom” tem de estar disposto a encarar. Estudar é investir e persistir. Não se sair bem todas as vezes é normal e até saudável para aprender a mudar estratégias de aprendizagem e buscar novas fontes de informações. Sobre a aplicabilidade da Matemática na Computação, eu diria que a Computação é uma área com espaço para todos os gostos. E hoje, mais do que nunca é uma ciência extremamente interdisciplinar (veja que o tema do CSBC de 2016 será exatamente esse: &amp;lt;&lt;a href="http://ww1.inf.pucrs.br/"&gt;http://ww1.inf.pucrs.br/&lt;/a&gt;&amp;gt;. Pode ter muita matemática e física, mas também psicologia, linguística etc.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Poesia Compilada&lt;/strong&gt;: De onde veio a ideia de criar o “Delete o seu preconceito”?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Karen&lt;/strong&gt; : A ideia do projeto foi inspirada no projeto ‘Ah, Branco, dá um tempo! ‘que por sua vez é inspirado no projeto ‘I too am Havard’. Eu já trabalhava com pesquisa de Gênero e Tecnologia na Universidade e como eu mesma vivi algumas situações de preconceito e ouvia relatos de alunas como professora, resolvi que seria uma forma bacana de dar voz a esta problemática. Resolvi adaptar os cartazes para dispositivos digitais e tentar incorporar a ideia de linguagem mista (natural e codificada) nas frases. A parte mais difícil foi conseguir que as meninas quisessem participar, pois apesar de virem relatar as situações preconceituosas para mim, muitas não tiveram coragem de tirar a foto ou desistiam no dia da foto. Algumas alegavam medo de que a frase fosse reconhecida pela pessoa que a proferiu e tinham receio de ataque.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Poesia Compilada&lt;/strong&gt;: Acredito que uma das perguntas mais frequentes e que não podemos deixar de fazer é:  você sofreu algum preconceito quando estava se graduando?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Karen&lt;/strong&gt;: Não. Eu não sofri preconceito enquanto me graduava ou fazia cursos de pós-graduação. Mas esse é o meu cenário. Todos os meus relatos de situações preconceituosas são provenientes de algumas experiências de trabalho e principalmente de pessoas desconhecidas.
-Durante os meus estudos, o que aconteceu foi que eu era praticamente a única mulher da classe. Na graduação, de uma turma de 40 alunos, no último semestre só restavam eu e mais uma colega menina (não me lembro quantas meninas ingressaram) e somente eu me formei naquela turma (esta colega até concluiu o curso posteriormente). No mestrado e doutorado, o cenário era praticamente o mesmo, algumas disciplinas com 5 mulheres, mas outras com nenhuma além de mim. A falta de mulheres em sala também é ruim, pois faz a gente se sentir muito só. Faz nós mesmas questionarmos as nossas capacidades e traz a tona a carga de esteriótipos culturais que carregamos da sociedade. É preciso ter força para lidar com isso, se afirmar capaz e seguir em frente.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Poesia Compilada&lt;/strong&gt;: Eu escrevo poesias, e gosto sempre de implantar na &lt;a href="http://poesiacompilada.com"&gt;poesiacompilada.com&lt;/a&gt; algum questionamento. Então, de onde surgiu esta forma tão expressiva, poética e provocadora de publicar fotos com frases nas redes sociais?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Karen&lt;/strong&gt;: Fico até comovida com a definição! Mas não consigo analisar tanto assim. A ideia simplesmente surgiu e tentei colocar em prática. Gosto de tirar fotos nas horas vagas, porém nunca estudei nada relacionado a fotografia ou tenho câmera profissional. Então, o próprio fato de chamar de projeto fotográfico eu considero completamente pretensioso da minha parte, artisticamente falando, (risos). O objetivo sempre foi passar a mensagem e tentar criar essa consciência social com relação a um problema que vivemos no cotidiano. Só isso, (risos).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Poesia Compilada&lt;/strong&gt;: Vocês poderiam deixar algumas dicas de livros(técnicos ou não), sites para aprender a programar, eventos que irão acontecer pela UFMT/ região, ou alguma outra ideia que queiram acrescentar?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Karen&lt;/strong&gt;: Como professora, acredito fortemente nas ações que incentivam a disseminação da computação para crianças e jovens (sejam meninas ou meninos). Uma forma bacana de começar a trabalhar com esse público, principalmente pra quem quer por a mão na massa e não tem recursos é o Computer Science Unplugged, que aborda diversos temas da computação para várias faixas etárias sem utilizar dispositivos eletrônicos (completamente desconectado). Então essa é a minha dica para espalhar amor e computação por aí! (risos).
-Sobre a UFMT, gostaria de divulgar o nosso projeto &lt;a href="https://www.facebook.com/MeninasDigitaisMT"&gt;Meninas Digitais Regional Mato Grosso&lt;/a&gt; que tem como objetivo a realização de práticas de caráter motivacional e informativo com alunas de Ensino Médio no estado de Mato Grosso visando a equidade de gênero nas carreiras e cursos das áreas de Computação e Tecnologias da região através do incentivo e promoção da participação feminina.&lt;/p&gt;
-
-&lt;p&gt;Em novembro, vamos realizar a &lt;a href="http://erimt2015.ic.ufmt.br/"&gt;Escola Regional de Informática na UFMT&lt;/a&gt; e nela vai acontecer uma Mostra de Arte Digital. As submissões estão abertas até setembro para diversas modalidades, desde ilustrações até trabalhos de robótica artística. Apesar do evento ser em Cuiabá/MT, qualquer pessoa pode participar e mesmo que não possa comparecer, podemos expor o seu trabalho, desde que combinado com a organização do evento.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="img/posts/navpirata.jpg" alt="Navio Pirata"&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Poesia Compilada&lt;/strong&gt;: E você, Glauce, como começou a participar do ‘Delete o seu preconceito’?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Glauce&lt;/strong&gt;: Sou aluna da Especialização em Engenharia Web e Governo Eletrônico na UFMT e fui convidada a participar do projeto “Delete o seu preconceito” pela Karen, que tem desenvolvido junto à UFMT várias ações para a inclusão das mulheres nos cursos de Computação e afins.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Poesia Compilada&lt;/strong&gt;: Eu já escutei ‘você só sabe fazer poesia e artigos, deixa a programação conosco(meninos)’, já achei muito agressivo e para me “vingar” fiz o poema ‘&amp;lt;&lt;a href="http://www.youtube.com/watch?v=eG3ZoOv_QU0"&gt;E daí se sou mulher e programo?&lt;/a&gt;&amp;gt;’. Quando você ouviu a frase ‘Computação é como navio pirata: só tem homem e canhão!’ como reagiu?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Glauce&lt;/strong&gt;: No campus é muito comum estudantes de vários cursos interagirem, promoverem festas juntos e participarem das festas dentro do campus. Nesta época, sentia que essa interação não acontecia naturalmente com as turmas da computação. Quando tentamos promover festas para arrecadar dinheiro para nosso baile de formatura, por exemplo, procurávamos alunos de outros cursos e ouvíamos frases desanimadoras, principalmente relacionados à má fama que tínhamos no campus, como se fôssemos todos “pessoas nerds e feias”, o que não atrairia a atenção de participantes. Acredito que foi nesse contexto que escutei a frase sobre o navio pirata. Era realmente muito desanimador ouvir estas coisas e, como era praticamente adolescente, não sabia lidar com a falta de aceitação no campus. Eu, que sempre amei exatas, passei a não me interessar tanto pelo curso e acredito que este preconceito também teve papel nisto.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Poesia Compilada&lt;/strong&gt;: Teve outras frases ou situações constrangedoras?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Glauce&lt;/strong&gt;: Sim, passei também por algumas situações de preconceito no mercado de trabalho. Uma vez, trabalhando com suporte técnico, me prontifiquei a atender um senhor e o mesmo me olhou de cima abaixo e perguntou para o meu chefe se eu daria conta. Me senti muito irada (por que ele sequer perguntou a mim), mas o atendi educadamente. É desanimador que a mulher muitas vezes tenha que provar sua competência com o resultado de seu trabalho, e isso infelizmente não se restringe à área de TI.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="img/posts/homemajuda.jpg" alt="Homem para ajudar"&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Stephanie, aluna de Sistemas da Informação da UFMT e participante do Delete seu preconceito&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;Poesia Compilada&lt;/strong&gt;: E você, Stephanie,  como entrou para o “Delete seu preconceito”?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Stephanie&lt;/strong&gt;: a professora Karen junto com a UFMT desenvolvem projetos relacionados a inclusão de mulheres na computação. Então, fui convidada pela professora para participar. Quando fui convidada para tirar a foto fiquei animada com ideia e não esperava toda essa repercussão. Algumas pessoas não acreditam que que existe esse preconceito com meninas na área de TI, acredito que seja porque seu círculo de amizade não é preconceituoso e isso é ótimo!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Poesia Compilada&lt;/strong&gt;: e esta frase ‘É melhor chamar um homem para te ajudar com isso’, surgiu em qual contexto?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Stephanie&lt;/strong&gt;: escutei em um dia que estava desenvolvendo trabalhos da faculdade, minha reação foi levar na brincadeira, acredito que seja a melhor opção.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Poesia Compilada&lt;/strong&gt;: em algum momento já passou pela cabeça desistir do curso?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Stephanie&lt;/strong&gt;: No começo eu já pensei em desistir do curso, por vários motivos, achava que não era pra mim. Hoje, tenho certeza que é isso que quero. Não trabalhei com  programação, mas pretendo.&lt;/p&gt;
-
-&lt;p&gt;[S.R.]&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Canção da Torre Mais Alta</title>
-      <link>http://poesiacompilada.com/blog/feed.xml#CançãodaTorreMaisAlta</link>
-      <pubDate>Thu, 30 Jul 2015 00:33:28 -0300</pubDate>
-      <author>soraya</author>
-      <guid>http://poesiacompilada.com/blog/feed.xml#CançãodaTorreMaisAlta</guid>
-      <description>&lt;pre&gt;&lt;code&gt;| paint as code with &amp;lt;? as tag
-&amp;lt;?Canção da Torre Mais Alta
-
-| paint as comment
-&amp;lt;!--  Mocidade presa
-      A tudo oprimida
-      Por delicadeza
-      Eu perdi a vida.
-      Ah! Que o tempo venha
-      Em que a alma se empenha. --&amp;gt;
-
-| paint as string with echo as code ; as normal
-echo &amp;quot;Eu me disse: cessa,
-      Que ninguém te veja:
-      E sem a promessa
-      De algum bem que seja.
-      A ti só aspiro
-      Augusto retiro.&amp;quot;;
-
-| paint as string with $dentro as tag ; and = as normal
-$dentro =
-      &amp;quot;Tamanha paciência
-       Não me hei de esquecer.
-       Temor e dolência,
-       Aos céus fiz erguer.
-       E esta sede estranha
-       A ofuscar-me a entranha.&amp;quot;;
-
-| paint as class with $fora as tag ; and = as normal
-$fora =
-      &amp;quot;Qual o Prado imenso
-       Condenado a olvido,
-       Que cresce florido
-       De joio e de incenso&amp;quot;;
-| paint as normal
-       Ao feroz zunzum das
-       Moscas imundas.
-
-| paint as tag with Poesia as class Compilada as code
-//Arthur Rimbaud
-//Poesia Compilada
+while (eu + amor != 1)
+  continue;
 &lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
@@ -247,7 +29,7 @@ $fora =
     <item>
       <title>Descrição</title>
       <link>http://poesiacompilada.com/blog/feed.xml#Descrição</link>
-      <pubDate>Wed, 29 Jul 2015 18:57:52 -0300</pubDate>
+      <pubDate>Sat, 16 May 2020 13:11:39 -0300</pubDate>
       <author>soraya</author>
       <guid>http://poesiacompilada.com/blog/feed.xml#Descrição</guid>
       <description>&lt;p&gt;&lt;code&gt;&lt;pre style="background-image: url(img/posts/pluto.png); background-size: 100%;"&gt;
@@ -278,134 +60,32 @@ $fora =
     </item>
     
     <item>
-      <title>O Jogo</title>
-      <link>http://poesiacompilada.com/blog/feed.xml#OJogo</link>
-      <pubDate>Sun, 19 Jul 2015 17:17:16 -0300</pubDate>
-      <author>felipe</author>
-      <guid>http://poesiacompilada.com/blog/feed.xml#OJogo</guid>
-      <description>&lt;p&gt;Por esta você não esperava! Um jogo!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="../ojogo/anim/back0.png" alt="O Jogo - Poesia Compilada" title="Capa"&gt;&lt;/p&gt;
-
-&lt;p&gt;Jogue &lt;a href="http://poesiacompilada.com/ojogo/"&gt;aqui&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>De Dry Medeiros</title>
-      <link>http://poesiacompilada.com/blog/feed.xml#DeDryMedeiros</link>
-      <pubDate>Fri, 10 Jul 2015 22:54:29 -0300</pubDate>
+      <title>De Álvaro Tavares</title>
+      <link>http://poesiacompilada.com/blog/feed.xml#DeÁlvaroTavares</link>
+      <pubDate>Sat, 16 May 2020 13:11:39 -0300</pubDate>
       <author>soraya</author>
-      <guid>http://poesiacompilada.com/blog/feed.xml#DeDryMedeiros</guid>
-      <description>&lt;pre&gt;&lt;code&gt;| paint as normal with &amp;amp;&amp;amp; and ( and ) and { as tag if as code
-if (saudade &amp;amp;&amp;amp; amor &amp;gt; orgulho) {
-| paint as normal with &amp;quot;Vale and a and pena!&amp;quot; as string } and &amp;lt;&amp;lt; as tag endl and cout as class
-  cout &amp;lt;&amp;lt; &amp;quot;Vale a pena!&amp;quot; &amp;lt;&amp;lt; endl;
-}
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>De Daniele Melo</title>
-      <link>http://poesiacompilada.com/blog/feed.xml#DeDanieleMelo</link>
-      <pubDate>Fri, 10 Jul 2015 22:49:43 -0300</pubDate>
-      <author>soraya</author>
-      <guid>http://poesiacompilada.com/blog/feed.xml#DeDanieleMelo</guid>
-      <description>&lt;pre&gt;&lt;code&gt;| paint as string
-&amp;lt;!DOCTYPE html&amp;gt;
-| paint as white with charset as #9f9 &amp;quot;UTF-8&amp;quot; as string &amp;lt; and &amp;gt; and / and html and title and meta and head and body and pre and &amp;lt;b&amp;gt; and &amp;lt;i&amp;gt; and &amp;lt;/b&amp;gt; and &amp;lt;/i&amp;gt; as green
-&amp;lt;html&amp;gt;
-  &amp;lt;head&amp;gt;
-    &amp;lt;meta charset=&amp;quot;UTF-8&amp;quot;&amp;gt;
-    &amp;lt;title&amp;gt;Conversando com a tempestade&amp;lt;/title&amp;gt;
-  &amp;lt;/head&amp;gt;
-
-  &amp;lt;body&amp;gt;
-    &amp;lt;pre&amp;gt;
-      Deves saber
-             &amp;lt;b&amp;gt; então &amp;lt;/b&amp;gt;
-      Que cada gota de
-             &amp;lt;i&amp;gt; paciência &amp;lt;/i&amp;gt;
-      Revela mares de
-             &amp;lt;i&amp;gt; essência &amp;lt;/i&amp;gt;
-      De um grande
-             &amp;lt;b&amp;gt; coração. &amp;lt;/b&amp;gt;
-
-| paint as white
-      //PoesiaCompilada
+      <guid>http://poesiacompilada.com/blog/feed.xml#DeÁlvaroTavares</guid>
+      <description>&lt;pre&gt;&lt;code&gt;| paint as blue
+De tudo ao compilador serei atento
+| paint as red
+antes, e com tal linkeditor
 | paint as green
-    &amp;lt;/pre&amp;gt;
-  &amp;lt;/body&amp;gt;
-&amp;lt;/html&amp;gt;
+E sempre, e num loop
+| paint as yellow
+Que mesmo em face da melhor biblioteca
+| paint as orange
+Dele se encante mais sua sintaxe
+| let felipe be cyan
+| paint as felipe
+Quero vivê-lo em cada vã função
 &lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Uma Análise</title>
-      <link>http://poesiacompilada.com/blog/feed.xml#UmaAnálise</link>
-      <pubDate>Fri, 10 Jul 2015 22:48:37 -0300</pubDate>
-      <author>felipe</author>
-      <guid>http://poesiacompilada.com/blog/feed.xml#UmaAnálise</guid>
-      <description>&lt;div style="with: 100%; height: 256px;"&gt;
-  &lt;img class="face" style="width: 256px; left: 50%; margin-left: -128px; position: absolute;" src="img/posts/fgm.jpg"&gt;
-&lt;/div&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Esse tipo de compor poesia tem qualquer coisa de ficção científica, que nos perquire e nos assombra. Fazer pensar, fazer criar, fazer ser: tudo que nos fez humanos e nos distanciou também de qualquer ideia aquém-homem, aquém-humano.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div style="float: right"&gt;
-  F.G.M.
-&lt;/div&gt;
-
-&lt;div style="clear: right"&gt;&lt;/div&gt;
-
-&lt;p&gt;Este é um pegueno trecho da análise publicada ontem pelo poeta, professor &lt;del&gt;desenhista e filósofo&lt;/del&gt; &lt;a href="http://opoetafelipegarcia.blogspot.com.br/" title="O Blog do Poeta"&gt;Felipe Garcia&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Felipe, ou F.G.M., é o autor de dois livros de poesia: &lt;a href="http://www.editorapenalux.com.br/loja/product_info.php?products_id=171"&gt;Frio Forte&lt;/a&gt; e &lt;a href="http://www.livrariacultura.com.br/scripts/resenha/resenha.asp?nitem=42690826&amp;amp;termo=c%C3%A1psula"&gt;Cápsula&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;A análise, apesar de breve, trata de aspectos profundos do manifesto e do movimento da &lt;a href="http://poesiacompilada.com"&gt;Poesia Compilada&lt;/a&gt; como um todo.&lt;/p&gt;
-
-&lt;p&gt;Confira a análise na íntegra:&lt;/p&gt;
-
-&lt;h3&gt;O Manifesto da Poesia Compilada – uma apreciação&lt;/h3&gt;
-
-&lt;p&gt;As artes poéticas surpreendem pela transmutação da realidade e da palavra poética. O novo sempre vem à tona, e podemos nos deparar com um poema até mesmo diante da última tragédia da existência terrena: a extinção. Nenhum evento na história anunciará o fim do poema, pois faz parte da humanidade a criação intermitente que nos lança a si, mais longa que a vida.&lt;/p&gt;
-
-&lt;p&gt;Prova indubitável disso é a intervenção literária que vivenciamos em todo nosso imaginário, desde uma situação banal (uma conversa perdida) até mais complexa (a contemplação de uma eternidade fugaz). Com a palavra, o mundo foi inaugurado e, através dela, outros serão descobertos ou criados. Dessa forma, o que podemos apreciar ainda em seu período embrionário – e deveras avançado – é o poema compilado, mais uma proeza da palavra sobre o mundo.&lt;/p&gt;
-
-&lt;p&gt;Como representante e efígie do movimento, temos O manifesto da poesia compilada, que inaugura um estilo único, que mescla uma linguagem da informática [o virtual] com a poética [verbo-visual] para compor uma expressão i-r-real. A temática: a vida ou a matrix ou a syntax. A forma composicional: poema compilado. Como dizem os autores que assinam o manifesto, Soraya Roberta e Felipe Tavares, a poesia, nesse sentido, é um loop infinito.&lt;/p&gt;
-
-&lt;p&gt;Um dos pilares desse tipo de poema, a ideia de código-fonte, não é tão distante de uma tradição mística e literária, como as grandes buscas da história humana, como o segredo da imortalidade, o sentido da vida, os mistérios do Universo, a síntese de Tudo ou a tapeçaria do Nada. De repente, os neo poetas descobriram formas e maneiras de (de)formar, (re)formar, (re)configurar esse código-fonte, e expandi-lo, colocá-lo em pânico, (re)iniciando tu[na]da-do.&lt;/p&gt;
-
-&lt;p&gt;Na aparente simplicidade do projeto lógico-poético do manifesto, há uma filosofia do contemporâneo (a desintegração do sujeito via virtualidades e a busca de uma totalidade fragmentária), além da visão de uma sociedade hiperconectada à internet das coisas, que já não se imagina, como à época do início da era da eletricidade, sem conexão.&lt;/p&gt;
-
-&lt;p&gt;Estruturalmente, esse tipo de compor/e perceber poesia dialoga, também, com a tradição poética brasileira, sobretudo quando nos remetemos às construções poéticas dos poetas concretistas, do vínculo dos irmãos Campos e de Pignatari com a semiótica, a tecnologia, e com a morfologia das palavras, considerando as (re)construções e neologismos, a polissemia, os ritmos.&lt;/p&gt;
-
-&lt;p&gt;Semanticamente, as implicações do movimento são bastante interessantes. Incialmente, desautomatizando o utilitarismo dos programas, colocando a poesia compilada em liberdade de linguagem, os neo poetas podem liberar aquela visão humanística e inventiva que Steve Jobs tanto lutara por empreender e aplicar em seus produtos. Não se pode prever como o mercado pode absorver tal perspectiva, mas o que os move transcende esse direcionamento castrador e os transporta a desafios inomináveis.&lt;/p&gt;
-
-&lt;p&gt;Essa intervenção ousada da dupla aponta para questões cruciais do futuro da humanidade. Por quê? Imagino que um dos maiores desafios da ciência será criar uma autoconsciência nas máquinas, nos robôs, uma sensibilidade. O ato de criar um poema compilado poderá despertar, em uma virtualidade puramente digital, o aspecto inventivo nas máquinas, uma espécie de autoconsciência cibernética, uma volta do parafuso, o humano-máquina de Isaac Asimov será levado em conta à hora de programar e isso poderá mudar nossa relação com o mundo, a vida e tudo.&lt;/p&gt;
-
-&lt;p&gt;Esse tipo de compor poesia tem qualquer coisa de ficção científica, que nos perquire e nos assombra. Fazer pensar, fazer criar, fazer ser: tudo que nos fez humanos e nos distanciou também de qualquer ideia aquém-homem, aquém-humano.
-Já se sabe que a poesia pulou fora da página (não a abandonou), e está alcançando setores que vão além da preexistência efêmera do gênero poético. Ela não abandonou a página, pelo contrário, cada vez mais, como processo simbiótico, o poema assimilou novas linguagens e superou as barreiras enigmáticas da página para abstrair e consubstanciar, da programação, inusitadas formas de ser e de dizer.&lt;/p&gt;
-
-&lt;p&gt;A Literatura recebe e assimila mais uma expressão inovadora e dá espaço – cada vez mais – para linguagens diversas, meios e mecanismos concatenados de um jeito intrínseco, dialógico, levando em contas os âmbitos [compilar] e [poetar] sem sobrepô-los, mas integrando-os de tal forma que não se pode separá-los. É poesia-programação &amp;amp; programação-poesia.
-Onde houver vida, haverá poesia.&lt;/p&gt;
-
-&lt;div style="float: right"&gt;
-  F.G.M.
-&lt;/div&gt;
-
-&lt;div style="clear: right"&gt;&lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Entrevistas!</title>
       <link>http://poesiacompilada.com/blog/feed.xml#Entrevistas!</link>
-      <pubDate>Sat, 04 Jul 2015 00:15:10 -0300</pubDate>
+      <pubDate>Sat, 16 May 2020 13:11:39 -0300</pubDate>
       <author>soraya</author>
       <guid>http://poesiacompilada.com/blog/feed.xml#Entrevistas!</guid>
       <description>&lt;hr&gt;
@@ -482,96 +162,37 @@ Gabi, Débora e Dayane fazem parte do &lt;a href="http://www.pyladies.com/" titl
     </item>
     
     <item>
-      <title>EUAlização</title>
-      <link>http://poesiacompilada.com/blog/feed.xml#EUAlização</link>
-      <pubDate>Sat, 27 Jun 2015 01:06:26 -0300</pubDate>
-      <author>felipe</author>
-      <guid>http://poesiacompilada.com/blog/feed.xml#EUAlização</guid>
-      <description>&lt;p&gt;Ontem, no dia 26 de junho de 2015, o casamento gay foi declarado legal! E devido
-a essa declaração sem precedentes, uma onda de avatares coloridos surgiu nas redes
-sociais, juntamente com fervorosos comentários comemorando a vitória.&lt;/p&gt;
-
-&lt;p&gt;O fato ocorreu na Suprema Corte dos EUA, onde uma votação que terminou em &lt;em&gt;5x4&lt;/em&gt;
-determinou a liberdade no sexo do casamento. É uma vitória não apenas para algumas
-espero-que-apenas-hoje-minorias envolvidas diretamente, mas para todos os humanos,
-pois é uma vitória para a igualdade entre os indivíduos.&lt;/p&gt;
-
-&lt;p&gt;Seria um cenário perfeito, se não fosse por um detalhe (cujo argumento tem alguns
-&lt;a href="#postonly-problemas"&gt;problemas&lt;/a&gt;). Em 2013, o casamento gay foi legalizado no Brasil. E quando
-isso ocorreu, numa realidade muito mais próxima de nós que a dos EUA, não houve
-uma manifestação tão grande.&lt;/p&gt;
-
-&lt;p&gt;Não vimos mudança de avatares. Não vimos uma enxurrada de posts sobre o assunto
-invadindo nossas &lt;em&gt;timelines&lt;/em&gt;. Não foi um evento importante.&lt;/p&gt;
-
-&lt;p&gt;Será que o centro do nosso mundo não está sob nossos próprios pés? Talvez não,
-e de fato é isso o que parece acontecer quando observamos esses pequenos fatos
-(não apenas este em específico, mas muitos outros).&lt;/p&gt;
-
-&lt;p&gt;Mas... Qual seria o problema? Talvez não seja tão mal observarmos o mundo sob
-os olhos de outros... Agirmos sob os olhos de outros... Poderia não haver nenhum
-problema se não fosse o simples fato que vivemos em uma realidade um pouco diferente.&lt;/p&gt;
-
-&lt;p&gt;Isso deveria nos preocupar pois quando vamos falar mal, a primeira realidade que
-vem a mente é a nossa, não a dos EUA, por exemplo. Por isso, devemos (além de
-comemorar vitórias como essas) começar também a entender que não só de EUA se vive no Brasil.&lt;/p&gt;
-
-&lt;p&gt;Isso dito, é claro que não podemos esquecer que hoje será sempre um dia importante
-para a humanidade!&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;| paint as normal with Viva as red o as orange casa as yellow mento as green gay as blue ! as cyan
-Viva o casamento gay!
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;div id="postonly-problemas"&gt;
-&lt;h3&gt;Problemas com a argumentação&lt;/h3&gt;
-&lt;/div&gt;
-
-&lt;ol&gt;
-&lt;li&gt;talvez se o uso das redes sociais fosse mais difundido em 2013...&lt;/li&gt;
-&lt;li&gt;talvez as pessoas tenham mudado, e se 2013 fosse 2015...&lt;/li&gt;
-&lt;li&gt;talvez o governo dos EUA se preocupe mais em divulgar decisões...&lt;/li&gt;
-&lt;li&gt;talvez a imprensa brasileira estivesse preocupada com outros acontecimentos mais
-importantes...&lt;/li&gt;
-&lt;li&gt;talvez...&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Quer discutir mais o assunto? Deseja adicionar algum fato? Contra-argumentar? Comente!&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>E Daí Se Sou Mulher e Programo</title>
-      <link>http://poesiacompilada.com/blog/feed.xml#EDaíSeSouMulhereProgramo</link>
-      <pubDate>Sat, 20 Jun 2015 12:11:29 -0300</pubDate>
+      <title>De Daniele Melo</title>
+      <link>http://poesiacompilada.com/blog/feed.xml#DeDanieleMelo</link>
+      <pubDate>Sat, 16 May 2020 13:11:39 -0300</pubDate>
       <author>soraya</author>
-      <guid>http://poesiacompilada.com/blog/feed.xml#EDaíSeSouMulhereProgramo</guid>
-      <description>&lt;pre&gt;&lt;code&gt;| paint as code with // as tag ; as normal &amp;amp; as class S.R as tag [ and ] as string
-// E daí se sou mulher &amp;amp; programo?;
+      <guid>http://poesiacompilada.com/blog/feed.xml#DeDanieleMelo</guid>
+      <description>&lt;pre&gt;&lt;code&gt;| paint as string
+&amp;lt;!DOCTYPE html&amp;gt;
+| paint as white with charset as #9f9 &amp;quot;UTF-8&amp;quot; as string &amp;lt; and &amp;gt; and / and html and title and meta and head and body and pre and &amp;lt;b&amp;gt; and &amp;lt;i&amp;gt; and &amp;lt;/b&amp;gt; and &amp;lt;/i&amp;gt; as green
+&amp;lt;html&amp;gt;
+  &amp;lt;head&amp;gt;
+    &amp;lt;meta charset=&amp;quot;UTF-8&amp;quot;&amp;gt;
+    &amp;lt;title&amp;gt;Conversando com a tempestade&amp;lt;/title&amp;gt;
+  &amp;lt;/head&amp;gt;
 
-passo o batom vermelho;
-nos lábios;
-o negro lápis;
-nos olhos;
-pego uma caneca de café;
-ligo meu notebook;
-checo meus;
-emails;
-aprendo mais uma linguagem;
-&amp;amp; vou;
-compilando;
-sonhos;
-em linhas;
-que;
-bra;
-das;
-um pedaço da mudança;
-para o mundo;
-ah! só mais um comentário;
-// E daí se sou mulher &amp;amp; programo?;
-//[S.R]
+  &amp;lt;body&amp;gt;
+    &amp;lt;pre&amp;gt;
+      Deves saber
+             &amp;lt;b&amp;gt; então &amp;lt;/b&amp;gt;
+      Que cada gota de
+             &amp;lt;i&amp;gt; paciência &amp;lt;/i&amp;gt;
+      Revela mares de
+             &amp;lt;i&amp;gt; essência &amp;lt;/i&amp;gt;
+      De um grande
+             &amp;lt;b&amp;gt; coração. &amp;lt;/b&amp;gt;
+
+| paint as white
+      //PoesiaCompilada
+| paint as green
+    &amp;lt;/pre&amp;gt;
+  &amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
@@ -579,7 +200,7 @@ ah! só mais um comentário;
     <item>
       <title>Título Moderno</title>
       <link>http://poesiacompilada.com/blog/feed.xml#TítuloModerno</link>
-      <pubDate>Fri, 19 Jun 2015 18:03:44 -0300</pubDate>
+      <pubDate>Sat, 16 May 2020 13:11:39 -0300</pubDate>
       <author>soraya</author>
       <guid>http://poesiacompilada.com/blog/feed.xml#TítuloModerno</guid>
       <description>&lt;pre&gt;&lt;code&gt;| paint as white with // as tag [ and ] as string because and for as code S.R. as tag
@@ -612,9 +233,421 @@ reza diária.
     </item>
     
     <item>
+      <title>E Daí Se Sou Mulher e Programo</title>
+      <link>http://poesiacompilada.com/blog/feed.xml#EDaíSeSouMulhereProgramo</link>
+      <pubDate>Sat, 16 May 2020 13:11:39 -0300</pubDate>
+      <author>soraya</author>
+      <guid>http://poesiacompilada.com/blog/feed.xml#EDaíSeSouMulhereProgramo</guid>
+      <description>&lt;pre&gt;&lt;code&gt;| paint as code with // as tag ; as normal &amp;amp; as class S.R as tag [ and ] as string
+// E daí se sou mulher &amp;amp; programo?;
+
+passo o batom vermelho;
+nos lábios;
+o negro lápis;
+nos olhos;
+pego uma caneca de café;
+ligo meu notebook;
+checo meus;
+emails;
+aprendo mais uma linguagem;
+&amp;amp; vou;
+compilando;
+sonhos;
+em linhas;
+que;
+bra;
+das;
+um pedaço da mudança;
+para o mundo;
+ah! só mais um comentário;
+// E daí se sou mulher &amp;amp; programo?;
+//[S.R]
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prayer to Python</title>
+      <link>http://poesiacompilada.com/blog/feed.xml#PrayertoPython</link>
+      <pubDate>Sat, 16 May 2020 13:11:39 -0300</pubDate>
+      <author>soraya</author>
+      <guid>http://poesiacompilada.com/blog/feed.xml#PrayertoPython</guid>
+      <description>&lt;pre&gt;&lt;code&gt;| paint as code with # and . and ~ as tag [ and ] as string
+#Prayer to Python
+
+Programmed serpent
+tell me how to
+compile my dreams
+In a few
+  Bro
+  ken
+lines
+let me taste
+your poison
+And see if
+It really has
+Antidote.
+
+#[S.R. ~ D.A.]
+#Compiled Poetry
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teste</title>
+      <link>http://poesiacompilada.com/blog/feed.xml#Teste</link>
+      <pubDate>Sat, 16 May 2020 13:11:39 -0300</pubDate>
+      <author>soraya</author>
+      <guid>http://poesiacompilada.com/blog/feed.xml#Teste</guid>
+      <description>&lt;p&gt;with bare_hands:
+    print(&amp;quot;He has taken many lives&amp;quot;)&lt;/p&gt;
+
+&lt;h1&gt;Ensiferum&lt;/h1&gt;
+
+&lt;p&gt;~&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Uma Análise</title>
+      <link>http://poesiacompilada.com/blog/feed.xml#UmaAnálise</link>
+      <pubDate>Sat, 16 May 2020 13:11:39 -0300</pubDate>
+      <author>felipe</author>
+      <guid>http://poesiacompilada.com/blog/feed.xml#UmaAnálise</guid>
+      <description>&lt;div style="with: 100%; height: 256px;"&gt;
+  &lt;img class="face" style="width: 256px; left: 50%; margin-left: -128px; position: absolute;" src="img/posts/fgm.jpg"&gt;
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Esse tipo de compor poesia tem qualquer coisa de ficção científica, que nos perquire e nos assombra. Fazer pensar, fazer criar, fazer ser: tudo que nos fez humanos e nos distanciou também de qualquer ideia aquém-homem, aquém-humano.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div style="float: right"&gt;
+  F.G.M.
+&lt;/div&gt;
+
+&lt;div style="clear: right"&gt;&lt;/div&gt;
+
+&lt;p&gt;Este é um pegueno trecho da análise publicada ontem pelo poeta, professor &lt;del&gt;desenhista e filósofo&lt;/del&gt; &lt;a href="http://opoetafelipegarcia.blogspot.com.br/" title="O Blog do Poeta"&gt;Felipe Garcia&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Felipe, ou F.G.M., é o autor de dois livros de poesia: &lt;a href="http://www.editorapenalux.com.br/loja/product_info.php?products_id=171"&gt;Frio Forte&lt;/a&gt; e &lt;a href="http://www.livrariacultura.com.br/scripts/resenha/resenha.asp?nitem=42690826&amp;amp;termo=c%C3%A1psula"&gt;Cápsula&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;A análise, apesar de breve, trata de aspectos profundos do manifesto e do movimento da &lt;a href="http://poesiacompilada.com"&gt;Poesia Compilada&lt;/a&gt; como um todo.&lt;/p&gt;
+
+&lt;p&gt;Confira a análise na íntegra:&lt;/p&gt;
+
+&lt;h3&gt;O Manifesto da Poesia Compilada – uma apreciação&lt;/h3&gt;
+
+&lt;p&gt;As artes poéticas surpreendem pela transmutação da realidade e da palavra poética. O novo sempre vem à tona, e podemos nos deparar com um poema até mesmo diante da última tragédia da existência terrena: a extinção. Nenhum evento na história anunciará o fim do poema, pois faz parte da humanidade a criação intermitente que nos lança a si, mais longa que a vida.&lt;/p&gt;
+
+&lt;p&gt;Prova indubitável disso é a intervenção literária que vivenciamos em todo nosso imaginário, desde uma situação banal (uma conversa perdida) até mais complexa (a contemplação de uma eternidade fugaz). Com a palavra, o mundo foi inaugurado e, através dela, outros serão descobertos ou criados. Dessa forma, o que podemos apreciar ainda em seu período embrionário – e deveras avançado – é o poema compilado, mais uma proeza da palavra sobre o mundo.&lt;/p&gt;
+
+&lt;p&gt;Como representante e efígie do movimento, temos O manifesto da poesia compilada, que inaugura um estilo único, que mescla uma linguagem da informática [o virtual] com a poética [verbo-visual] para compor uma expressão i-r-real. A temática: a vida ou a matrix ou a syntax. A forma composicional: poema compilado. Como dizem os autores que assinam o manifesto, Soraya Roberta e Felipe Tavares, a poesia, nesse sentido, é um loop infinito.&lt;/p&gt;
+
+&lt;p&gt;Um dos pilares desse tipo de poema, a ideia de código-fonte, não é tão distante de uma tradição mística e literária, como as grandes buscas da história humana, como o segredo da imortalidade, o sentido da vida, os mistérios do Universo, a síntese de Tudo ou a tapeçaria do Nada. De repente, os neo poetas descobriram formas e maneiras de (de)formar, (re)formar, (re)configurar esse código-fonte, e expandi-lo, colocá-lo em pânico, (re)iniciando tu[na]da-do.&lt;/p&gt;
+
+&lt;p&gt;Na aparente simplicidade do projeto lógico-poético do manifesto, há uma filosofia do contemporâneo (a desintegração do sujeito via virtualidades e a busca de uma totalidade fragmentária), além da visão de uma sociedade hiperconectada à internet das coisas, que já não se imagina, como à época do início da era da eletricidade, sem conexão.&lt;/p&gt;
+
+&lt;p&gt;Estruturalmente, esse tipo de compor/e perceber poesia dialoga, também, com a tradição poética brasileira, sobretudo quando nos remetemos às construções poéticas dos poetas concretistas, do vínculo dos irmãos Campos e de Pignatari com a semiótica, a tecnologia, e com a morfologia das palavras, considerando as (re)construções e neologismos, a polissemia, os ritmos.&lt;/p&gt;
+
+&lt;p&gt;Semanticamente, as implicações do movimento são bastante interessantes. Incialmente, desautomatizando o utilitarismo dos programas, colocando a poesia compilada em liberdade de linguagem, os neo poetas podem liberar aquela visão humanística e inventiva que Steve Jobs tanto lutara por empreender e aplicar em seus produtos. Não se pode prever como o mercado pode absorver tal perspectiva, mas o que os move transcende esse direcionamento castrador e os transporta a desafios inomináveis.&lt;/p&gt;
+
+&lt;p&gt;Essa intervenção ousada da dupla aponta para questões cruciais do futuro da humanidade. Por quê? Imagino que um dos maiores desafios da ciência será criar uma autoconsciência nas máquinas, nos robôs, uma sensibilidade. O ato de criar um poema compilado poderá despertar, em uma virtualidade puramente digital, o aspecto inventivo nas máquinas, uma espécie de autoconsciência cibernética, uma volta do parafuso, o humano-máquina de Isaac Asimov será levado em conta à hora de programar e isso poderá mudar nossa relação com o mundo, a vida e tudo.&lt;/p&gt;
+
+&lt;p&gt;Esse tipo de compor poesia tem qualquer coisa de ficção científica, que nos perquire e nos assombra. Fazer pensar, fazer criar, fazer ser: tudo que nos fez humanos e nos distanciou também de qualquer ideia aquém-homem, aquém-humano.
+Já se sabe que a poesia pulou fora da página (não a abandonou), e está alcançando setores que vão além da preexistência efêmera do gênero poético. Ela não abandonou a página, pelo contrário, cada vez mais, como processo simbiótico, o poema assimilou novas linguagens e superou as barreiras enigmáticas da página para abstrair e consubstanciar, da programação, inusitadas formas de ser e de dizer.&lt;/p&gt;
+
+&lt;p&gt;A Literatura recebe e assimila mais uma expressão inovadora e dá espaço – cada vez mais – para linguagens diversas, meios e mecanismos concatenados de um jeito intrínseco, dialógico, levando em contas os âmbitos [compilar] e [poetar] sem sobrepô-los, mas integrando-os de tal forma que não se pode separá-los. É poesia-programação &amp;amp; programação-poesia.
+Onde houver vida, haverá poesia.&lt;/p&gt;
+
+&lt;div style="float: right"&gt;
+  F.G.M.
+&lt;/div&gt;
+
+&lt;div style="clear: right"&gt;&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Canção da Torre Mais Alta</title>
+      <link>http://poesiacompilada.com/blog/feed.xml#CançãodaTorreMaisAlta</link>
+      <pubDate>Sat, 16 May 2020 13:11:39 -0300</pubDate>
+      <author>soraya</author>
+      <guid>http://poesiacompilada.com/blog/feed.xml#CançãodaTorreMaisAlta</guid>
+      <description>&lt;pre&gt;&lt;code&gt;| paint as code with &amp;lt;? as tag
+&amp;lt;?Canção da Torre Mais Alta
+
+| paint as comment
+&amp;lt;!--  Mocidade presa
+      A tudo oprimida
+      Por delicadeza
+      Eu perdi a vida.
+      Ah! Que o tempo venha
+      Em que a alma se empenha. --&amp;gt;
+
+| paint as string with echo as code ; as normal
+echo &amp;quot;Eu me disse: cessa,
+      Que ninguém te veja:
+      E sem a promessa
+      De algum bem que seja.
+      A ti só aspiro
+      Augusto retiro.&amp;quot;;
+
+| paint as string with $dentro as tag ; and = as normal
+$dentro =
+      &amp;quot;Tamanha paciência
+       Não me hei de esquecer.
+       Temor e dolência,
+       Aos céus fiz erguer.
+       E esta sede estranha
+       A ofuscar-me a entranha.&amp;quot;;
+
+| paint as class with $fora as tag ; and = as normal
+$fora =
+      &amp;quot;Qual o Prado imenso
+       Condenado a olvido,
+       Que cresce florido
+       De joio e de incenso&amp;quot;;
+| paint as normal
+       Ao feroz zunzum das
+       Moscas imundas.
+
+| paint as tag with Poesia as class Compilada as code
+//Arthur Rimbaud
+//Poesia Compilada
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Viva o mês de Junho!</title>
+      <link>http://poesiacompilada.com/blog/feed.xml#VivaomêsdeJunho!</link>
+      <pubDate>Sat, 16 May 2020 13:11:39 -0300</pubDate>
+      <author>soraya</author>
+      <guid>http://poesiacompilada.com/blog/feed.xml#VivaomêsdeJunho!</guid>
+      <description>&lt;pre&gt;&lt;code&gt;| paint as normal with &amp;lt; and &amp;gt; as tag html and head and body and title and br as code / as tag
+
+&amp;lt;html&amp;gt;
+&amp;lt;head&amp;gt; &amp;lt;title&amp;gt; E viva o mês de Junho! &amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt;
+&amp;lt;body&amp;gt;
+
+| paint as tag with p as code
+&amp;lt;p&amp;gt;
+| paint as class with &amp;lt; and &amp;gt; as tag br as code / and == and , and . as tag
+
+Junho ==  pamonha, canjica, milho assado, &amp;lt;br/&amp;gt;
+          cozinhado, bolo de milho, &amp;lt;br/&amp;gt;
+          fogueira de Santo Antonio, &amp;lt;br/&amp;gt;
+          São João e São Pedro, &amp;lt;br/&amp;gt;
+          quadrilha junina, foguinhos &amp;lt;br/&amp;gt;
+          familia reunida &amp;lt;br/&amp;gt;
+          e muito forró &amp;lt;br/&amp;gt;
+          pé de serra.&amp;lt;br/&amp;gt;
+
+| paint as tag with p as code
+&amp;lt;/p&amp;gt;
+| paint as normal with &amp;lt; and &amp;gt; as tag html and head and body and title and br as code / as tag
+
+&amp;lt;/body&amp;gt;
+
+&amp;lt;/html&amp;gt;
+
+| paint as comment with S.R. as code [ and ] as tag
+
+// poesia compilada
+// [S.R.]
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Devir</title>
+      <link>http://poesiacompilada.com/blog/feed.xml#Devir</link>
+      <pubDate>Sat, 16 May 2020 13:11:39 -0300</pubDate>
+      <author>soraya</author>
+      <guid>http://poesiacompilada.com/blog/feed.xml#Devir</guid>
+      <description>&lt;pre&gt;&lt;code&gt;| paint as comment
+        #Devir
+
+| paint as normal with def as code filosofo as tag muda as class opiniao as class
+def filosofo.muda(opiniao)
+| paint as string with #{ and } as normal opiniao as class
+&amp;quot;Transformando a #{opiniao}
+  num fluxo ininterrupto
+  em busca de uma
+  lei geral do universo
+            que dissolve
+            que cria
+            e transforma
+  todas as realidades
+  existentes&amp;quot;
+| paint as code
+end
+
+| paint as comment
+#[S.R.]
+#Poesiacompilada
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Post Um</title>
+      <link>http://poesiacompilada.com/blog/feed.xml#Post-Um</link>
+      <pubDate>Sat, 16 May 2020 13:11:39 -0300</pubDate>
+      <author>felipe</author>
+      <guid>http://poesiacompilada.com/blog/feed.xml#Post-Um</guid>
+      <description>&lt;p&gt;Bem vindos ao nosso blog! Poesia compilada, por ser um movimento, não se trata apenas de um site estático... e o movimento que precisamos virá deste blog.&lt;/p&gt;
+
+&lt;p&gt;Aqui postaremos dos mais diversos assuntos, mas uma coisa é certa: &lt;em&gt;poesias não faltarão!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Também lhes digo que assuntos interessantes estarão sempre em pauta e vale a pena vir dar uma olhadinha aqui de vez em quando!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Byte Girl, evento por Fortaleza</title>
+      <link>http://poesiacompilada.com/blog/feed.xml#ByteGirl,eventoporFortaleza</link>
+      <pubDate>Sat, 16 May 2020 13:11:39 -0300</pubDate>
+      <author>soraya</author>
+      <guid>http://poesiacompilada.com/blog/feed.xml#ByteGirl,eventoporFortaleza</guid>
+      <description>&lt;p&gt;&lt;img src="img/posts/bytegirl.jpg" alt="Byte Girl"&gt;&lt;/p&gt;
+
+&lt;p&gt;Olá, pessoal! Então, esses dias estava buscando algumas dicas de eventos da área de TI para postar aqui no Blog, principalmente aqui pelo NE. Achei um evento super fofo que está em sua primeira e poética edição, o Byte.Girl, que tem como público alvo a comunidade tecnológica da cidade de Fortaleza.&lt;/p&gt;
+
+&lt;p&gt;Sua ideia principal é apresentar através de palestras, realizações de mulheres na área de TI – Tecnologia da Informação. De acordo com as organizadoras do evento, a ideia do Byte.Girl&amp;lt;&amp;gt; surgiu após perceberem os dados alarmantes na relação mulheres/mercado de TI, os quais sempre alertamos aqui pelo Poesia.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;| paint as comment
+    #Byte Girl
+
+| paint as string with def as tag byte as code . and ( and ) and girl as normal
+def byte.girl(motivar)
+| paint as string with end as tag #{motivar} as class
+&amp;quot;O Byte girl busca #{motivar}
+    mulheres
+ para seguirem
+    na área de TI
+ mostrando a realização
+ das que já estão&amp;quot;
+end
+
+| paint as comment
+#[S.R.]
+#Poesia Compilada
+#Byte Girl
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Com isso, o evento que irá acontecer em 3 de Outubro de 2015, das 8h às 18h, na UNIFOR, em Fortaleza-CE, abre inscrições neste &lt;a href="https://appticket.com.br/purchase/hotsite/index.php?event=bytegirlfortaleza"&gt;link&lt;/a&gt; hoje, 14, e contará com a presença das já confirmadas palestrantes : Ana Lacerda, Odecilia Barreira, Adriane Fernandes e Bárbara Brandão. Além de palestras o evento terá mesa redonda, workshop, exposições e outros momentos legais.&lt;/p&gt;
+
+&lt;p&gt;Outra coisa massa que descobri é quem nesse período que antecede o evento quem quiser concorrer a prêmios como canecas, camisas e outros lindos brindes pode acessar a página do evento no face e seguir os passos. (Eu já seguir e estou concorrendo, risos. ) Ah! O preço das inscrições é baratinho, R$ 20,00 a inteira e R$ 10,00 a meia.&lt;/p&gt;
+
+&lt;p&gt;Beijos e até a próxima poesia.&lt;/p&gt;
+
+&lt;p&gt;[S.R.]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Amor Compilado</title>
+      <link>http://poesiacompilada.com/blog/feed.xml#AmorCompilado</link>
+      <pubDate>Sat, 16 May 2020 13:11:39 -0300</pubDate>
+      <author>felipe</author>
+      <guid>http://poesiacompilada.com/blog/feed.xml#AmorCompilado</guid>
+      <description>&lt;pre&gt;&lt;code&gt;| paint as normal with for as tag amor as class { and } as code ( and ) as code &amp;quot;&amp;quot; as string print as tag
+for de tudo; meu amor; serei atento {
+    print (&amp;quot;&amp;quot;);
+}
+
+| paint as normal with if as tag sem and ver as code amor as class arde and fogo as string
+amor = fogo
+if sem ver(amor):
+    amor.arde()
+
+| paint as normal with eu and br as code &amp;lt; and &amp;gt; and / as tag
+&amp;lt;eu te amo&amp;gt;
+    para começar a&amp;lt;br&amp;gt;
+    &amp;lt;amar-te&amp;gt;
+&amp;lt;/eu&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Trecho</title>
+      <link>http://poesiacompilada.com/blog/feed.xml#Trecho</link>
+      <pubDate>Sat, 16 May 2020 13:11:39 -0300</pubDate>
+      <author>soraya</author>
+      <guid>http://poesiacompilada.com/blog/feed.xml#Trecho</guid>
+      <description>&lt;pre&gt;&lt;code&gt;| paint as code with // and , and ! and ; and . and : as tag # as white [ and ] as string
+                      //Trecho
+
+                Conceição de Azevedo,
+                Terra do amor!
+                Teu passado fulgente
+                Assegura teu valor!
+                O teu solo e tua gente
+                Bem refletem sob o sol;
+                Vida e grandeza!
+                Salve Jardim do Seridó.
+
+                #Letra:Eurico Guilherme Caldas
+                #Poesiacompilada
+                #[S.R.]
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>De Dry Medeiros</title>
+      <link>http://poesiacompilada.com/blog/feed.xml#DeDryMedeiros</link>
+      <pubDate>Sat, 16 May 2020 13:11:39 -0300</pubDate>
+      <author>soraya</author>
+      <guid>http://poesiacompilada.com/blog/feed.xml#DeDryMedeiros</guid>
+      <description>&lt;pre&gt;&lt;code&gt;| paint as normal with &amp;amp;&amp;amp; and ( and ) and { as tag if as code
+if (saudade &amp;amp;&amp;amp; amor &amp;gt; orgulho) {
+| paint as normal with &amp;quot;Vale and a and pena!&amp;quot; as string } and &amp;lt;&amp;lt; as tag endl and cout as class
+  cout &amp;lt;&amp;lt; &amp;quot;Vale a pena!&amp;quot; &amp;lt;&amp;lt; endl;
+}
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dia do Programador</title>
+      <link>http://poesiacompilada.com/blog/feed.xml#DiadoProgramador</link>
+      <pubDate>Sat, 16 May 2020 13:11:39 -0300</pubDate>
+      <author>soraya</author>
+      <guid>http://poesiacompilada.com/blog/feed.xml#DiadoProgramador</guid>
+      <description>&lt;p&gt;Feliz dia do programador!&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;| paint as normal with def as class faz as tag arte as code
+def programador.faz(arte):
+| paint as code
+  programa, programa
+| paint as normal with #programa as class &amp;amp;&amp;amp; as tag dinheiro as string
+  mãe, estou fazendo #programa
+  por que quero &amp;amp;&amp;amp;
+  por dinheiro &amp;amp;&amp;amp;
+  por amor
+
+| paint as comment
+// Parabéns para todos nós
+// que já cansamos
+// de tentar explicar porque
+// estamos fazendo programas na madrugada
+
+| paint as normal with S.R. as tag Compilada as tag Poesia as class
+//[S.R.]
+//Poesia Compilada
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Um poema e uma ideia</title>
       <link>http://poesiacompilada.com/blog/feed.xml#Umpoemaeumaideia</link>
-      <pubDate>Sat, 13 Jun 2015 18:02:03 -0300</pubDate>
+      <pubDate>Sat, 16 May 2020 13:11:39 -0300</pubDate>
       <author>felipe</author>
       <guid>http://poesiacompilada.com/blog/feed.xml#Umpoemaeumaideia</guid>
       <description>&lt;h1&gt;O poema&lt;/h1&gt;
@@ -715,125 +748,70 @@ esta igualdade na nossa área.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Amor Compilado</title>
-      <link>http://poesiacompilada.com/blog/feed.xml#AmorCompilado</link>
-      <pubDate>Fri, 12 Jun 2015 17:34:11 -0300</pubDate>
+      <title>EUAlização</title>
+      <link>http://poesiacompilada.com/blog/feed.xml#EUAlização</link>
+      <pubDate>Sat, 16 May 2020 13:11:39 -0300</pubDate>
       <author>felipe</author>
-      <guid>http://poesiacompilada.com/blog/feed.xml#AmorCompilado</guid>
-      <description>&lt;pre&gt;&lt;code&gt;| paint as normal with for as tag amor as class { and } as code ( and ) as code &amp;quot;&amp;quot; as string print as tag
-for de tudo; meu amor; serei atento {
-    print (&amp;quot;&amp;quot;);
-}
+      <guid>http://poesiacompilada.com/blog/feed.xml#EUAlização</guid>
+      <description>&lt;p&gt;Ontem, no dia 26 de junho de 2015, o casamento gay foi declarado legal! E devido
+a essa declaração sem precedentes, uma onda de avatares coloridos surgiu nas redes
+sociais, juntamente com fervorosos comentários comemorando a vitória.&lt;/p&gt;
 
-| paint as normal with if as tag sem and ver as code amor as class arde and fogo as string
-amor = fogo
-if sem ver(amor):
-    amor.arde()
+&lt;p&gt;O fato ocorreu na Suprema Corte dos EUA, onde uma votação que terminou em &lt;em&gt;5x4&lt;/em&gt;
+determinou a liberdade no sexo do casamento. É uma vitória não apenas para algumas
+espero-que-apenas-hoje-minorias envolvidas diretamente, mas para todos os humanos,
+pois é uma vitória para a igualdade entre os indivíduos.&lt;/p&gt;
 
-| paint as normal with eu and br as code &amp;lt; and &amp;gt; and / as tag
-&amp;lt;eu te amo&amp;gt;
-    para começar a&amp;lt;br&amp;gt;
-    &amp;lt;amar-te&amp;gt;
-&amp;lt;/eu&amp;gt;
+&lt;p&gt;Seria um cenário perfeito, se não fosse por um detalhe (cujo argumento tem alguns
+&lt;a href="#postonly-problemas"&gt;problemas&lt;/a&gt;). Em 2013, o casamento gay foi legalizado no Brasil. E quando
+isso ocorreu, numa realidade muito mais próxima de nós que a dos EUA, não houve
+uma manifestação tão grande.&lt;/p&gt;
+
+&lt;p&gt;Não vimos mudança de avatares. Não vimos uma enxurrada de posts sobre o assunto
+invadindo nossas &lt;em&gt;timelines&lt;/em&gt;. Não foi um evento importante.&lt;/p&gt;
+
+&lt;p&gt;Será que o centro do nosso mundo não está sob nossos próprios pés? Talvez não,
+e de fato é isso o que parece acontecer quando observamos esses pequenos fatos
+(não apenas este em específico, mas muitos outros).&lt;/p&gt;
+
+&lt;p&gt;Mas... Qual seria o problema? Talvez não seja tão mal observarmos o mundo sob
+os olhos de outros... Agirmos sob os olhos de outros... Poderia não haver nenhum
+problema se não fosse o simples fato que vivemos em uma realidade um pouco diferente.&lt;/p&gt;
+
+&lt;p&gt;Isso deveria nos preocupar pois quando vamos falar mal, a primeira realidade que
+vem a mente é a nossa, não a dos EUA, por exemplo. Por isso, devemos (além de
+comemorar vitórias como essas) começar também a entender que não só de EUA se vive no Brasil.&lt;/p&gt;
+
+&lt;p&gt;Isso dito, é claro que não podemos esquecer que hoje será sempre um dia importante
+para a humanidade!&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;| paint as normal with Viva as red o as orange casa as yellow mento as green gay as blue ! as cyan
+Viva o casamento gay!
 &lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Iterações</title>
-      <link>http://poesiacompilada.com/blog/feed.xml#Iterações</link>
-      <pubDate>Fri, 12 Jun 2015 17:33:24 -0300</pubDate>
-      <author>soraya</author>
-      <guid>http://poesiacompilada.com/blog/feed.xml#Iterações</guid>
-      <description>&lt;pre&gt;&lt;code&gt;| paint as normal with float and while and continue as tag eu and amor as code 1 as constant
-float eu, amor;
 
-while (eu + amor != 1)
-  continue;
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Trecho</title>
-      <link>http://poesiacompilada.com/blog/feed.xml#Trecho</link>
-      <pubDate>Fri, 12 Jun 2015 09:39:00 -0300</pubDate>
-      <author>soraya</author>
-      <guid>http://poesiacompilada.com/blog/feed.xml#Trecho</guid>
-      <description>&lt;pre&gt;&lt;code&gt;| paint as code with // and , and ! and ; and . and : as tag # as white [ and ] as string
-                      //Trecho
+&lt;div id="postonly-problemas"&gt;
+&lt;h3&gt;Problemas com a argumentação&lt;/h3&gt;
+&lt;/div&gt;
 
-                Conceição de Azevedo,
-                Terra do amor!
-                Teu passado fulgente
-                Assegura teu valor!
-                O teu solo e tua gente
-                Bem refletem sob o sol;
-                Vida e grandeza!
-                Salve Jardim do Seridó.
+&lt;ol&gt;
+&lt;li&gt;talvez se o uso das redes sociais fosse mais difundido em 2013...&lt;/li&gt;
+&lt;li&gt;talvez as pessoas tenham mudado, e se 2013 fosse 2015...&lt;/li&gt;
+&lt;li&gt;talvez o governo dos EUA se preocupe mais em divulgar decisões...&lt;/li&gt;
+&lt;li&gt;talvez a imprensa brasileira estivesse preocupada com outros acontecimentos mais
+importantes...&lt;/li&gt;
+&lt;li&gt;talvez...&lt;/li&gt;
+&lt;/ol&gt;
 
-                #Letra:Eurico Guilherme Caldas
-                #Poesiacompilada
-                #[S.R.]
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>De Álvaro Tavares</title>
-      <link>http://poesiacompilada.com/blog/feed.xml#DeÁlvaroTavares</link>
-      <pubDate>Sat, 06 Jun 2015 13:02:43 -0300</pubDate>
-      <author>soraya</author>
-      <guid>http://poesiacompilada.com/blog/feed.xml#DeÁlvaroTavares</guid>
-      <description>&lt;pre&gt;&lt;code&gt;| paint as blue
-De tudo ao compilador serei atento
-| paint as red
-antes, e com tal linkeditor
-| paint as green
-E sempre, e num loop
-| paint as yellow
-Que mesmo em face da melhor biblioteca
-| paint as orange
-Dele se encante mais sua sintaxe
-| let felipe be cyan
-| paint as felipe
-Quero vivê-lo em cada vã função
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Prayer to Python</title>
-      <link>http://poesiacompilada.com/blog/feed.xml#PrayertoPython</link>
-      <pubDate>Sat, 06 Jun 2015 13:02:17 -0300</pubDate>
-      <author>soraya</author>
-      <guid>http://poesiacompilada.com/blog/feed.xml#PrayertoPython</guid>
-      <description>&lt;pre&gt;&lt;code&gt;| paint as code with # and . and ~ as tag [ and ] as string
-#Prayer to Python
-
-Programmed serpent
-tell me how to
-compile my dreams
-In a few
-  Bro
-  ken
-lines
-let me taste
-your poison
-And see if
-It really has
-Antidote.
-
-#[S.R. ~ D.A.]
-#Compiled Poetry
-&lt;/code&gt;&lt;/pre&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Quer discutir mais o assunto? Deseja adicionar algum fato? Contra-argumentar? Comente!&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
     <item>
       <title>Tecnologia &amp; Planos</title>
       <link>http://poesiacompilada.com/blog/feed.xml#Tecnologiaamp;Planos</link>
-      <pubDate>Sat, 06 Jun 2015 00:09:15 -0300</pubDate>
+      <pubDate>Sat, 16 May 2020 13:11:39 -0300</pubDate>
       <author>felipe</author>
       <guid>http://poesiacompilada.com/blog/feed.xml#Tecnologiaamp;Planos</guid>
       <description>&lt;p&gt;Aposto que tem muita gente curiosa para saber como tudo isso funciona: o site,
@@ -894,57 +872,94 @@ do servidor ao enviar os arquivos para vocês!&lt;/p&gt;
     </item>
     
     <item>
-      <title>Viva o mês de Junho!</title>
-      <link>http://poesiacompilada.com/blog/feed.xml#VivaomêsdeJunho!</link>
-      <pubDate>Fri, 05 Jun 2015 22:05:50 -0300</pubDate>
+      <title>Computação é como navio pirata, só tem homem e canhão!</title>
+      <link>http://poesiacompilada.com/blog/feed.xml#Computaçãoécomonaviopirata,sótemhomemecanhão!</link>
+      <pubDate>Sat, 16 May 2020 13:11:39 -0300</pubDate>
       <author>soraya</author>
-      <guid>http://poesiacompilada.com/blog/feed.xml#VivaomêsdeJunho!</guid>
-      <description>&lt;pre&gt;&lt;code&gt;| paint as normal with &amp;lt; and &amp;gt; as tag html and head and body and title and br as code / as tag
+      <guid>http://poesiacompilada.com/blog/feed.xml#Computaçãoécomonaviopirata,sótemhomemecanhão!</guid>
+      <description>&lt;p&gt;&lt;img src="img/posts/deleteseupreconceito.png" alt="Delete Seu Preconceito"&gt;&lt;/p&gt;
 
-&amp;lt;html&amp;gt;
-&amp;lt;head&amp;gt; &amp;lt;title&amp;gt; E viva o mês de Junho! &amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt;
-&amp;lt;body&amp;gt;
+&lt;blockquote&gt;
+&lt;p&gt;Logo do Delete seu Preconceito, por: Jean Carlos Oliveira Santos&lt;/p&gt;
+&lt;/blockquote&gt;
 
-| paint as tag with p as code
-&amp;lt;p&amp;gt;
-| paint as class with &amp;lt; and &amp;gt; as tag br as code / and == and , and . as tag
+&lt;p&gt;Estava na minha página pelo ‘face’ quando vi que uma das minhas amigas tinha compartilhado um álbum de um projeto fotográfico que denuncia o preconceito que mulheres estudantes e profissionais das áreas de Computação e Tecnologias sofrem em seu cotidiano. Então não pensei duas vezes e comecei logo a pesquisar sobre aquela ideia fantástica e descobri que se chamava “Delete seu preconceito”. Por meio da mesma rede social consegui entrar em contato com a Prof. da UFMT e idealizadora do Projeto, a Karen Figueiredo, e perguntei se poderíamos conversar um pouco sobre a ideia do projeto e dicas até sobre eventos da área tecnológica pela UFMT. De imediato a Karen disse que sim e então, pedi que ela me passasse o contato de alguma das meninas que fazem parte do projeto e que resolveram publicar as frases que já escutaram. Com isso, junto com a Karen tive a oportunidade de conversar com a Glauce, uma aluna da Especialização em Engenharia Web e Governo Eletrônico na UFMT, que já ouviu a polêmica frase (título deste post) que anda circulando por várias páginas na net e com a Stephanie, aluna de Sistemas de Informação na UFMT. A seguir, um pouco da nossa conversa.&lt;/p&gt;
 
-Junho ==  pamonha, canjica, milho assado, &amp;lt;br/&amp;gt;
-          cozinhado, bolo de milho, &amp;lt;br/&amp;gt;
-          fogueira de Santo Antonio, &amp;lt;br/&amp;gt;
-          São João e São Pedro, &amp;lt;br/&amp;gt;
-          quadrilha junina, foguinhos &amp;lt;br/&amp;gt;
-          familia reunida &amp;lt;br/&amp;gt;
-          e muito forró &amp;lt;br/&amp;gt;
-          pé de serra.&amp;lt;br/&amp;gt;
+&lt;p&gt;&lt;strong&gt;Poesia Compilada&lt;/strong&gt;: Karen, por que ser uma professora, enquanto você poderia trabalhar em um empresa ou desenvolver produtos sem estar necessariamente em sala de aula?&lt;/p&gt;
 
-| paint as tag with p as code
-&amp;lt;/p&amp;gt;
-| paint as normal with &amp;lt; and &amp;gt; as tag html and head and body and title and br as code / as tag
+&lt;p&gt;&lt;strong&gt;Karen&lt;/strong&gt;: Assim que terminei a graduação tinha a ideia de buscar por um emprego “seguro” e iniciei uma jornada de concursos enquanto descobria o cenário acadêmico fazendo o mestrado, que até então era um completo mistério para mim. Conforme o tempo foi passando, fui me apaixonando pela pós-graduação e deixando de lado as convocações que começavam a chegar para cargos de analista em órgãos públicos, sempre com a desculpa de fazer um concurso melhor depois e terminar o mestrado primeiro. Quando eu finalmente terminei o mestrado, já estava no primeiro semestre do doutorado, e recusei a convocação para um concurso do SERPRO, foi que a ficha caiu. Eu estava fazendo os concursos errados. O bicho acadêmico já tinha me mordido, rs. Eu queria poder ensinar tudo o que eu estava aprendendo, passar adiante a paixão pela Computação e continuar a fazer pesquisa científica. Eu precisava ser professora. Fiz o primeiro concurso que apareceu para a minha área (Engenharia de Software), para um estado a 3 mil quilômetros de distância de onde eu morava, deixando família e até antigo doutorado para trás, e foi assim que eu passei a fazer parte da UFMT.&lt;/p&gt;
 
-&amp;lt;/body&amp;gt;
+&lt;p&gt;&lt;strong&gt;Poesia Compilada&lt;/strong&gt;: Já ouvi de várias pessoas que para entrar para a área da computação você precisa ser muito bom em Matemática, mas até que ponto seria esse ‘bom’?&lt;/p&gt;
 
-&amp;lt;/html&amp;gt;
+&lt;p&gt;&lt;strong&gt;Karen&lt;/strong&gt;: Essa pergunta é difícil de responder. Nem todas as áreas da Computação vão utilizar conceitos de Matemática tão avançados na prática posteriormente, entretanto é impossível passar por um curso de graduação de Computação ou correlatas sem cursar alguma(s) disciplinas de Matemática. Então, para um aluno de computação ou alguém que pretende estudar computação, é algo que você mesmo se não gostar ou for “bom” tem de estar disposto a encarar. Estudar é investir e persistir. Não se sair bem todas as vezes é normal e até saudável para aprender a mudar estratégias de aprendizagem e buscar novas fontes de informações. Sobre a aplicabilidade da Matemática na Computação, eu diria que a Computação é uma área com espaço para todos os gostos. E hoje, mais do que nunca é uma ciência extremamente interdisciplinar (veja que o tema do CSBC de 2016 será exatamente esse: &amp;lt;&lt;a href="http://ww1.inf.pucrs.br/"&gt;http://ww1.inf.pucrs.br/&lt;/a&gt;&amp;gt;. Pode ter muita matemática e física, mas também psicologia, linguística etc.&lt;/p&gt;
 
-| paint as comment with S.R. as code [ and ] as tag
+&lt;p&gt;&lt;strong&gt;Poesia Compilada&lt;/strong&gt;: De onde veio a ideia de criar o “Delete o seu preconceito”?&lt;/p&gt;
 
-// poesia compilada
-// [S.R.]
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Karen&lt;/strong&gt; : A ideia do projeto foi inspirada no projeto ‘Ah, Branco, dá um tempo! ‘que por sua vez é inspirado no projeto ‘I too am Havard’. Eu já trabalhava com pesquisa de Gênero e Tecnologia na Universidade e como eu mesma vivi algumas situações de preconceito e ouvia relatos de alunas como professora, resolvi que seria uma forma bacana de dar voz a esta problemática. Resolvi adaptar os cartazes para dispositivos digitais e tentar incorporar a ideia de linguagem mista (natural e codificada) nas frases. A parte mais difícil foi conseguir que as meninas quisessem participar, pois apesar de virem relatar as situações preconceituosas para mim, muitas não tiveram coragem de tirar a foto ou desistiam no dia da foto. Algumas alegavam medo de que a frase fosse reconhecida pela pessoa que a proferiu e tinham receio de ataque.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Poesia Compilada&lt;/strong&gt;: Acredito que uma das perguntas mais frequentes e que não podemos deixar de fazer é:  você sofreu algum preconceito quando estava se graduando?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Karen&lt;/strong&gt;: Não. Eu não sofri preconceito enquanto me graduava ou fazia cursos de pós-graduação. Mas esse é o meu cenário. Todos os meus relatos de situações preconceituosas são provenientes de algumas experiências de trabalho e principalmente de pessoas desconhecidas.
+Durante os meus estudos, o que aconteceu foi que eu era praticamente a única mulher da classe. Na graduação, de uma turma de 40 alunos, no último semestre só restavam eu e mais uma colega menina (não me lembro quantas meninas ingressaram) e somente eu me formei naquela turma (esta colega até concluiu o curso posteriormente). No mestrado e doutorado, o cenário era praticamente o mesmo, algumas disciplinas com 5 mulheres, mas outras com nenhuma além de mim. A falta de mulheres em sala também é ruim, pois faz a gente se sentir muito só. Faz nós mesmas questionarmos as nossas capacidades e traz a tona a carga de esteriótipos culturais que carregamos da sociedade. É preciso ter força para lidar com isso, se afirmar capaz e seguir em frente.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Poesia Compilada&lt;/strong&gt;: Eu escrevo poesias, e gosto sempre de implantar na &lt;a href="http://poesiacompilada.com"&gt;poesiacompilada.com&lt;/a&gt; algum questionamento. Então, de onde surgiu esta forma tão expressiva, poética e provocadora de publicar fotos com frases nas redes sociais?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Karen&lt;/strong&gt;: Fico até comovida com a definição! Mas não consigo analisar tanto assim. A ideia simplesmente surgiu e tentei colocar em prática. Gosto de tirar fotos nas horas vagas, porém nunca estudei nada relacionado a fotografia ou tenho câmera profissional. Então, o próprio fato de chamar de projeto fotográfico eu considero completamente pretensioso da minha parte, artisticamente falando, (risos). O objetivo sempre foi passar a mensagem e tentar criar essa consciência social com relação a um problema que vivemos no cotidiano. Só isso, (risos).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Poesia Compilada&lt;/strong&gt;: Vocês poderiam deixar algumas dicas de livros(técnicos ou não), sites para aprender a programar, eventos que irão acontecer pela UFMT/ região, ou alguma outra ideia que queiram acrescentar?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Karen&lt;/strong&gt;: Como professora, acredito fortemente nas ações que incentivam a disseminação da computação para crianças e jovens (sejam meninas ou meninos). Uma forma bacana de começar a trabalhar com esse público, principalmente pra quem quer por a mão na massa e não tem recursos é o Computer Science Unplugged, que aborda diversos temas da computação para várias faixas etárias sem utilizar dispositivos eletrônicos (completamente desconectado). Então essa é a minha dica para espalhar amor e computação por aí! (risos).
+Sobre a UFMT, gostaria de divulgar o nosso projeto &lt;a href="https://www.facebook.com/MeninasDigitaisMT"&gt;Meninas Digitais Regional Mato Grosso&lt;/a&gt; que tem como objetivo a realização de práticas de caráter motivacional e informativo com alunas de Ensino Médio no estado de Mato Grosso visando a equidade de gênero nas carreiras e cursos das áreas de Computação e Tecnologias da região através do incentivo e promoção da participação feminina.&lt;/p&gt;
+
+&lt;p&gt;Em novembro, vamos realizar a &lt;a href="http://erimt2015.ic.ufmt.br/"&gt;Escola Regional de Informática na UFMT&lt;/a&gt; e nela vai acontecer uma Mostra de Arte Digital. As submissões estão abertas até setembro para diversas modalidades, desde ilustrações até trabalhos de robótica artística. Apesar do evento ser em Cuiabá/MT, qualquer pessoa pode participar e mesmo que não possa comparecer, podemos expor o seu trabalho, desde que combinado com a organização do evento.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="img/posts/navpirata.jpg" alt="Navio Pirata"&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Poesia Compilada&lt;/strong&gt;: E você, Glauce, como começou a participar do ‘Delete o seu preconceito’?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Glauce&lt;/strong&gt;: Sou aluna da Especialização em Engenharia Web e Governo Eletrônico na UFMT e fui convidada a participar do projeto “Delete o seu preconceito” pela Karen, que tem desenvolvido junto à UFMT várias ações para a inclusão das mulheres nos cursos de Computação e afins.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Poesia Compilada&lt;/strong&gt;: Eu já escutei ‘você só sabe fazer poesia e artigos, deixa a programação conosco(meninos)’, já achei muito agressivo e para me “vingar” fiz o poema ‘&amp;lt;&lt;a href="http://www.youtube.com/watch?v=eG3ZoOv_QU0"&gt;E daí se sou mulher e programo?&lt;/a&gt;&amp;gt;’. Quando você ouviu a frase ‘Computação é como navio pirata: só tem homem e canhão!’ como reagiu?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Glauce&lt;/strong&gt;: No campus é muito comum estudantes de vários cursos interagirem, promoverem festas juntos e participarem das festas dentro do campus. Nesta época, sentia que essa interação não acontecia naturalmente com as turmas da computação. Quando tentamos promover festas para arrecadar dinheiro para nosso baile de formatura, por exemplo, procurávamos alunos de outros cursos e ouvíamos frases desanimadoras, principalmente relacionados à má fama que tínhamos no campus, como se fôssemos todos “pessoas nerds e feias”, o que não atrairia a atenção de participantes. Acredito que foi nesse contexto que escutei a frase sobre o navio pirata. Era realmente muito desanimador ouvir estas coisas e, como era praticamente adolescente, não sabia lidar com a falta de aceitação no campus. Eu, que sempre amei exatas, passei a não me interessar tanto pelo curso e acredito que este preconceito também teve papel nisto.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Poesia Compilada&lt;/strong&gt;: Teve outras frases ou situações constrangedoras?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Glauce&lt;/strong&gt;: Sim, passei também por algumas situações de preconceito no mercado de trabalho. Uma vez, trabalhando com suporte técnico, me prontifiquei a atender um senhor e o mesmo me olhou de cima abaixo e perguntou para o meu chefe se eu daria conta. Me senti muito irada (por que ele sequer perguntou a mim), mas o atendi educadamente. É desanimador que a mulher muitas vezes tenha que provar sua competência com o resultado de seu trabalho, e isso infelizmente não se restringe à área de TI.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="img/posts/homemajuda.jpg" alt="Homem para ajudar"&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Stephanie, aluna de Sistemas da Informação da UFMT e participante do Delete seu preconceito&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Poesia Compilada&lt;/strong&gt;: E você, Stephanie,  como entrou para o “Delete seu preconceito”?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stephanie&lt;/strong&gt;: a professora Karen junto com a UFMT desenvolvem projetos relacionados a inclusão de mulheres na computação. Então, fui convidada pela professora para participar. Quando fui convidada para tirar a foto fiquei animada com ideia e não esperava toda essa repercussão. Algumas pessoas não acreditam que que existe esse preconceito com meninas na área de TI, acredito que seja porque seu círculo de amizade não é preconceituoso e isso é ótimo!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Poesia Compilada&lt;/strong&gt;: e esta frase ‘É melhor chamar um homem para te ajudar com isso’, surgiu em qual contexto?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stephanie&lt;/strong&gt;: escutei em um dia que estava desenvolvendo trabalhos da faculdade, minha reação foi levar na brincadeira, acredito que seja a melhor opção.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Poesia Compilada&lt;/strong&gt;: em algum momento já passou pela cabeça desistir do curso?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stephanie&lt;/strong&gt;: No começo eu já pensei em desistir do curso, por vários motivos, achava que não era pra mim. Hoje, tenho certeza que é isso que quero. Não trabalhei com  programação, mas pretendo.&lt;/p&gt;
+
+&lt;p&gt;[S.R.]&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Post Um</title>
-      <link>http://poesiacompilada.com/blog/feed.xml#Post-Um</link>
-      <pubDate>Fri, 05 Jun 2015 22:05:31 -0300</pubDate>
+      <title>O Jogo</title>
+      <link>http://poesiacompilada.com/blog/feed.xml#OJogo</link>
+      <pubDate>Sat, 16 May 2020 13:11:39 -0300</pubDate>
       <author>felipe</author>
-      <guid>http://poesiacompilada.com/blog/feed.xml#Post-Um</guid>
-      <description>&lt;p&gt;Bem vindos ao nosso blog! Poesia compilada, por ser um movimento, não se trata apenas de um site estático... e o movimento que precisamos virá deste blog.&lt;/p&gt;
+      <guid>http://poesiacompilada.com/blog/feed.xml#OJogo</guid>
+      <description>&lt;p&gt;Por esta você não esperava! Um jogo!&lt;/p&gt;
 
-&lt;p&gt;Aqui postaremos dos mais diversos assuntos, mas uma coisa é certa: &lt;em&gt;poesias não faltarão!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="../ojogo/anim/back0.png" alt="O Jogo - Poesia Compilada" title="Capa"&gt;&lt;/p&gt;
 
-&lt;p&gt;Também lhes digo que assuntos interessantes estarão sempre em pauta e vale a pena vir dar uma olhadinha aqui de vez em quando!&lt;/p&gt;
+&lt;p&gt;Jogue &lt;a href="http://poesiacompilada.com/ojogo/"&gt;aqui&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
